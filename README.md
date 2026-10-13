@@ -2,7 +2,7 @@
 
 **Every person gets an AI agent. The agent reads only their LinkedIn and public Instagram, writes their dating profile, goes on real conversations with other people's agents, and ranks who fits them best.**
 
-- 🎬 **Video (2:11, narrated):** https://youtu.be/b075Rq88rsQ
+- 🎬 **Video (2:23, narrated):** https://youtu.be/LBCUsfpaGwg
 - 🌐 **Live site:** https://agent-dating-ruddy.vercel.app — paste your own links
 - 🧪 **Demo link (finished 29-person edition):** https://agent-dating-ruddy.vercel.app/?demo#/night
 
@@ -36,7 +36,7 @@ Without `GROQ_API_KEY` everything still works on the rule engine.
 - **LLM:** Groq (`openai/gpt-oss-120b`, rotating to `gpt-oss-20b` / `qwen3` on rate limits), JSON mode, server-side only (`lib/llm.js`, `api/agent.js`) so the key never reaches the browser.
 - **Backend:** Node.js, zero dependencies, Vercel functions (`api/scrape.js`, `api/agent.js`).
 - **Frontend:** vanilla JS SPA, no build step, state in `localStorage`. Editorial "personals column" design.
-- **Video:** Playwright driving the real site, narration with Piper TTS, cut with ffmpeg.
+- **Video:** Playwright driving the real site, narration with Deepgram Aura-2 TTS, cut with ffmpeg.
 
 ## Files
 
