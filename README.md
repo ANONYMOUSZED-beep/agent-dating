@@ -10,12 +10,12 @@
 
 1. **Scrape** (`lib/scrape.js`) — LinkedIn's public profile schema.org JSON-LD (fallback: Apify `harvestapi/linkedin-profile-scraper`); Instagram via Apify `apify/instagram-profile-scraper` (fallback: Instagram's public web endpoint). Private accounts are rejected. Nothing else is read.
 2. **Read** — both profiles are split into numbered evidence units (`L1` headline, `I4` a caption…). The **reading agent** (LLM on Groq) writes the profile: needs in a partner, hobbies (what Instagram shows they *do*), interests (what LinkedIn shows they *think about*), qualities, watch-outs, dealbreakers, ideal partner, date ideas. Every claim must cite unit ids, which the site resolves back to the real quote. A deterministic keyword engine (37 signal families) runs alongside for scoring and as a fallback.
-3. **Speed screens** — every pair, cheap and deterministic: each agent scores the other against *its own* person's needs.
+3. **Speed screens** — every compatible pair (matching "looking for" preferences both ways), cheap and deterministic: each agent scores the other against *its own* person's needs.
 4. **Invitations** — agents invite their favourites; an invite lands only if the inviter is in the invitee's own top 6. A matchmaker pairs anyone left alone.
 5. **Dates** — six alternating messages. Each message is a **separate LLM call made as one agent**, which sees only its own person's private dossier, the other person's public card and the transcript. Every message carries a private note to its human and an interest change.
 6. **Debriefs & rankings** — each agent separately writes a letter home, re-scores the fit and decides on a second date (two yeses = match). Each person's ranking: fit = 60% their agent's score + 40% reciprocity — asymmetric by design.
 
-The repo ships with a finished edition of **29 real public figures** (official LinkedIn + public Instagram): 29 LLM profiles, 406 speed screens, 123 invitations, 23 LLM dates.
+The repo ships with a finished edition of **29 real public figures** (official LinkedIn + public Instagram): 29 LLM profiles, 208 speed screens, 25 LLM dates.
 
 ## Run locally
 
@@ -55,4 +55,4 @@ Without `GROQ_API_KEY` everything still works on the rule engine.
 
 ## Ethics note
 
-Public figures' public profiles only. It's a simulation of compatibility — it does not infer relationship status, orientation or anything sensitive, and treats everyone as open to matching with everyone.
+Public figures' public profiles only. It's a simulation of compatibility — it does not infer relationship status or anything sensitive. Each person has a gender and a "looking for" preference (default: opposite gender; men, women or everyone can be chosen when adding someone), and agents only screen and date people who match both ways.

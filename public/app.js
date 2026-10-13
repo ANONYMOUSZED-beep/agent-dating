@@ -1,9 +1,9 @@
 import { analyzePerson, corpus, fmtNum } from './engine/analyze.js';
-import { runDatingNight, rankAll } from './engine/date.js';
+import { runDatingNight, rankAll, canMatch } from './engine/date.js';
 import { llmDate } from './engine/llmdate.js';
 import { SIGNALS } from './engine/taxonomy.js';
 
-const KEY = 'agent-personals-v3';
+const KEY = 'agent-personals-v4';
 const $ = s => document.querySelector(s);
 const app = $('#app'), modal = $('#modal');
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -77,6 +77,8 @@ function renderHome() {
       <h2 style="margin-bottom:4px">Create an agent</h2><div class="small mute">Two links. Nothing else is read.</div>
       <label for="li">LinkedIn profile URL</label><input id="li" placeholder="https://www.linkedin.com/in/…" autocomplete="off" />
       <label for="ig">Instagram profile URL (public)</label><input id="ig" placeholder="https://www.instagram.com/…" autocomplete="off" />
+      <div class="row" style="gap:14px"><div class="sp"><label for="gd">This person is</label><select id="gd"><option value="">Detect from profile</option><option value="m">A man</option><option value="f">A woman</option></select></div>
+      <div class="sp"><label for="sk">Looking for</label><select id="sk"><option value="">Opposite gender</option><option value="m">Men</option><option value="f">Women</option><option value="m,f">Everyone</option></select></div></div>
       <div class="row" style="margin-top:16px"><button class="btn red" id="add">Read this person</button><button class="btn sm" id="bulkT">Paste many</button></div>
       <div id="bulkBox" style="display:none;margin-top:10px"><textarea id="bulk" rows="5" placeholder="One person per line: <linkedin url> <instagram url>"></textarea><button class="btn sm" id="bulkGo" style="margin-top:8px">Add all</button></div>
       <div class="err" id="err"></div>
@@ -86,7 +88,7 @@ function renderHome() {
   <div class="ads">${ps.map(p => { const v = V(p); return `
     <a class="ad" href="#/p/${p.id}">${p.photo ? `<img class="ph" src="${esc(p.photo)}" alt="">` : ''}<div class="nm">${esc(p.name)}</div><div class="tg">${esc(v.tagline)}</div>
     <div class="seeks"><b>Seeks</b> ${esc((v.needs[0]?.label || '').toLowerCase())}${v.needs[1] ? '; ' + esc(v.needs[1].label.toLowerCase()) : ''}.</div></a>`; }).join('')}</div>`;
-  $('#add').onclick = () => addPerson($('#li').value, $('#ig').value);
+  $('#add').onclick = () => addPerson($('#li').value, $('#ig').value, { gender: $('#gd').value, seeks: $('#sk').value });
   $('#bulkT').onclick = () => { const b = $('#bulkBox'); b.style.display = b.style.display === 'none' ? 'block' : 'none'; };
   $('#bulkGo').onclick = async () => {
     const lines = $('#bulk').value.split('\n').map(l => l.trim()).filter(Boolean);
@@ -97,7 +99,7 @@ function renderHome() {
 }
 
 // ---------------- add a person: scrape -> read -> profile ----------------
-async function addPerson(li, ig, { bulk = false } = {}) {
+async function addPerson(li, ig, { bulk = false, gender = '', seeks = '' } = {}) {
   const err = $('#err'); if (err) err.textContent = '';
   if (!/linkedin\.com\/in\//i.test(li) || !/instagram\.com\/|^@?[\w.]+$/i.test(ig.trim())) { if (err) err.textContent = 'Paste a LinkedIn profile URL (linkedin.com/in/…) and an Instagram profile URL.'; return; }
   openModal(`<h3>Agent at work</h3><h2>Reading a new person</h2><div id="steps"></div><div class="scan" id="scan" style="display:none"></div><div class="counters" id="counters"></div><div id="mfoot" style="margin-top:16px"></div>`);
@@ -115,6 +117,7 @@ async function addPerson(li, ig, { bulk = false } = {}) {
   const s3 = step(`The reading agent (LLM on Groq) is writing ${esc(p.first)}'s profile from those units, citing each one…`);
   try { p.llm = await callAgent('profile', { raw, hints: { signals: [...p.hobbies, ...p.interests].map(x => x.label).join(', ') } }); s3.done(`<b>“${esc(p.llm.tagline)}”</b> — needs: ${p.llm.needs.slice(0, 3).map(n => esc(n.label.toLowerCase())).join('; ')} <span class="badge b-ai">${esc(p.llm.model)}</span>`); }
   catch (e) { s3.done(`LLM unavailable (${esc(e.message)}) — using the keyword engine's profile: <b>${esc(p.archetype)}</b>`, true); }
+  p.gender = gender || p.llm?.gender || null; if (seeks) p.seeks = seeks.split(',');
   S.speed = S.speed.filter(d => d.a !== p.id && d.b !== p.id); S.dates = S.dates.filter(d => d.a !== p.id && d.b !== p.id); S.invites = S.invites.filter(i => i.from !== p.id && i.to !== p.id);
   S.people[p.id] = p; if (!S.order.includes(p.id)) S.order.unshift(p.id); S.demo = false;
   S.rankings = rankAll(pool(), S.speed, S.dates); save();
@@ -189,12 +192,12 @@ function renderNight(focusId) {
   const focus = focusId && P(focusId);
   const ps = pool(), n = ps.length;
   app.innerHTML = `
-  <div class="row" style="margin-bottom:18px;align-items:flex-end"><div><h3>${focus ? 'Special edition' : "Tonight's programme"}</h3><h1 style="margin:0">${focus ? `${esc(focus.first)}'s agent goes out` : 'Dating night'}</h1><div class="mute">${focus ? `Speed-dates all ${n - 1} agents, sends invitations, then goes on real conversations — every line generated live, one agent at a time.` : `${n} agents. Every pair speed-dates, agents send invitations, accepted invitations become full conversations.`}</div></div><span class="sp"></span>
+  <div class="row" style="margin-bottom:18px;align-items:flex-end"><div><h3>${focus ? 'Special edition' : "Tonight's programme"}</h3><h1 style="margin:0">${focus ? `${esc(focus.first)}'s agent goes out` : 'Dating night'}</h1><div class="mute">${focus ? `Speed-dates all ${n - 1} agents, sends invitations, then goes on real conversations — every line generated live, one agent at a time.` : `${n} agents. Every compatible pair (by who each person is looking for) speed-dates, agents send invitations, accepted invitations become full conversations.`}</div></div><span class="sp"></span>
   <button class="btn ${focus ? 'red' : 'pri'}" id="run">${focus ? `Start ${esc(focus.first)}'s night` : S.nightRun ? 'Replay the night' : 'Start dating night'}</button></div>
   <div class="cols3">
     <div><div class="round" id="r1"><span class="n">I.</span><b>Speed dates</b><span class="sp"></span><span class="mute small num" id="c1"></span></div>
-      <div class="matrix" id="mx" style="grid-template-columns:repeat(${n},1fr)">${ps.map(a => ps.map(b => `<i data-k="${a.id}|${b.id}" title="${esc(a.first)} → ${esc(b.first)}"></i>`).join('')).join('')}</div>
-      <div class="small mute" style="margin-top:8px">Row agent's score of the column person after a 90-second screen. Darker red = keener.</div></div>
+      <div class="matrix" id="mx" style="grid-template-columns:repeat(${n},1fr)">${ps.map(a => ps.map(b => `<i data-k="${a.id}|${b.id}" class="${canMatch(a, b) ? '' : 'x'}" title="${esc(a.first)} → ${esc(b.first)}"></i>`).join('')).join('')}</div>
+      <div class="small mute" style="margin-top:8px">Row agent's score of the column person after a 90-second screen. Darker red = keener; hatched = not who they're looking for.</div></div>
     <div><div class="round" id="r2"><span class="n">II.</span><b>Invitations</b><span class="sp"></span><span class="mute small num" id="c2"></span></div><div class="feed" id="feed"></div></div>
     <div><div class="round" id="r3"><span class="n">III.</span><b>Dates</b><span class="sp"></span><span class="mute small num" id="c3"></span></div><div id="dl" style="max-height:380px;overflow:auto"></div></div>
   </div>
@@ -221,7 +224,7 @@ async function runNight(focusId) {
   const prev = Object.fromEntries(S.dates.filter(d => d.llm).map(d => [[d.a, d.b].sort().join('|'), d]));
   if (focusId) { S.speed = S.speed.filter(d => d.a !== focusId && d.b !== focusId); S.dates = S.dates.filter(d => d.a !== focusId && d.b !== focusId); S.invites = S.invites.filter(i => i.from !== focusId && i.to !== focusId); }
   else { S.speed = []; S.dates = []; S.invites = []; document.querySelectorAll('#mx i').forEach(i => i.style.background = ''); }
-  const total = focusId ? ps.length - 1 : ps.length * (ps.length - 1) / 2; let k = 0, inv = 0, acc = 0, nd = 0;
+  const total = focusId ? ps.filter(x => canMatch(P(focusId), x)).length : ps.reduce((n, a, i) => n + ps.slice(i + 1).filter(b => canMatch(a, b)).length, 0); let k = 0, inv = 0, acc = 0, nd = 0;
   $('#r1').classList.add('on');
   const feed = $('#feed'), dl = $('#dl'), queue = [];
   for (const e of runDatingNight(ps, { focusId, invites: focusId ? 2 : 1 })) {
@@ -316,7 +319,7 @@ function renderHow() {
   <div class="cols how">
   <div class="c6 sec"><h3><span class="no" style="color:var(--red)">01</span> Scraping — only two sources</h3><ul class="clean"><li><b>LinkedIn:</b> the public profile's schema.org JSON-LD (headline, about, roles, education, awards). Falls back to the Apify actor <code>harvestapi/linkedin-profile-scraper</code> when LinkedIn walls the server.</li><li><b>Instagram:</b> Apify <code>apify/instagram-profile-scraper</code> (bio, followers, latest posts with captions, hashtags, locations), with Instagram's public web endpoint as fallback. Private accounts are rejected.</li><li>No web search, no third-party bios.</li></ul></div>
   <div class="c6 sec"><h3><span class="no" style="color:var(--red)">02</span> The reading agent</h3><ul class="clean"><li>Both profiles become numbered evidence units (<code>L1</code> headline, <code>I4</code> an Instagram caption…).</li><li>An LLM on Groq (<code>gpt-oss-120b</code>, rotating to <code>gpt-oss-20b</code> / <code>qwen3</code> under rate limits) writes needs, hobbies, interests, qualities, watch-outs and dealbreakers — every claim must cite unit ids, which the site resolves back to the quote.</li><li>A deterministic keyword engine (${SIGNALS.length} signal families) runs alongside: it scores traits/lifestyle for fast screening and is the fallback if the LLM is unavailable.</li></ul></div>
-  <div class="c6 sec"><h3><span class="no" style="color:var(--red)">03–05</span> The agents date</h3><ul class="clean"><li><b>Speed screens:</b> every pair (n² cheap, deterministic) — each agent scores the other against its own person's needs.</li><li><b>Invitations:</b> agents invite their favourites; an invite is accepted only if the inviter is in the invitee's own top 6 — rejection is real. A matchmaker pairs anyone left alone.</li><li><b>Dates:</b> six messages, alternating. Each message is a <i>separate</i> LLM call made as one agent, which sees only its own person's private dossier, the other person's public card and the transcript. Every message carries a private note and an interest change.</li></ul></div>
+  <div class="c6 sec"><h3><span class="no" style="color:var(--red)">03–05</span> The agents date</h3><ul class="clean"><li><b>Speed screens:</b> every compatible pair — each person has a gender and a “looking for” preference (default: opposite gender), and both sides must match — each agent scores the other against its own person's needs.</li><li><b>Invitations:</b> agents invite their favourites; an invite is accepted only if the inviter is in the invitee's own top 6 — rejection is real. A matchmaker pairs anyone left alone.</li><li><b>Dates:</b> six messages, alternating. Each message is a <i>separate</i> LLM call made as one agent, which sees only its own person's private dossier, the other person's public card and the transcript. Every message carries a private note and an interest change.</li></ul></div>
   <div class="c6 sec"><h3><span class="no" style="color:var(--red)">06</span> Debriefs & rankings</h3><ul class="clean"><li>After the date each agent, separately, writes a letter to its person, re-scores the fit and decides on a second date. Two yeses = a match.</li><li>Every person gets a full ranking: fit = 60% their agent's score + 40% reciprocity. Rankings are asymmetric — A can rank B first while B ranks A fifth.</li></ul></div>
   <div class="c12 sec"><h3>Try it</h3>Paste any LinkedIn + public Instagram on <a href="#/" style="border-bottom:1px solid">the pool</a> page. The new agent reads them, joins the pool, screens all ${pool().length - 1} others, goes on live dates and gets its own ranking.</div>
   </div>`;

@@ -24,6 +24,7 @@ h3,.kicker{font:600 11px/1.4 var(--sans);letter-spacing:.14em;text-transform:upp
 .btn{display:inline-flex;align-items:center;gap:8px;border-radius:6px;padding:10px 16px;font-weight:600;font-size:14px;background:transparent;border:1px solid var(--ink);color:var(--ink);transition:background .15s}
 .btn:hover{background:var(--rule2)}.btn.pri{background:var(--ink);color:var(--paper)}.btn.pri:hover{background:#000}
 .btn.red{background:var(--red);border-color:var(--red);color:#fff}.btn.sm{padding:5px 10px;font-size:12.5px}.btn:disabled{opacity:.45;cursor:default}
+select{width:100%;background:#fff;border:1px solid var(--rule);color:var(--ink);border-radius:6px;padding:10px 10px;font:14px var(--sans)}
 input,textarea{width:100%;background:#fff;border:1px solid var(--rule);color:var(--ink);border-radius:6px;padding:11px 12px;font:14px var(--sans);outline:none}
 input:focus,textarea:focus{border-color:var(--ink)}
 .err{color:var(--red);font-size:13px;margin-top:8px;white-space:pre-wrap}
@@ -72,7 +73,7 @@ mark{background:var(--red-bg);color:var(--ink);padding:0 2px}
 .cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;border-top:1px solid var(--ink)}
 .cols3>div{padding:16px 20px 0;border-right:1px solid var(--rule)}.cols3>div:first-child{padding-left:0}.cols3>div:last-child{border-right:0;padding-right:0}
 .round{display:flex;gap:10px;align-items:baseline;margin-bottom:12px}.round .n{font:28px var(--serif);color:var(--rule)}.round.on .n,.round.done .n{color:var(--red)}.round b{font:20px var(--serif);font-weight:400}
-.matrix{display:grid;gap:1px;background:var(--rule2);border:1px solid var(--rule2)}.matrix i{display:block;aspect-ratio:1;background:var(--card);transition:background .3s}
+.matrix{display:grid;gap:1px;background:var(--rule2);border:1px solid var(--rule2)}.matrix i{display:block;aspect-ratio:1;background:var(--card);transition:background .3s}.matrix i.x{background:repeating-linear-gradient(45deg,var(--rule2) 0 2px,var(--paper) 2px 5px)!important}
 .feed{height:360px;overflow:hidden;font-size:13px;display:flex;flex-direction:column;gap:0;mask-image:linear-gradient(to bottom,#000 75%,transparent)}
 .feed div{padding:7px 0;border-bottom:1px solid var(--rule2);animation:pop .25s}
 @keyframes pop{from{opacity:0;transform:translateY(-4px)}}

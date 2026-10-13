@@ -43,6 +43,12 @@ const NEED_SAT = {
 const GENERIC = new Set(['entrepreneurship', 'marketing', 'leadership', 'writing', 'selfgrowth']);
 
 // ---------- assessment: how well does B fit A's needs (from A's agent's point of view) ----------
+// Dating preferences: each person has a gender ('m'/'f') and who they're looking for (default: the opposite gender).
+export const seeks = p => p.seeks?.length ? p.seeks : p.gender === 'm' ? ['f'] : p.gender === 'f' ? ['m'] : ['m', 'f'];
+export function canMatch(A, B) {
+  const ok = (x, y) => !y.gender || seeks(x).includes(y.gender);
+  return A.id !== B.id && ok(A, B) && ok(B, A);
+}
 export function assess(A, B) {
   const needs = A.needs.map(n => ({ id: n.id, label: n.label, weight: n.weight, sat: clamp01(NEED_SAT[n.id](B)) }));
   const W = needs.reduce((a, n) => a + n.weight, 0) || 1;
@@ -236,6 +242,7 @@ export function* runDatingNight(pool, { invites = 3, focusId = null } = {}) {
   const byId = Object.fromEntries(pool.map(p => [p.id, p]));
   for (let i = 0; i < pool.length; i++) for (let j = i + 1; j < pool.length; j++) {
     if (focusId && pool[i].id !== focusId && pool[j].id !== focusId) continue;
+    if (!canMatch(pool[i], pool[j])) continue;
     const s = speedDate(pool[i], pool[j]); speed[`${s.a}|${s.b}`] = s;
     yield { type: 'speed', date: s };
   }
@@ -271,7 +278,7 @@ export function rankAll(pool, speedDates, fullDates) {
   for (const A of pool) {
     const rows = [];
     for (const B of pool) {
-      if (A.id === B.id) continue;
+      if (!canMatch(A, B)) continue;
       const f = get(F, A.id, B.id), s = get(S, A.id, B.id);
       if (!f && !s) continue;
       const [mine, theirs, d] = f || s;

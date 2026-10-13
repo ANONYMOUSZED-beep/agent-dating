@@ -10,11 +10,13 @@ const USE = hasLLM() && !process.argv.includes('--no-llm');
 const INV = +(process.argv[process.argv.indexOf('--invites') + 1] || 1) || 1;
 fs.mkdirSync('public/demo/img', { recursive: true }); fs.mkdirSync('data/llm/profiles', { recursive: true }); fs.mkdirSync('data/llm/dates', { recursive: true });
 let tokens = 0;
+const WOMEN = new Set(['amy-porterfield', 'arianna-huffington', 'barbara-corcoran', 'brene-brown', 'codie-a-sanchez', 'emma-grede', 'jamie-kern-lima', 'kara-goldin', 'marie-forleo', 'mel-robbins', 'randi-zuckerberg', 'sophia-amoruso', 'vanessa-van-edwards']);
 async function pmap(items, n, fn) { const out = []; let i = 0; await Promise.all(Array.from({ length: n }, async () => { while (i < items.length) { const k = i++; out[k] = await fn(items[k], k); } })); return out; }
 
 const raws = fs.readdirSync('data/people').map(f => JSON.parse(fs.readFileSync('data/people/' + f)));
 const people = await pmap(raws, 3, async raw => {
   const p = analyzePerson(raw);
+  p.gender = WOMEN.has(p.id) ? 'f' : 'm';
   const img = `public/demo/img/${p.id}.jpg`;
   if (!fs.existsSync(img)) for (const u of [raw.linkedin.photo, raw.instagram.photo].filter(Boolean)) { try { const r = await fetch(u); if (r.ok) { fs.writeFileSync(img, Buffer.from(await r.arrayBuffer())); break; } } catch {} }
   if (fs.existsSync(img)) p.photo = `demo/img/${p.id}.jpg`;
