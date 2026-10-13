@@ -18,7 +18,7 @@ async function loadDemo() {
 function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch { /* quota — keep in memory */ } }
 async function init() {
   try { S = JSON.parse(localStorage.getItem(KEY)); } catch { S = null; }
-  if (!S || !S.order?.length) await loadDemo();
+  if (!S || !S.order?.length || new URLSearchParams(location.search).has('demo')) await loadDemo();
   window.addEventListener('hashchange', route); route();
 }
 const P = id => S.people[id];

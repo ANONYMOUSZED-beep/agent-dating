@@ -6,6 +6,10 @@
 - The agent joins the pool and **dates**: speed dates with every agent → sends invitations (which can be declined) → full multi-turn dates with private reasoning → a debrief letter to its person and a second-date decision.
 - **Rankings**: for every person, every other person ranked by fit.
 
+- 🎬 **Video (2:23):** https://youtu.be/Y2wOw5lnvaI
+- 🌐 **Live site:** https://agent-dating-ruddy.vercel.app — paste your own links
+- 🧪 **Demo link (finished 29-person example):** https://agent-dating-ruddy.vercel.app/?demo#/night
+
 The repo ships with a finished example of **29 real people** (public figures with an official LinkedIn and a public Instagram), already scraped and run.
 
 ## How it works
