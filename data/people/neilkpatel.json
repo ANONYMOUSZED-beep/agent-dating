@@ -1,0 +1,214 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/neilkpatel",
+  "name": "Neil Patel",
+  "headline": "Co-Founder at Neil Patel Digital",
+  "about": "I am a New York Times bestselling author. The Wall Street Journal calls me a top influencer on the web, Forbes says I am one of the top 10 marketers, and Entrepreneur Magazine says I created one of the 100 most brilliant companies. I was recognized as a top 100 entrepreneur under the age of 30 by President Obama and a top 100 entrepreneur under the age of 35 by the United Nations.\n\nI've helped Amazon, Microsoft, Airbnb, Google, Thomson Reuters, Viacom, NBC, Intuit, Zappos, American Greetings, General Motors, and SalesForce grow through marketing.\n\nMy marketing blog generates over 4 million visitors per month (51% of them spend money on paid ads), my Marketing School podcast generates over 1 million listens per month, my YouTube channel about marketing has over 78 million views and 2.2 million subscribers, I have 1.1 million Facebook fans, and 475k Twitter followers.\n\nI've spoken at over 310 conferences and companies around the world. From speaking at Facebook and Thomson Reuters to every major growth marketing conference, I'm available and interested in speaking at events worldwide.\n\nFor speaking opportunities, collaborations, events, and business development, please email Marina at mtampieri@npdigital.com",
+  "location": "Los Angeles, California, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/C5103AQFihp1Vzz6oCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516255378233?e=2147483647&v=beta&t=VOYlSZuJX9iEAlmLtICk29Lw_D_ehBvoDuS6ltkWOVA",
+  "jobTitles": [
+   "Co-Founder"
+  ],
+  "positions": [
+   {
+    "company": "Neil Patel Digital",
+    "title": "",
+    "description": "Growing companies through innovative digital strategies.",
+    "start": "2017-10",
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "California State University, Fullerton",
+    "description": ""
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "followers": 833315,
+  "posts": [
+   "How Large Enterprises Are Turning to Payments to Drive Revenue, Loyalty, and Brand Affinity",
+   "The Future of Content Marketing: It’s Not What You Think",
+   "How to Find New Customers Using These 9 Google Analytics Reports",
+   "SEO Cheat Sheet: Steal Your Competitor’s Rankings, Traffic, and Leads",
+   "Show, Don’t Tell: The Surprising Secret to Creating Content that Finally Converts",
+   "How to Increase Your Traffic Through Content Translation",
+   "What the SERPs Will Look Like in 2018",
+   "An Inside Look at the Best SEO Strategy You’re Not Using: Second-Tier Link Building",
+   "How to Use Twitter’s Advanced Search to Drive 100% More Leads",
+   "3 Ways to Use How-To Videos to Sell More"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/neilpatel/",
+  "username": "neilpatel",
+  "fullName": "Neil Patel",
+  "bio": "New York Times bestselling author 📚\nTop 100 entrepreneur under 30 by Obama 💯\nTop 10 marketer by Forbes 🔑\nCo-founder of @npdigitalglobal 📈",
+  "category": "Public figure",
+  "externalUrl": "http://npdigital.com/",
+  "followers": 678409,
+  "following": 127,
+  "postsCount": 3204,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/275584649_261525982832819_4647575332436781063_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NzguYzIifQ&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFiqSrewGBf-3xRmMCrP2BIC7Y-pupqBspn-eb876huxgZqRO6bFfsIl2x_OFTdVhQ&_nc_ohc=XvJcNzr6SQYQ7kNvwFR1R4C&_nc_gid=lq9FcLTr9yihAI9gI2Yfcw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNqLkmhbgSp6tRxkpYzdN_4dXjtdqW9Z9u7i_LpjYVTCQ&oe=6AD39FCD&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "Here's how companies use Google Ads differently based on company size.\n\nThe big difference is that larger companies optimize for LTV, while smaller ones tend to optimize more for eyeballs.",
+    "hashtags": [],
+    "likes": 41,
+    "comments": 7,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-12T22:00:12.000Z",
+    "url": "https://www.instagram.com/p/DeaQYwxiAun/"
+   },
+   {
+    "caption": "Your customers don’t care about your five-step process. They care about being up and running by Friday. Give them a date and they’ll buy it. AI has made it easier than ever to deliver results, but most business owners still get lost explaining how they work. Let tools like our partners at HighLevel handle the process. Your job is to sell the destination.\n\n#SmallBusiness #SalesTips #AIMarketing #HighLevel #NeilPatel",
+    "hashtags": [
+     "SmallBusiness",
+     "SalesTips",
+     "AIMarketing",
+     "HighLevel",
+     "NeilPatel"
+    ],
+    "likes": 228,
+    "comments": 9,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-12T18:07:55.000Z",
+    "url": "https://www.instagram.com/p/DeZ1uLSiev8/"
+   },
+   {
+    "caption": "That tough question a client asked you last month? That's your next piece of content. AI handles the easy questions from memory and moves on. The specific ones, tied to a real industry, company size and situation, push it past what it knows. That's when it starts pulling from sources. Your experience is the part AI doesn't already have.\n\n#ContentMarketing #AISearch #SEO #MarketingTips",
+    "hashtags": [
+     "ContentMarketing",
+     "AISearch",
+     "SEO",
+     "MarketingTips"
+    ],
+    "likes": 70,
+    "comments": 11,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-12T12:07:07.000Z",
+    "url": "https://www.instagram.com/p/DeZMaHyDg1u/"
+   },
+   {
+    "caption": "Want to know the biggest growth lever in Google Ads?\n\nFunny enough, it has nothing to do with the Google advertising platform.\n\nIn today's world, most marketers see it as being creative and first-party data.\n\nCheck out the results.",
+    "hashtags": [],
+    "likes": 95,
+    "comments": 6,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-11T22:00:04.000Z",
+    "url": "https://www.instagram.com/p/DeXrlvQCLI8/"
+   },
+   {
+    "caption": "On the 14th of August, ChatGPT quietly updated how it responds to queries.\n\nFor a year, everyone in my industry, including me, told you to go and get mentioned on Reddit, post on YouTube and social media.\n\nBut a firm called Petra Labs that tracks every link ChatGPT cites found something new.\n\nIn August YouTube dropped 88%, Reddit 81%, TikTok 72%.\n\nA cliff like that is not a coincidence.\n\nSome people suspect it's connected to negotiations between Reddit and OpenAI about their partnership.\n\nBut OpenAI claims it's just a routine update for relevance and performance.\n\nEither way that loss is someone else's gain.\n\nGPT started going straight to very specific sites that most of us stopped caring about.\n\nHelp centers. Product documentation. FAQ pages.\n\nThe pages that win now are the boring ones that answer questions in plain words, on your own site.\n\nBut the catch is, it has to be the question people actually ask, phrased the way they ask it.\n\nNot the tidy version you'd write for them.\n\nThese are also the ones that come up in the suggest search boxes on Google.\n\nYou can manually search and record these suggestions or you can use a tool like AnswerThePublic to do all the work for you.\n\nI prefer it because it also shows me what questions people ask AI.\n\nFollow to stay updated on the changes in AI and marketing!",
+    "hashtags": [],
+    "likes": 165,
+    "comments": 6,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T18:06:30.000Z",
+    "url": "https://www.instagram.com/p/DeXQvv5gL9W/"
+   },
+   {
+    "caption": "Prompt in. Content out. Publish. Next. I get it. It's fast and it's cheap. But from what we're seeing, the AI models doing the citing favor content written by people. Use AI to research, outline, and draft. Then have a real person write or heavily rewrite what goes live.\n\n#AIContent #SEO #ContentStrategy #DigitalMarketing",
+    "hashtags": [
+     "AIContent",
+     "SEO",
+     "ContentStrategy",
+     "DigitalMarketing"
+    ],
+    "likes": 73,
+    "comments": 5,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T12:06:34.000Z",
+    "url": "https://www.instagram.com/p/DeWnjSXAJZD/"
+   },
+   {
+    "caption": "Here's how marketers should spend their time in an automated Google Ads world.\n\nData from 707 marketers.",
+    "hashtags": [],
+    "likes": 50,
+    "comments": 3,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-10T21:59:59.000Z",
+    "url": "https://www.instagram.com/p/DeVGyxblkpJ/"
+   },
+   {
+    "caption": "Last month Google added a report to Search Console that most business owners have never opened.\n\nLet me show you what it says. And what it leaves out.\n\nOpen Search Console, click performance, there's a new section, Generative AI.\n\nIt shows you impressions. That's how many times one of your pages appeared inside an AI answer. An AI Overview, or AI Mode.\n\nAnd it shows which pages.\n\nThink of it like a billboard company calling to tell you how many cars drove past.\n\nUseful. Now here's what it doesn't tell you.\n\nIt doesn't show clicks. Because most of the time, there aren't any.\n\nAnd it doesn't tell you whether the answer actually named you. Or whether it just read your page to write about someone else.\n\nSo what Google's handed you is half a map.\n\nGoogle's AI. Impressions only.\n\nThe other half, ChatGPT, Gemini, whether your brand was named, how often, and against which competitors that's what Ubersuggest's AI Search Visibility shows you.\n\nFollow to use these easy explainers to stay ahead of the competition!",
+    "hashtags": [],
+    "likes": 242,
+    "comments": 10,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-10T18:08:13.000Z",
+    "url": "https://www.instagram.com/p/DeUsJbNjd5K/"
+   },
+   {
+    "caption": "Your content doesn't get quoted as a whole. It gets quoted in pieces. That's why listicles and roundups earned almost 22% of all citations in our survey of 1,000 marketers. Headers that say exactly what the section covers. Bullets where one bullet equals one fact. Tables for anything with numbers. If a piece can't stand on its own, it doesn't get quoted.\n\n#AISearch #SEO #ContentStrategy #AIMarketing",
+    "hashtags": [
+     "AISearch",
+     "SEO",
+     "ContentStrategy",
+     "AIMarketing"
+    ],
+    "likes": 57,
+    "comments": 7,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-10T12:01:59.000Z",
+    "url": "https://www.instagram.com/p/DeUCO_lj90l/"
+   },
+   {
+    "caption": "Which Google Ads automation delivers the most value?",
+    "hashtags": [],
+    "likes": 39,
+    "comments": 2,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-09T21:59:53.000Z",
+    "url": "https://www.instagram.com/p/DeSh_FbjX7b/"
+   },
+   {
+    "caption": "It's not a new ad campaign. It's the list of customers who haven't been back in six months. One message to all of them. Almost nobody sends it. That list is the cheapest revenue you'll ever find, and it's already sitting in your system.\n\n#CustomerRetention #MarketingAutomation #SmallBusiness #NeilPatel",
+    "hashtags": [
+     "CustomerRetention",
+     "MarketingAutomation",
+     "SmallBusiness",
+     "NeilPatel"
+    ],
+    "likes": 832,
+    "comments": 13,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T18:07:27.000Z",
+    "url": "https://www.instagram.com/p/DeSHRCmCHFc/"
+   },
+   {
+    "caption": "You can have the best answer on the internet and still get skipped. AI isn't reading every word. It's hunting for one clear line it can quote and move on. If you make that line hard to find, AI moves on to a source that didn't. Good content still matters. It just has to be easy to extract.\n\n#AIMarketing #ContentStrategy #SEO #NeilPatel",
+    "hashtags": [
+     "AIMarketing",
+     "ContentStrategy",
+     "SEO",
+     "NeilPatel"
+    ],
+    "likes": 80,
+    "comments": 9,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T12:07:32.000Z",
+    "url": "https://www.instagram.com/p/DeReEyzgZqY/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.973Z"
+}

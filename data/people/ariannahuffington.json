@@ -1,0 +1,191 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/ariannahuffington",
+  "name": "Arianna Huffington",
+  "headline": "Founder and CEO at Thrive Global | Passionate about Health and AI",
+  "about": "I’m the founder and CEO of Thrive Global, a behavior change technology company with the mission of improving health and helping us move from merely surviving to thriving. I also founded The Huffington Post and have written 15 books, including Thrive and The Sleep Revolution.\n\nI’m originally from Greece (and still have the accent to prove it!). When I was 17, I moved to England and studied economics at Cambridge University, where I frankly spent most of my time debating at the Cambridge Union.\n\nI live in New York but also spend time in Los Angeles, and love being a Yiayia (Greek for grandmother) to my almost three-year-old grandson Alexander and his newborn sister Annabel.\n\nMy journey to focusing on health began with a fall. In April 2007, I collapsed from exhaustion and burnout and hit my head on my desk on the way down, breaking my cheekbone.\n \nIn the wake of my fall, I found myself going from doctor to doctor to find out what was wrong. Doctors’ waiting rooms were good places for me to ask myself a lot of questions about the kind of life I was living.\n\nAfter all the tests, it turned out nothing was wrong. Except for the fact that everything was wrong. I was suffering from an acute case of burnout. I had bought into the myth that burnout was the price I had to pay for success. \n\nI became more and more passionate about the five daily habits that drive so much of our health: nutrition, exercise, sleep, stress management and connection. That led me to write Thrive and The Sleep Revolution. \n\nThe books struck a chord, but I wanted to go beyond speaking and writing to helping people move from awareness to action. So in 2016 I founded Thrive Global, which helps people transform their health by combining Microsteps — small, science-backed daily steps — with technology, storytelling and community. And last year, with the OpenAI Startup Fund, we launched Thrive AI Health to build an AI health coach to democratize access to health coaching.",
+  "location": "New York, New York, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/C4D03AQHmPuoZ-4Jh6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1602549160281?e=2147483647&v=beta&t=SJ3CJg1dFApKoiMOaJmdhhIq4GPm0M01Px7CY5T9D38",
+  "jobTitles": [
+   "Founder and CEO"
+  ],
+  "positions": [
+   {
+    "company": "Thrive Global",
+    "title": "",
+    "description": "",
+    "start": "2016-09",
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "The Huffington Post Media Group",
+    "description": ""
+   },
+   {
+    "school": "Cambridge University",
+    "description": ""
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "followers": 9598975,
+  "posts": [
+   "💭Finding Wonder Without WiFi: On My Mind",
+   "💭 AI's Magic Wand Fantasy: On My Mind",
+   "💭 The Magic Power of Coincidences: On My Mind",
+   "💭 The Secret to Brain Health: On My Mind",
+   "Analog Summer: On My Mind",
+   "Microsteps: The Big Idea That’s Too Small to Fail",
+   "💭 The Two-Minute Ritual for a Better Life: On My Mind",
+   "Silence Under Siege: On My Mind",
+   "💭Brain Health, Longevity and Immortality Slop: On My Mind",
+   "What Shakespeare Can Teach Us About AI’s Sycophancy Problem",
+   "Confronting Bias: Thriving Across Our Differences",
+   "Becoming Indistractable"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/ariannahuff/",
+  "username": "ariannahuff",
+  "fullName": "Arianna Huffington",
+  "bio": "Mother. Sister. Yiayia. @HuffPost Founder. Founder & CEO, @Thrive Global. On a mission to improve health outcomes and productivity.",
+  "category": "Public figure",
+  "externalUrl": "https://bit.ly/3qJpHZ9",
+  "followers": 755034,
+  "following": 1034,
+  "postsCount": 6820,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-cdg6-1.cdninstagram.com/v/t51.2885-19/84977938_186622385989460_7160645041545805824_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ZqN0qgLyW5UQ7kNvwHYwB3j&_nc_oc=AdpiP5GLCe_IL_HHfOUbZ-aDklIFMDr5xMwN_KBg6Hr2SHBoUCLy_Yb1WKU9X_lpVds&_nc_zt=24&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_ss=70a8c&oh=00_AQPbd2psnDdp1ME8ItOnw_9Qmi1ss5vNBy6lJD7IsyoZJw&oe=6AD37C12",
+  "posts": [
+   {
+    "caption": "Today is World Mental Health Day. And we’ve made great progress in recent years raising awareness and opening up the conversation about mental health.\n\nThis year, I hope we take it one step further: mental health is brain health. A growing body of research shows how our brain health connects to everything from daily brain fog and anxiety to long-term cognitive decline.\n\nSo here’s a Microstep to try today: take a moment to check-in with your own mental health by naming the feeling you’re having right now in one word. Simply putting a feeling into words can help calm the brain’s stress response.\n\nIt might be “overwhelmed.” Or “tired.” Or “uncertain.”\n\nWhatever it is, naming it is a small way to build the muscle of self-awareness, one of the most powerful tools we have for our mental and brain health.",
+    "hashtags": [],
+    "likes": 413,
+    "comments": 11,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-10T14:01:03.000Z",
+    "url": "https://www.instagram.com/p/DeUP82-xK4c/"
+   },
+   {
+    "caption": "AI keeps pulling off things that used to be impossible. In my latest On My Mind newsletter, I write why we shouldn’t lose sight of the eight “wonders of life,” as coined by @UCBerkeleyOfficial professor Dacher Keltner, that create everyday moments of awe: moral beauty, movement, nature, music, visual design, spirituality and religion, big ideas, and life and death.\n\nPlus, dispatches from @Dreamforce, the @LucasMuseum, and my own home, where I recently hosted an event that captured the possibility of this moment when it comes to brain health.\n\nYou can read my newsletter at the link in bio.",
+    "hashtags": [],
+    "likes": 115,
+    "comments": 3,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-04T16:09:22.000Z",
+    "url": "https://www.instagram.com/p/DeFBp_mRfQZ/"
+   },
+   {
+    "caption": "Wise words, whether we’re elite athletes competing at the highest levels or building healthy habits in our daily lives. Congrats to @CaitlinClark22 — @WNBA Comeback Player of the Year! — on a great season, and thank you for your deep commitment to helping people live healthier lives by putting a spotlight on healthy behaviors, including the role of exercise as one of the most powerful preventative medicines, and reminding us all to start how we can.",
+    "hashtags": [],
+    "likes": 2261,
+    "comments": 28,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-02T22:35:23.000Z",
+    "url": "https://www.instagram.com/p/DeAkQ97xbbO/"
+   },
+   {
+    "caption": "@OpenAI solved a problem mathematicians have wrestled with for a quarter century.\n\n@GoogleDeepMind mapped every possible mutation hiding in our genes. These are awe-inspiring feats of the machines.\n\nIn my latest piece for @time, I write about why, even as we marvel at AI’s capacity, we shouldn’t lose sight of something irreplaceable: human-generated awe.\n\nDacher Keltner, professor of psychology at the @ucberkeleyofficial, looked at 2,600 stories of awe across 26 countries. He found that what most commonly led people to feel awe wasn’t nature, or spirituality, or technology — it was watching other people be kind, brave, or strong.\n\nHe calls it \"moral beauty\" and 95% of it comes from witnessing actions people take on behalf of others. Collective movement. Nature. Music. Visual design. Spirituality. Big ideas. Life and death. These are the other wonders Keltner found that inspire awe — and they’re all deeply shaped by human connection.\n\nAI will keep astonishing us. But the awe that has the most profound impact is the awe we derive from each other. And as Keltner writes, that awe is available to us \"if we just take a moment and wonder.\"\n\nYou can read my full piece at the link in bio.",
+    "hashtags": [],
+    "likes": 134,
+    "comments": 6,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-02T19:03:13.000Z",
+    "url": "https://www.instagram.com/p/DeALayxRLdH/"
+   },
+   {
+    "caption": "As @ariannahuff pointed out, our generation rarely talked about menopause when we were younger. But we’re shouting it from the rooftops now, because women deserve better—not only from the health care system, but from their workplaces too. #menopauseawarenessmonth \n\nRead more about the @gallup x @pivotaldotcom survey on women’s health at the link in my bio.",
+    "hashtags": [
+     "menopauseawarenessmonth"
+    ],
+    "likes": 1803,
+    "comments": 108,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-01T16:00:07.000Z",
+    "url": "https://www.instagram.com/p/Dd9SjN9gtUf/"
+   },
+   {
+    "caption": "“The more we share…the more we can accelerate the shift in the culture.” Couldn’t agree more, @ariannahuff.\n\nThanks for a great conversation on the need to make women’s health more visible.",
+    "hashtags": [],
+    "likes": 361,
+    "comments": 25,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-01T14:50:10.000Z",
+    "url": "https://www.instagram.com/p/Dd9KPqoOsKv/"
+   },
+   {
+    "caption": "Arianna Huffington (@ariannahuff) has a message for the people in Silicon Valley who think they are building God.\n\nWatch or listen on Futurology. Link in bio.",
+    "hashtags": [],
+    "likes": 283,
+    "comments": 34,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-30T16:00:28.000Z",
+    "url": "https://www.instagram.com/p/Dd6tdczAIRo/"
+   },
+   {
+    "caption": "What a beautiful story of hope in The @Guardian. Twenty-one years ago, a field in Norfolk was home to a single crop. Today, it is a wildflower meadow with more than 150 plant species. Since 2011, the only maintenance has been one hay cut each summer. The cut keeps the field from becoming woodland and gives more delicate wildflowers room to grow.\n\nAs @UCL Professor Carl Sayer put it: “Sometimes we’re not patient enough.” And after watching the meadow become more biodiverse each year, he says, “It’s hope — we can recover things. We just need to do less in the recovery process.”\n\nLife is a dance between making it happen and letting it happen. In this meadow, making it happen means one simple act of care each year. Letting it happen means trusting nature and giving it time. The same is true in our lives: our daily choices around sleep, food, movement, stress and connection give our bodies and minds the support they need to renew.\n\nRead more in The Guardian at the link in bio.",
+    "hashtags": [],
+    "likes": 775,
+    "comments": 22,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-09-26T13:23:11.000Z",
+    "url": "https://www.instagram.com/p/DdwIGhQRVbW/"
+   },
+   {
+    "caption": "Congratulations @ArielEmanuel on the publication of Roll the Calls!\n\nOf course I knew Ari had an amazing story. Angry boy from Chicago overcomes severe dyslexia, rises from mailroom to C-suite, transforms himself into one of the legendary dealmakers and visionaries in Hollywood history – I expected Ari’s memoir to be a page-turner. But I didn’t expect such tenderness, such sweetness, so much heart. I wasn’t ready for all the wisdom about mental health and self-confidence and resilience and the search for one’s true happiness. I simply wasn’t prepared for Shoe Dog meets Goodfellas with a dash of The Little Prince. What a pleasant, refreshing, and wonderful surprise this book is.\n\nAnd that’s my blurb for the book! You can get a copy at the link in bio.",
+    "hashtags": [],
+    "likes": 126,
+    "comments": 12,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-09-23T16:19:00.000Z",
+    "url": "https://www.instagram.com/p/DdotzueRubC/"
+   },
+   {
+    "caption": "Looking back at two great days at @Dreamforce. @Salesforce’s chief marketing officer @ErinOles moderated a conversation with @officiallymcconaughey and me about who shapes culture in the age of AI.\n\nHere’s what nobody wants to admit about the content explosion: the bottleneck was never production. It was always judgment. For most of history, we assumed the hard part was making things — and the machines have now solved that. Anyone can generate a screenplay, a song, a strategy deck in seconds. But Matthew put his finger on what the machines haven’t solved: AI can tell you what’s popular, but it doesn’t yet have an ear for what’s really good.\n\nThose are profoundly different things. Popularity is a pattern in the data. Good is a judgment — and judgment is built from everything that never shows up in training data: taste formed over decades, failures metabolized into instinct, the thousand small refinements of a lived life. Erin compressed it into one line: the real AI superpower isn’t the tool, it’s the taste.\n\nWhich means we’ve been worried about the wrong scarcity. The scarce resource of this era isn’t intelligence — machines have made intelligence abundant. It’s wisdom. And here’s the inconvenient truth about wisdom: it can’t be generated, downloaded, or scaled. It has to be lived into existence, one experience at a time.\n\nMachines gather knowledge exponentially. Humans gather wisdom slowly. Whether that gap becomes a crisis or a renaissance depends entirely on whether we treat our own development as seriously as we treat the technology’s. And keeping people at the center of the AI conversation was the focus of my session at Dreamforce with chief people officer Nathalie Scardino and HR leaders from around the world.",
+    "hashtags": [],
+    "likes": 85,
+    "comments": 2,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-22T22:11:30.000Z",
+    "url": "https://www.instagram.com/p/DdmxzvNkfdZ/"
+   },
+   {
+    "caption": "A beautiful evening celebrating the opening of the @LucasMuseum of Narrative Art — a museum as expansive, surprising and impossible to categorize as the works it celebrates.\n\nThe museum houses the art collection of George Lucas and @MellodyHobson. At a time when AI dominates our public conversation, it’s a reminder that machines aren’t the only ones producing wonders. It’s a cathedral of wonder and awe, human creativity, storytelling and connection. As Mellody said, “Narrative art creates an emotional connection, not an intellectual one.”\n\nThe museum looks, appropriately, like a spaceship, rising, curving and folding into the landscape – in fact, there isn’t a right angle anywhere in the building. Works associated with empires and religious traditions live alongside illustrations, comic strips and movie images that have shaped our lives. There is even an immersive reproduction of the Sistine Chapel ceiling, which George calls “God’s comic book” because its panels tell a story. And throughout, cinema is treated not as something separate from art history but as another chapter in our ancient drive to turn experience into narrative. It’s why one of the museum’s theaters is named for Robert Flaherty, a pioneer of documentary filmmaking.\n\nAnd then there are the monsters. The museum’s exploration of them brought to mind what Guillermo del Toro’s work shows about monsters being revealing mirrors. We create them to give form to what frightens us and to explore the parts of ourselves we can’t always confront directly. The same is true of the myths, which let us wrestle with the same big questions at a larger scale. The characters and settings change but the elemental questions remain: Who are we? What do we fear? What are we willing to fight for? And who can we become?\n\nAt a moment when so much is pulling us apart, George Lucas and Mellody Hobson have created a home for the images, stories and myths that unite us — a place where art is an invitation to feel, wonder and see ourselves in one another.",
+    "hashtags": [],
+    "likes": 511,
+    "comments": 30,
+    "type": "Sidecar",
+    "location": "Lucas Museum of Narrative Art",
+    "timestamp": "2026-09-21T19:21:25.000Z",
+    "url": "https://www.instagram.com/p/Ddj5jLZmV_t/"
+   },
+   {
+    "caption": "As we mark World Alzheimer’s Day, more than 7 million people over age 65 in the US are living with Alzheimer’s disease — a figure that is projected to almost double in the next few decades. And more than 12 million people are caregivers to loved ones with Alzheimer’s or other dementias. There’s no sugarcoating a disease that results in the widespread loss of brain function, and no number that captures the heartbreak of seeing a loved one decline. And yet, there is reason for hope.\n\nThat’s because research shows that Alzheimer’s-related brain changes can begin up to 20 years before symptoms set in, highlighting the importance of investing in our brain health and addressing modifiable risk factors throughout adulthood.\n\nThis is a 20-year window of opportunity. As with so many chronic conditions, research is showing that with brain health, our DNA is not necessarily our destiny. We have more power than we previously thought to shape our brain health, both day-to-day and in the long run.\n\nRead more in @incmagazine at the link in bio.",
+    "hashtags": [],
+    "likes": 203,
+    "comments": 6,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-21T14:10:20.000Z",
+    "url": "https://www.instagram.com/p/DdjV8uUEfpE/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.918Z"
+}

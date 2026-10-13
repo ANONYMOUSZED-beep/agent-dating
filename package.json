@@ -1,0 +1,12 @@
+{
+  "name": "agentic-dating",
+  "version": "1.0.0",
+  "description": "Agentic dating: every person is represented by an AI agent that reads their LinkedIn + Instagram and goes on dates on their behalf.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "build:demo": "node scripts/build-demo.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

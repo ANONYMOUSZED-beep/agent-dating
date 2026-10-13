@@ -1,0 +1,170 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/amyporterfield",
+  "name": "Amy Porterfield",
+  "headline": "Nashville, Tennessee, United States | Professional Profile",
+  "about": "Amy Porterfield helps women entrepreneurs grow from six to seven figures using clear…",
+  "location": "Nashville, Tennessee, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQFE7yDnTx-aBA/profile-displayphoto-scale_200_200/B56ZvW5w3CHMAY-/0/1768837028515?e=2147483647&v=beta&t=tdalkVyeFAUnuUt8FoszLz6mru-wbCUPZq1YvKDDsJY",
+  "jobTitles": [],
+  "positions": [],
+  "education": [],
+  "awards": [],
+  "languages": [],
+  "followers": 41380,
+  "posts": [
+   "Never Miss A Goal Again",
+   "Hey Amy: How to Fix a Stalled Launch (Plus Challenge Topics and Evergreen)",
+   "How My Team Uses Claude, Wispr Flow, MacWhisper, and Granola Every Single Day",
+   "I Stopped Selling Courses. This Is What I Sell Now.",
+   "Nedra Glover Tawwab: Stop Doing Work That's Not Yours",
+   "How to Attract A-Players as Employees",
+   "Jam Gamble: How to Stop Replaying What You Said",
+   "The Hire That Buys Back Your Time",
+   "Ashley Brock: $380 a Month Isn't Enough for Ads",
+   "How to Run a Promo With Something You've Already Built"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/amyporterfield/",
+  "username": "amyporterfield",
+  "fullName": "Online Marketing Coach",
+  "bio": "💰 Helping Female Founders Become Millionaires \n➡️ DM TRAINING for my free training for high-six figure female founders\n🎙️ The Amy Porterfield Show",
+  "category": "Entrepreneur",
+  "externalUrl": "http://amyporterfield.com/livetraining",
+  "followers": 480282,
+  "following": 1249,
+  "postsCount": 3725,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-19/621584611_18550780387037614_8730610485445694540_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFWHfDPPmJahCjWTm6hz1uvh2RwTZVqevL-IwBTOQ0COymqnwAqlCJy4I6eb3-C8vg&_nc_ohc=jThk4evKilcQ7kNvwE4XLj2&_nc_gid=Iuz92BPhKIcZXDdo7t3J-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOeQRfhXlDdpaZp959H3664Z6DhbcFifPDWtv1OoN27ug&oe=6AD3A87D&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "You wake up and dread the Zoom call.\nYou refresh Stripe before lunch.\nYou avoid getting on camera.\n\nMy friend, it shouldn’t feel this hard.\n\nThe bottleneck? The three core pieces of your marketing aren’t working together, so everything feels like starting from scratch.\n\nWhen they work as one, revenue steadies.\n\n👇Comment TRAINING and I’ll send you my free training.",
+    "hashtags": [],
+    "likes": 23,
+    "comments": 6,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-12T18:00:02.000Z",
+    "url": "https://www.instagram.com/p/DecZwuzhoEY/"
+   },
+   {
+    "caption": "Only 1 in 20 top earners is a woman.\n\nA new study of 145 women in the top 1% found that many of them didn’t start at the top.\n\nSo where you start isn’t what’s holding you back.\n\nFor most of the female founders I work with, it’s this: they’re working harder than ever, revenue is at a plateau, and their messaging and offer are pulling in different directions.\n\n👇Comment TRAINING and I’ll send you my free training 💛\n\nSource: Emily Riley, Riley Strategic, via The Wall Street Journal (May 2026)",
+    "hashtags": [],
+    "likes": 34,
+    "comments": 4,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-12T11:45:01.000Z",
+    "url": "https://www.instagram.com/p/DeZKCONm7p_/"
+   },
+   {
+    "caption": "If you’re a female founder well into six figures and you know you’re ready for more, this one’s for you.\n\nAfter years of coaching women in business, I’ve noticed every woman who hit her first million made the same intentional pivot. And I’m teaching it in my upcoming free training.\n\nIf 2027 is your year, let’s start now. \n\n👇Comment TRAINING and I’ll send it your way. 💛",
+    "hashtags": [],
+    "likes": 47,
+    "comments": 34,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T21:25:53.000Z",
+    "url": "https://www.instagram.com/p/DeXnnbCs5rz/"
+   },
+   {
+    "caption": "This one’s for the high earning female founders💛\n\nYou’ve grown your business to several hundred thousand a year. You know how to sell. You know how to show up. \n\nBut lately your revenue won’t hold or climb, and you can’t quite put your finger on why.\n\nWhat got you here isn’t what’s going to get you to your first million.\n\nIt’s about figuring out what’s getting in the way and fixing it.\n\nThat’s what I’m walking you through in my free training. \n\n👇Comment TRAINING and I’ll send you the link",
+    "hashtags": [],
+    "likes": 27,
+    "comments": 9,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-10T20:06:53.000Z",
+    "url": "https://www.instagram.com/p/DeHoo_Ls6w6/"
+   },
+   {
+    "caption": "If your best months prove what’s possible but you can’t seem to repeat them, this one’s for you.\n\nI made a free training just for high earning female founders who are ready for revenue that holds and keeps climbing. \n\nWe’ll walk through where your growth is getting stuck and the shift that helps it start to stack, month after month.\n\n👇Comment TRAINING and I’ll send it right over, my friend.",
+    "hashtags": [],
+    "likes": 30,
+    "comments": 10,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-10T11:30:06.000Z",
+    "url": "https://www.instagram.com/p/DeT-xRGBirV/"
+   },
+   {
+    "caption": "Fall in my world looks like mirror selfies, a little gold jewelry shopping, and planning big things with my team. 🍂\n\nNext up on the list? Fall activities with the fam and some quiet journaling time. \n\nWhat’s on your list this season, my friend?",
+    "hashtags": [],
+    "likes": 29,
+    "comments": 5,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-09T11:15:01.000Z",
+    "url": "https://www.instagram.com/p/DeHpsKeMbwW/"
+   },
+   {
+    "caption": "My social media manager is obsessed with Manychat, and honestly, so am I.\n\nSomeone comments, Manychat checks they’re following me, then sends them what they asked for. That’s 10 hours a week back for both of us.\n\nManychat is approved by Meta.\n\n👇Comment TIME BACK and I’ll send you 30 days of Manychat Pro, free.\n\n@manychat #ManychatPartner",
+    "hashtags": [
+     "ManychatPartner"
+    ],
+    "likes": 28,
+    "comments": 16,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T17:00:04.000Z",
+    "url": "https://www.instagram.com/p/DeRWeZnBubE/"
+   },
+   {
+    "caption": "The sweaters are out, the iced coffee has pumpkin cold foam on top, and Q4 has never felt cozier.🍂\n\n👇Tag the coworker who’s been ready for this since August",
+    "hashtags": [],
+    "likes": 76,
+    "comments": 8,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T18:00:54.000Z",
+    "url": "https://www.instagram.com/p/DeZ1BSzBpeQ/"
+   },
+   {
+    "caption": "That goal that keeps sliding to next quarter? It’s usually not a hard-work problem. It’s a yes you never should have said.\n\nAnd no isn’t no forever. It’s “not right now.”\n\nWhat’s the one thing you already know you need to say no to?\n\nI’m sharing the three parts every accountability setup needs and how to spot the one you’re missing. \n\n👇Comment NO below",
+    "hashtags": [],
+    "likes": 112,
+    "comments": 14,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T13:15:06.000Z",
+    "url": "https://www.instagram.com/p/DePBOQshcVa/"
+   },
+   {
+    "caption": "We need more rich women. Full stop. \n\nNot because money is the goal, but because of what it buys you: freedom.\n\nFreedom to build the life you actually want. \nFreedom to walk away from what isn’t working. \nFreedom to say yes and no on your own terms.\n\nAnd that freedom doesn’t stop with you. \n\nIt’s the woman you hire. \nThe woman you mentor. \nYour success becomes her opportunity.\n\nIf you’re ready to grow out of a plateau and hit your first million dollar year…\n\n👇Comment TRAINING and I’ll send you the link",
+    "hashtags": [],
+    "likes": 56,
+    "comments": 18,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-07T16:00:08.000Z",
+    "url": "https://www.instagram.com/p/DeMTwFShsQR/"
+   },
+   {
+    "caption": "If you’re new here, hi! I’m Amy Porterfield 👋\n\nI’ve been in business for 17 years, and in that time, so much has changed. This year, I changed my entire business model to focus on one thing: coaching female founders.\n\nWhy? Because when I was trying to grow from half a million to a million, I desperately needed a coach and a mentor. Someone who had already been where I was going. And that support is what helped me get from my first million all the way to $139M.\n\nA woman needs another woman who has gone before her to help her make those big pivots. Someone who can see what’s getting in the way and show her what to do next.\n\nSo if you’re a high earning female founder sitting in the several hundred thousand range, and your revenue is plateauing (or even sliding backward), I’m here to help you hit your first million.\n\nI put together a free training.\n\nComment TRAINING and I’ll send it your way. 👇\n\nI can’t wait to help you get there, my friend. 💛",
+    "hashtags": [],
+    "likes": 88,
+    "comments": 20,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-07T11:00:02.000Z",
+    "url": "https://www.instagram.com/p/DeHl44SMskJ/"
+   },
+   {
+    "caption": "Not everyone in your corner can tell you what’s holding your business back 👀\n\nI’ve spent 17 years helping female founders find the gold mine they’re already sitting on.\n\nIn my free training I’ll help you find yours.\n\n👇Comment TRAINING below and I’ll send you the link.",
+    "hashtags": [],
+    "likes": 30,
+    "comments": 13,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-06T16:00:09.000Z",
+    "url": "https://www.instagram.com/p/DeKKcmyhqJG/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.977Z"
+}

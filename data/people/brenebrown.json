@@ -1,0 +1,207 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/brenebrown",
+  "name": "Brené Brown",
+  "headline": "University of Houston + University of Texas at Austin | Researcher. Storyteller. Courage-builder.",
+  "about": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business.\n\nBrené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy.",
+  "location": "Houston, Texas, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-scale_200_200/B56Zjh3j9sHQAc-/0/1756136096324?e=2147483647&v=beta&t=ebexCx2erp8t3MeymXG6fQtezTyb2wjQfS7rkVWBK9o",
+  "jobTitles": [
+   "Professor of Practice",
+   "Founder",
+   "Huffington Endowed Chair + Research Professor"
+  ],
+  "positions": [
+   {
+    "company": "The University of Texas at Austin - Red McCombs School of Business",
+    "title": "",
+    "description": "",
+    "start": "2020-01",
+    "end": ""
+   },
+   {
+    "company": "Brené Brown Education and Research Group",
+    "title": "",
+    "description": "The mission of Brené Brown Education and Research Group (BBEARG) is to develop and deliver accessible, relevant, and research-based offerings to individuals, families, communities, organizations, and schools so that people have the emotional, cognitive, and behavioral foundation they need to show up, be seen, and live braver lives.",
+    "start": 2016,
+    "end": ""
+   },
+   {
+    "company": "University of Houston",
+    "title": "",
+    "description": "",
+    "start": 2001,
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "The University of Texas at Austin",
+    "description": ""
+   },
+   {
+    "school": "University of Houston",
+    "description": ""
+   },
+   {
+    "school": "University of Houston",
+    "description": ""
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "followers": 5003803,
+  "posts": [
+   "Strong Ground and the Tenacity of Paradox",
+   "Living Beyond Human Scale",
+   "What I’ve Learned From the Work of Dr. Pippa Grange",
+   "25 Marbles for 25 Years",
+   "BRAVING TRUST",
+   "The Courage to Not Know",
+   "Awkward, Brave and Kind in 2020",
+   "We Did It!",
+   "Leading from Hurt Versus Leading from Heart",
+   "A Note of Thanks + A Commitment"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/brenebrown/",
+  "username": "brenebrown",
+  "fullName": "Brené Brown",
+  "bio": "Researcher. Storyteller. Texan.\nHOU + ATX via SATX",
+  "category": "None",
+  "externalUrl": "https://brenebrown.com/linkinprofile/",
+  "followers": 5261296,
+  "following": 1961,
+  "postsCount": 1165,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/539271387_18535096267060015_1433504309762646190_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ItikMtKxs9sQ7kNvwFIWClO&_nc_oc=AdqNfN_ZQAibp5hei9PRsODdV-kRtVBNUb2hgU7dXgVO2v5QHzda0-1V9LUHcr2B8Wg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ixu9T2F9aZwxxiDfre37TA&_nc_ss=70a8c&oh=00_AQNWi6TkBsvOxlvvL5To1r5WEVDRmmTmg6Y8t-tws-kgtQ&oe=6AD39805",
+  "posts": [
+   {
+    "caption": "@aclfestival is here and I get to talk to one of my favorite artists @lolayounggg. Join us on the Bonus Tracks stage tomorrow for a conversation about vulnerability, creativity, and the power of messy.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-09T16:54:31.000Z",
+    "url": "https://www.instagram.com/p/DeR-wRhzkJ2/"
+   },
+   {
+    "caption": "Deeply grateful to @adamgrant, our podcast team, @voxmedia, and all of you who watched and/or listened! I learned way more than I offered and for that I’m very thankful! And, last - Adam and I will be together in Dallas for the Vibe book launch later this month and taking on a fun topic in January on his pod! CAN NOT WAIT!\n\nThanks again, everyone!\nBB❤️",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T19:26:41.000Z",
+    "url": "https://www.instagram.com/p/DePrJLuTXX_/"
+   },
+   {
+    "caption": "When we see people attack empathy or say things like, “The fundamental weakness of Western civilization is empathy” (Elon Musk, 2025), we should ask ourselves, “What harm, pain, or hurt do they not want us to see or feel? Who do they want to hurt, humiliate, or dehumanize without accountability?”\n\nBased on our research over the past 25 years, creating meaningful connections and human-centered systems requires a combination of compassion and cognitive empathy. I think of compassion as the daily practice and cognitive empathy as one its most powerful tools.\n\nWe define compassion as the daily practice of recognizing and accepting our shared humanity so that we treat ourselves and others with loving-kindness, and we take action in the face of suffering.\n\nMost definitions of compassion share a commitment to action. It’s not just feeling, it’s doing. Compassion is fueled by accepting that we’re all made of strength and struggle—no one is immune to pain or suffering. Compassion is not a practice of “better than” or “I can fix you”—it’s a practice based in the beauty and pain of shared humanity.\n\nMost researchers agree there are at least two elements to empathy: cognitive empathy and affective empathy. Cognitive empathy, sometimes called perspective taking, is the ability to recognize and understand another person’s emotions. Affective empathy, often called experience sharing, is one’s own emotional attunement with another person’s experience.\n\nThe empathy we desperately need is understanding what someone is feeling, not feeling it for them. If someone feels lonely, empathy doesn’t require us to feel lonely too, only to reach back into our own experience with loneliness so we can understand and connect. Affective empathy, feeling something along with the person who is struggling, is a slippery slope toward becoming too overwhelmed to offer meaningful support.\n\nAgain, empathy is a tool of compassion. We can respond empathically only if we are willing to be present to someone’s pain. If we’re not willing to do that, it’s not real empathy. And the lack of real empathy is 100% a major threat to civilizations.\n\nThank you to @toninovvva for this powerful reminder.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-07T15:03:07.000Z",
+    "url": "https://www.instagram.com/p/DeMoWMMTZfJ/"
+   },
+   {
+    "caption": "This is one of my favorite @thecuriosityshop episodes. In a world where everyone and everything is fighting for our attention, our rage, and our money, we exam what makes us vulnerable to persuasion and how we can develop stronger influence literacy skills. \n\nIt’s the best kind of collision between Adam’s, “think like a scientist” research and my work on shame and vulnerability. \n\nBiggest finding: \nShame around being persuadable makes us more vulnerable to influence. Acknowledging that we are vulnerable to those reels and TikTok’s and snake oil pitches makes us more resistant! \n\nIf you want to dive into the original research - all of the studies are cited in the show notes for the podcast. \n\nYou can download or watch the episode now!",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-01T20:49:02.000Z",
+    "url": "https://www.instagram.com/p/Dd9y5nUTmoW/"
+   },
+   {
+    "caption": "@adamgrant and I loved talking with @angelalduckworth about her new book, “Situated.”\n\nBig takeaway:\n\n“To stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters—and to an astonishing degree:\n\nCulture matters.\nMentors matter.\nTeammates matter.\nEven the objects in your personal space matter.\n\nHow you think about your goals and what you’re willing to do to achieve them depends on both you and your situation.”\n\nI also loved our conversation about billboards - those signs we post around our spaces as reminders of what’s important. It reminds of why I like to write in a room where my children’s art is hanging. The kids’ art is my favorite art and it’s imperfect and honest. Grit is great, but I also need the environment to say, “Have fun. Just start.”\n\nTo watch or listen to the episode, head to YouTube or wherever you listen to podcasts.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-09-29T14:40:22.000Z",
+    "url": "https://www.instagram.com/p/Dd3_LR_T4Oz/"
+   },
+   {
+    "caption": "To my Longhorn family: Try not to step in the bullshit left behind by small-minded people.\nStay strong. Like UT vs OSU strong. 🧡🤘🏻🤍",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-15T19:05:48.000Z",
+    "url": "https://www.instagram.com/p/DdUa56KzTU_/"
+   },
+   {
+    "caption": "Priya Parker, one of my favorite thinkers and writers, is joining @thecuriosityshop this week and we’re talking about fighting! Not “dukes up” fighting but how real heat and conflict can build connection if we’re willing to learn how to do it well.\n\nWhat I love about this conversation and Priya’s new book - “The Art of Fighting” - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she’s just so honest and fun!\n\nTo watch or listen to the full episode, head to YouTube or wherever you listen to podcasts.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-11T18:29:25.000Z",
+    "url": "https://www.instagram.com/p/DdKDb3Jzula/"
+   },
+   {
+    "caption": "Aaron Sandel @prof.sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions.\n\nAaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and face the effects of division within their own community.\n\nAaron also reflects on what it was like to watch chimps he knew by name turn against one another, while exploring the surprising depth of bonds in this community.\n\nIf you’re trying to find me this semester, I’ll be the one sneaking into Aaron’s class at UT Austin! I have so many more questions!\n\nTo listen or watch the full episode, head to YouTube or wherever you listen to podcasts.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-08T21:30:19.000Z",
+    "url": "https://www.instagram.com/p/DdCprRDz8b6/"
+   },
+   {
+    "caption": "GAME DAY! Hook ‘em! 🧡🤍🏈🤍🧡",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-05T15:04:16.000Z",
+    "url": "https://www.instagram.com/p/Dc6PJvBTWpn/"
+   },
+   {
+    "caption": "Grateful for a mother who warned her daughters about the price she paid for trying to conform to nice girl culture in the 1950’s. We didn’t know all of the details of her wounds, but we fully understood the depth of her pain. \n\nWhen she died she had framed pictures of Gloria Steinem and Angela Davis over her desk.\n \nQuote: Gloria Steinem’s remarks at the National Organization for Women’s March for the Equal Rights Amendment, Washington, D.C., July 9, 1978, as reported in James Lardner and Neil Henry, “Over 40,000 ERA Backers March,” Washington Post, July 10, 1978\n\n📸 Warren K. Leffler",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-09-03T21:35:49.000Z",
+    "url": "https://www.instagram.com/p/Dc1w8rHzGlS/"
+   },
+   {
+    "caption": "Celebrating Dolly has me thinking about the joy of reading books and how often I squander that pleasure by putting myself under pressure to consume pages. \n\nWe are all craving deep reading, deep thinking, and deep connection — and these all require deep time. \n\nI went back this morning and re-read the interview we did with @mayasmarty and was drawn to her phrase the “privilege of focus.” \n\nLet’s start a spiritual book club where we read what we want, when we want, no meetings or deadlines - just a shared reframe of deep time as subversive in a world of shallow distraction, addictive scrolling, and unrelenting attention grabbing. ❤️📖❤️",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-08-29T16:38:50.000Z",
+    "url": "https://www.instagram.com/p/DcoYGAzTToe/"
+   },
+   {
+    "caption": "Sometimes shiny is great. Sometimes it’s dangerous.\n\nEpisode available on YouTube or wherever you listen to podcasts.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-08-26T14:20:23.000Z",
+    "url": "https://www.instagram.com/p/DcgaRhMTiIT/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.893Z"
+}

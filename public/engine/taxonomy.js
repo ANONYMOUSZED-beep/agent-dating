@@ -1,0 +1,56 @@
+// Signal taxonomy the reading agent uses. Each entry: what to look for, and what it implies.
+// kind: hobby (something they DO, usually seen on Instagram) | interest (topic they care about) | value
+export const SIGNALS = [
+  // ---- hobbies ----
+  { id: 'running', label: 'Running & endurance', kind: 'hobby', kw: ['marathon', 'marathons', 'ultramarathon', 'ultra', 'half marathon', 'run club', '5k', '10k', 'running', 'runner', 'ironman', 'triathlon', '🏃'], fx: { active: 3, discipline: 2 } },
+  { id: 'fitness', label: 'Strength & fitness training', kind: 'hobby', kw: ['gym', 'workout', 'work out', 'lifting', 'weights', 'crossfit', 'training session', 'pilates', 'fitness', 'push-ups', 'pushups', '💪'], fx: { active: 3, discipline: 2 } },
+  { id: 'yoga', label: 'Yoga & meditation', kind: 'hobby', kw: ['yoga', 'meditation', 'meditate', 'breathwork', 'mindfulness', 'mindful', '🧘'], fx: { calm: 3, depth: 2 } },
+  { id: 'outdoors', label: 'Outdoors & nature', kind: 'hobby', kw: ['hike', 'hiking', 'mountain', 'mountains', 'beach', 'ocean', 'island', 'nature', 'sunset', 'sunrise', 'camping', 'forest', '🌊', '🏝', '🌅', '⛰'], fx: { adventure: 2, calm: 1 } },
+  { id: 'watersports', label: 'Surfing, kitesurfing & sailing', kind: 'hobby', kw: ['kitesurf', 'kitesurfing', 'kite', 'surf', 'surfing', 'sailing', 'sail', 'boat', 'swim', 'swimming', 'diving', '🏄'], fx: { adventure: 3, active: 2 } },
+  { id: 'racket', label: 'Tennis, pickleball & golf', kind: 'hobby', kw: ['tennis', 'pickleball', 'padel', 'golf', 'golfing'], fx: { active: 2, social: 1 } },
+  { id: 'travel', label: 'Travel', kind: 'hobby', kw: ['travel', 'travelling', 'traveling', 'trip', 'flight', 'airport', 'abroad', 'passport', 'tour', 'visited', 'paris', 'london', 'tokyo', 'dubai', 'mumbai', 'italy', 'japan', 'africa', 'australia', 'mexico', 'europe', '✈️', '🌍', '🌎'], fx: { adventure: 2, curiosity: 1 } },
+  { id: 'food', label: 'Food, cooking & dining out', kind: 'hobby', kw: ['dinner', 'cook', 'cooking', 'recipe', 'chef', 'restaurant', 'brunch', 'pizza', 'pasta', 'tacos', 'coffee', 'foodie', 'breakfast', '🍕', '🍝', '☕'], fx: { warmth: 1, social: 1 } },
+  { id: 'wine', label: 'Wine & cocktails', kind: 'hobby', kw: ['wine', 'champagne', 'cocktail', 'tequila', 'vineyard', 'sommelier', '🍷', '🍾'], fx: { social: 2 } },
+  { id: 'reading', label: 'Reading', kind: 'hobby', kw: ['books', 'reading', 'bookclub', 'book club', 'novel', 'library', 'bookstore', 'reading list', 'kindle', '📚', '📖'], fx: { curiosity: 2, depth: 1 } },
+  { id: 'writing', label: 'Writing & publishing', kind: 'hobby', kw: ['writing', 'wrote', 'author', 'newsletter', 'essay', 'manuscript', 'bestselling', 'bestseller', 'my book', 'new book'], fx: { depth: 1, curiosity: 1 } },
+  { id: 'music', label: 'Music', kind: 'hobby', kw: ['music', 'song', 'concert', 'guitar', 'piano', 'sing', 'singing', 'album', 'dj', 'playlist', 'broadway', '🎶', '🎵', '🎸', '🎤'], fx: { playful: 1, curiosity: 1 } },
+  { id: 'art', label: 'Art & design', kind: 'hobby', kw: ['art', 'artist', 'design', 'painting', 'gallery', 'museum', 'creative', 'creativity', 'illustration', 'typography', 'branding', '🎨'], fx: { curiosity: 2 } },
+  { id: 'film', label: 'Film, TV & photography', kind: 'hobby', kw: ['film', 'movie', 'documentary', 'camera', 'photography', 'photo shoot', 'cinema', 'filmmaking', '🎬', '📸'], fx: { curiosity: 1 } },
+  { id: 'sportsfan', label: 'Sports fandom', kind: 'hobby', kw: ['nfl', 'nba', 'jets', 'knicks', 'mets', 'super bowl', 'world cup', 'soccer', 'football', 'basketball', 'baseball', 'cricket', 'f1', 'formula 1', 'olympics', 'serena', 'game day', 'playoffs', '🏈', '🏀', '⚽', '🏏'], fx: { social: 2, playful: 1 } },
+  { id: 'collecting', label: 'Collecting (cards, art, sneakers)', kind: 'hobby', kw: ['collect', 'collector', 'collecting', 'sports cards', 'trading cards', 'sneakers', 'nft', 'nfts', 'vintage', 'garage sale', 'garage sales'], fx: { playful: 1, curiosity: 1 } },
+  { id: 'pets', label: 'Dogs & pets', kind: 'hobby', kw: ['dog', 'dogs', 'puppy', 'pup', 'cat', 'cats', 'kitten', 'pet', 'pets', '🐶', '🐕', '🐈'], fx: { warmth: 2 } },
+  { id: 'fashion', label: 'Fashion & style', kind: 'hobby', kw: ['fashion', 'style', 'outfit', 'dress', 'designer', 'runway', 'vogue', 'met gala', 'beauty', 'makeup', 'skincare', 'skims', '👗', '💄'], fx: { social: 1 } },
+  { id: 'gaming', label: 'Gaming & tech toys', kind: 'hobby', kw: ['gaming', 'video game', 'videogame', 'playstation', 'xbox', 'nintendo', 'gamer', 'esports', 'gadget', 'gadgets', '🎮'], fx: { playful: 2 } },
+  { id: 'dance', label: 'Dancing & partying', kind: 'hobby', kw: ['dance', 'dancing', 'party', 'celebrate', 'celebration', 'birthday', 'festival', 'nightlife', '🎉', '🥳', '💃'], fx: { social: 3, playful: 2 } },
+  // ---- interests (topics they care about) ----
+  { id: 'entrepreneurship', label: 'Entrepreneurship & startups', kind: 'interest', kw: ['founder', 'co-founder', 'cofounder', 'startup', 'startups', 'entrepreneur', 'entrepreneurs', 'entrepreneurship', 'business', 'company', 'built', 'building', 'scale', 'small business', 'shark tank', 'ceo'], fx: { drive: 3 } },
+  { id: 'investing', label: 'Investing & money', kind: 'interest', kw: ['invest', 'investor', 'investing', 'investment', 'venture', 'vc', 'fund', 'portfolio', 'money', 'wealth', 'rich', 'finance', 'financial', 'stocks', 'real estate', 'net worth', 'budget', 'debt', '💰'], fx: { drive: 2 } },
+  { id: 'tech', label: 'Technology & AI', kind: 'interest', kw: ['ai', 'artificial intelligence', 'tech', 'technology', 'software', 'internet', 'app', 'apps', 'web3', 'crypto', 'reddit', 'digital', 'seo', 'chatgpt', 'robot', 'innovation'], fx: { curiosity: 2 } },
+  { id: 'marketing', label: 'Marketing, media & brand-building', kind: 'interest', kw: ['marketing', 'brand', 'brands', 'branding', 'media', 'content', 'social media', 'audience', 'creator', 'creators', 'influencer', 'advertising', 'storytelling', 'viral'], fx: { social: 1, drive: 1 } },
+  { id: 'leadership', label: 'Leadership & work culture', kind: 'interest', kw: ['leader', 'leaders', 'leadership', 'team', 'teams', 'culture', 'workplace', 'organizations', 'management', 'manager', 'employees'], fx: { warmth: 1, drive: 1 } },
+  { id: 'psychology', label: 'Psychology & human behavior', kind: 'interest', kw: ['psychology', 'psychologist', 'behavior', 'behaviour', 'science of people', 'research', 'researcher', 'brain', 'emotions', 'emotional', 'vulnerability', 'shame', 'courage', 'empathy', 'habits', 'mindset'], fx: { depth: 3, curiosity: 2 } },
+  { id: 'wellbeing', label: 'Wellbeing, sleep & mental health', kind: 'interest', kw: ['wellbeing', 'well-being', 'wellness', 'mental health', 'sleep', 'burnout', 'stress', 'anxiety', 'healing', 'heal', 'therapy', 'self-care', 'thrive', 'health', 'healthy', 'longevity'], fx: { calm: 2, depth: 2 } },
+  { id: 'selfgrowth', label: 'Personal growth & motivation', kind: 'interest', kw: ['growth', 'motivation', 'motivated', 'mindset', 'success', 'goals', 'dream', 'dreams', 'discipline', 'potential', 'confidence', 'self-worth', 'believe in yourself', 'level up', 'greatness', 'purpose', 'let them'], fx: { drive: 1, depth: 1 } },
+  { id: 'speaking', label: 'Public speaking & stage', kind: 'interest', kw: ['keynote', 'speaker', 'speaking', 'stage', 'ted', 'tedx', 'talk', 'audience', 'live show', 'tour', 'summit', 'conference', '🎤'], fx: { social: 3 } },
+  { id: 'podcast', label: 'Podcasts & interviews', kind: 'interest', kw: ['podcast', 'podcasts', 'episode', 'interview', 'host', 'guest', 'diary of a ceo', 'on purpose', 'school of greatness', 'listen', '🎙'], fx: { social: 2, curiosity: 1 } },
+  { id: 'education', label: 'Teaching & education', kind: 'interest', kw: ['teach', 'teacher', 'teaching', 'professor', 'students', 'school', 'university', 'course', 'courses', 'learn', 'learning', 'education', 'coach', 'coaching', 'class'], fx: { warmth: 1, curiosity: 2 } },
+  { id: 'women', label: "Women's empowerment & equity", kind: 'interest', kw: ['women', 'woman', 'girls', 'female', 'feminist', 'moms', 'mothers', 'equality', 'equity', 'gender', 'women in tech', 'girls who code', 'marshall plan for moms'], fx: { warmth: 1 } },
+  { id: 'impact', label: 'Philanthropy & social impact', kind: 'interest', kw: ['charity', 'foundation', 'nonprofit', 'non-profit', 'philanthropy', 'give back', 'giving', 'donate', 'climate', 'planet', 'ocean conservation', 'impact', 'change the world', 'community', 'volunteer', 'humanity'], fx: { warmth: 2 } },
+  { id: 'spiritual', label: 'Spirituality & faith', kind: 'interest', kw: ['god', 'faith', 'pray', 'prayer', 'blessed', 'spiritual', 'spirituality', 'monk', 'soul', 'church', 'universe', 'gratitude', 'grateful', '🙏'], fx: { depth: 2, calm: 1 } },
+  { id: 'family', label: 'Family life', kind: 'value', kw: ['family', 'kids', 'children', 'son', 'daughter', 'husband', 'wife', 'mom', 'dad', 'mother', 'father', 'parents', 'parenting', 'grandkids', 'grandmother', 'grandpa', 'my boys', 'my girls', 'married', 'wedding', 'anniversary', 'baby', '👨‍👩', '👶'], fx: { warmth: 3 } },
+  { id: 'friendship', label: 'Friendship & community', kind: 'value', kw: ['friends', 'friend', 'friendship', 'together', 'crew', 'squad', 'community', 'people i love', 'loved ones', 'our team'], fx: { warmth: 2, social: 2 } },
+  { id: 'humor', label: 'Humor', kind: 'trait', kw: ['lol', 'haha', 'hahaha', 'lmao', 'funny', 'joke', 'jokes', 'hilarious', 'silly', 'laugh', 'laughing', '😂', '🤣', '😜', '😅', '🤪'], fx: { playful: 3 } },
+];
+
+// Trait vocabulary (beyond the taxonomy) – raw cue words for tone
+export const TONE = {
+  drive: ['build', 'hustle', 'grind', 'execute', 'win', 'winning', 'scale', 'ambition', 'ambitious', 'relentless', 'work hard', 'hard work', '24/7', 'compete', 'empire', 'billion', 'million'],
+  warmth: ['love', 'thank', 'thanks', 'grateful', 'proud', 'kind', 'kindness', 'heart', 'care', 'support', 'blessed', '❤️', '❤', '🥰', '😍', '💕', '🤍', '💛'],
+  curiosity: ['curious', 'question', 'questions', 'learn', 'learning', 'idea', 'ideas', 'explore', 'wonder', 'why', 'science', 'study', 'discover', 'think'],
+  depth: ['meaning', 'purpose', 'soul', 'feel', 'feelings', 'vulnerable', 'truth', 'honest', 'wisdom', 'reflect', 'journey', 'heal', 'grief', 'fear', 'lonely', 'loneliness'],
+  calm: ['peace', 'calm', 'slow down', 'rest', 'sleep', 'breathe', 'balance', 'stillness', 'quiet', 'present', 'patience', 'unplug'],
+  adventure: ['adventure', 'adventures', 'explore', 'wild', 'risk', 'jump', 'bold', 'dare', 'thrill', 'first time', 'expedition', 'space'],
+  social: ['party', 'friends', 'event', 'crowd', 'show', 'live', 'tonight', 'everyone', 'join us', 'celebrate', 'tour', 'meet'],
+  playful: ['fun', 'lol', 'haha', 'silly', 'joke', 'game', 'play', 'dance', '😂', '🤣', '😜', '😆'],
+  discipline: ['routine', 'every day', 'everyday', 'daily', 'habit', 'habits', 'morning', '5am', '5 am', 'consistent', 'consistency', 'discipline', 'schedule', 'focus', 'productivity', 'productive', 'systems', 'deep work', 'early', 'training', 'practice'],
+};

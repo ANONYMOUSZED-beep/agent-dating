@@ -1,0 +1,351 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/guykawasaki",
+  "name": "Guy Kawasaki",
+  "headline": "On a mission to make people remarkable. Chief evangelist, Canva. Host, Remarkable People podcast.",
+  "about": "On a mission to make people remarkable. Co-author of Think Remarkable and Wiser Guy. Host of the Remarkable People podcast. Chief evangelist of Canva.",
+  "location": "Watsonville, California, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHsYlMY_sJKEQ/profile-displayphoto-scale_200_200/B4DaDkv7X3HMAc-/0/1790544167893?e=2147483647&v=beta&t=SvZ7PFfp_G1AVwMkGHIim2UwVBWalbJ06n_W9TNMKw4",
+  "jobTitles": [
+   "Trustee",
+   "Adjunct Professor",
+   "Author",
+   "Chief Evangelist",
+   "Podcaster",
+   "Adjunct Professor",
+   "Executive Fellow"
+  ],
+  "positions": [
+   {
+    "company": "University of Hawaii Foundation",
+    "title": "",
+    "description": "",
+    "start": "2025-07",
+    "end": ""
+   },
+   {
+    "company": "University of California, Santa Cruz",
+    "title": "",
+    "description": "",
+    "start": "2024-05",
+    "end": ""
+   },
+   {
+    "company": "Wiley",
+    "title": "",
+    "description": "",
+    "start": "2023-09",
+    "end": ""
+   },
+   {
+    "company": "Canva",
+    "title": "",
+    "description": "Guy is chief evangelist of Canva, an online graphics-design service. In this position, he \"spreads the good news\" about how Canva democratizes design by empowering people to create great graphics without buying or learning high-end applications.",
+    "start": "2014-04",
+    "end": ""
+   },
+   {
+    "company": "Guy Kawasaki's Remarkable People",
+    "title": "",
+    "description": "Guy interviews remarkable people so you can be one too. For example, Jane Goodall, Margaret Atwood, Steve Wozniak, Stephen Wolfram, Martha Stewart, Arianna Huffington, and Phil Zimbardo.",
+    "start": "2019-12",
+    "end": ""
+   },
+   {
+    "company": "UNSW",
+    "title": "",
+    "description": "",
+    "start": "2019-12",
+    "end": ""
+   },
+   {
+    "company": "University of California, Berkeley, Haas School of Business",
+    "title": "",
+    "description": "Guy is an executive fellow at Haas. This means he goes to Haas several times a year and scares the crap out of the students by telling them about the real world.",
+    "start": 2014,
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "Peace Vans",
+    "description": ""
+   },
+   {
+    "school": "MERGE4",
+    "description": ""
+   },
+   {
+    "school": "Paper.li",
+    "description": ""
+   },
+   {
+    "school": "Cheeze, Inc",
+    "description": "Guy is on the board of directors of Cheeze. This app does one thing really well: manage albums for sharing content in a controlled manner. For example, albums for only your family, only your surfing buddies, or only your colleagues. Think of it as the anti-social social-media app."
+   },
+   {
+    "school": "Mercedes-Benz USA",
+    "description": "It's a tough job, but someone has to do it. Guy is a brand ambassador for Mercedes. This means that he makes appearances for Mercedes, \"unboxs\" cars, and supplements Mercedes social-media efforts. And he has to drive a Mercedes all the time--yes, you read that right."
+   },
+   {
+    "school": "Alltop",
+    "description": ""
+   },
+   {
+    "school": "TicketLeap",
+    "description": ""
+   },
+   {
+    "school": "Garage Technology Ventures",
+    "description": ""
+   },
+   {
+    "school": "Wikimedia Foundation",
+    "description": "Guy was on the board of trustees of the Wikimedia Foundation. This is the entity that oversees (to the extent that anything oversees 300,000 community members!) Wikipedia and the other wiki properties. Guy serves this position because he believe the democratization of information is the third most important cause in the world--the first two being climate change and human rights."
+   },
+   {
+    "school": "Tweetmeme",
+    "description": ""
+   },
+   {
+    "school": "Ustream, Inc",
+    "description": ""
+   },
+   {
+    "school": "BagtheWeb",
+    "description": ""
+   },
+   {
+    "school": "SocialToo",
+    "description": ""
+   },
+   {
+    "school": "Triggit",
+    "description": ""
+   },
+   {
+    "school": "Visibile Measures",
+    "description": ""
+   },
+   {
+    "school": "Motorola",
+    "description": ""
+   },
+   {
+    "school": "StumbleUpon",
+    "description": ""
+   },
+   {
+    "school": "Statusnet",
+    "description": ""
+   },
+   {
+    "school": "TripWire",
+    "description": "Tripwire provides change-auditing software that ensures the security and availability of corporate networks by establishing a baseline of data in its desired state."
+   },
+   {
+    "school": "Apple",
+    "description": "This was my second tour of duty at Apple. I held the position of \"chief evangelist\" and was an Apple fellow. My job description was to protect and preserve the Macintosh cult by doing whatever I had to do."
+   },
+   {
+    "school": "Fog City Software",
+    "description": "Fog City Software created Claris Emailer and LetterRip, two Macintosh applications. This was a great company because I got to work with three of my favorite people in the world: Will Mayall, Kathryn Henkens, and Jud Spencer."
+   },
+   {
+    "school": "Macworld",
+    "description": "MacUser and Macworld were competitors back then. I wrote for both of them--though not simultaneously. I simply can't remember the dates of my employment with them!"
+   },
+   {
+    "school": "ACIUS",
+    "description": "After listening to my own hype about the opportunities in Macintosh software, I left Apple to start a Macintosh database company."
+   },
+   {
+    "school": "Apple",
+    "description": "My job was to convince developers to create hardware and software products for a new computer that had a zero installed base, zero backward compatibility, and zero/month sales. Towards the end of my first tour of duty at Apple, I also managed the group that published the Apple-labeled software (MacWrite, MacPaint, MacDraw, etc) that became Claris."
+   },
+   {
+    "school": "EduWare Services",
+    "description": "I will always have a soft spot in my heart for EduWare because this company enabled me to break into the tech sector from the jewelry business. I was rejected by many, many tech companies back then."
+   },
+   {
+    "school": "Nova Stylings, Inc.",
+    "description": "This is my first real job: counting and schlepping diamonds and fine jewelry. It is where I truly learned to sell. The jewelry business is much tougher than the computer business. Marty Gruber, my boss at Nova, had a tremendous influence on me."
+   },
+   {
+    "school": "UCLA",
+    "description": "I've come to believe that an MBA is a hindrance to entrepreneurship, but I do have one from UCLA. My major was marketing."
+   },
+   {
+    "school": "University of California, Davis - School of Law",
+    "description": "As a good Asian-American, I went to law school to make my parents happy. Unfortunately (or maybe fortunately), I couldn't stand it and quit after two weeks. It's one of the best things that I've ever done."
+   },
+   {
+    "school": "Stanford University",
+    "description": "These were some of the happiest days of my life. I loved Stanford. Sometimes I wish I could go back to school there. By the way, I majored in Psychology because it was the easiest major I could find."
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "followers": 2953786,
+  "posts": [
+   "How Ordinary People Become Activists",
+   "How to Become Robot-Proof",
+   "Stop Listening to Advice",
+   "Why You Need to Stop Waiting and Start Creating",
+   "Don’t Become a Museum",
+   "How Wikipedia, AI, and Trust Are Colliding",
+   "How We Can Reconnect Through Ritual",
+   "How Poetry Gives Shape to What We Feel",
+   "How We Create a Culture of Belonging",
+   "The Five-Minute Habit That Can Transform Your Day"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/guykawasaki/",
+  "username": "guykawasaki",
+  "fullName": "Guy Kawasaki",
+  "bio": "Co-author of Everybody Has Something to Hide. Chief evangelist of Canva. Host of Remarkable People podcast.",
+  "category": "Public figure",
+  "externalUrl": "http://remarkablepeople.com/",
+  "followers": 96639,
+  "following": 345,
+  "postsCount": 4099,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/469664230_494698326324633_3158238754779657162_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=2-6Q59RIZyAQ7kNvwETS_rh&_nc_oc=Adp8dsQPfAEGOdn27YWnT6-sCvwgnY2GVPmU5ZrZ3T1RDSGKHxmRSrDJbunzaifPHgM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70a8c&oh=00_AQNb-6xuyozRgnF4JKdqI4yONqSFfGOvkTgHjUKwcxWMFw&oe=6AD3AB8C",
+  "posts": [
+   {
+    "caption": "Icon 🤝 Icon\n\n@guykawasaki and @karaswisher at the Masters of Scale Summit 🤩\n\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#MoSsummit #guykawasaki #karaswisher #mastersofscale",
+    "hashtags": [
+     "MoSsummit",
+     "guykawasaki",
+     "karaswisher",
+     "mastersofscale"
+    ],
+    "likes": 118,
+    "comments": 6,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2024-11-01T13:29:30.000Z",
+    "url": "https://www.instagram.com/p/DB1JkeRMeU9/"
+   },
+   {
+    "caption": "Jane Goodall redefined humanity’s relationship with nature. Her legacy will inspire generations. Rest in peace, my remarkable hero and friend.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 27,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2025-10-01T21:10:37.000Z",
+    "url": "https://www.instagram.com/p/DPR_2UZEn3X/"
+   },
+   {
+    "caption": "The highest praise for the Remarkable People podcast from one of my heroes, Dr. Jane Goodall. I’m on a mission to make you remarkable with guests like Marc Benioff, Woz, Martha Stewart, Neil deGrasse Tyson, and more! Find the podcast at remarkablepeople.com or your favorite podcast player.",
+    "hashtags": [],
+    "likes": 575,
+    "comments": 27,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2022-05-19T16:12:10.000Z",
+    "url": "https://www.instagram.com/p/Cdvu1zXFm0R/"
+   },
+   {
+    "caption": "Charlie Euchner argues that both major political parties are failing to pay enough attention to the everyday concerns of ordinary people. \n\nToo much political energy, he says, gets directed toward elites and established power rather than issues like jobs, healthcare, opportunity, and community needs. 🗣️\n\n🌱 His answer is stronger grassroots organizing that starts by listening to people and turning shared concerns into focused action. \n\nTune into the latest episode of Remarkable People🎙️",
+    "hashtags": [],
+    "likes": 8,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T16:45:35.000Z",
+    "url": "https://www.instagram.com/p/DeR9-gqD_BM/"
+   },
+   {
+    "caption": "Giving career advice to college students is one thing. Giving it when your son and his girlfriend are in the audience raises the stakes. This was the situation when I spoke to a group of student leaders at the University of Hawaii this Fall.\n\nSubstack link in bio 🔦",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 3,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-07T19:45:16.000Z",
+    "url": "https://www.instagram.com/p/DeNI-STlW2p/"
+   },
+   {
+    "caption": "\"It’s the people, stupid.” \n\nCharlie Euchner’s point is simple: lasting change doesn’t come from slogans, social media, or political insiders. It comes from listening to people, building relationships, and organizing around the issues that actually matter in their lives!\n\nDon't miss his powerful episode on the Remarkable People podcast ⭐ Tune in on my YouTube, or wherever you get your podcasts.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-07T15:46:37.000Z",
+    "url": "https://www.instagram.com/p/DeMthqwCtFA/"
+   },
+   {
+    "caption": "What happens when you treat AI like a mad science experiment instead of just a tool? 🧪🤖 \n\nVivienne Ming shares how her experiments with AI revealed that the people who challenged it, pushed it, and used it to stretch their thinking could dramatically outperform both humans and AI working alone. \n\nWatch her full conversation on my YouTube channel!",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-05T15:47:40.000Z",
+    "url": "https://www.instagram.com/p/DeHkDFvgJRA/"
+   },
+   {
+    "caption": "When your calendar has no room for anything to go wrong, eventually everything might go wrong.\n\n🏁 Subscribe to get weekly newsletters: link in bio!",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-09-30T17:45:15.000Z",
+    "url": "https://www.instagram.com/p/Dd65rKplNvq/"
+   },
+   {
+    "caption": "Humans hate uncertainty, but Vivienne Ming points out that we are far better at navigating the unknown than anything else in existence—including cutting-edge AI. 🤖🧠 \n\nAs AI gets better at answering well-defined questions, she argues that we need to rethink what a job is and our relationship with work, putting more value on our ability to explore what we don't yet understand. \n\n🎧 Listen to Vivienne's full conversation with Guy Kawasaki wherever you get your podcasts.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 0,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-30T15:25:35.000Z",
+    "url": "https://www.instagram.com/p/Dd6pkdpAWfh/"
+   },
+   {
+    "caption": "We all have that voice of doom that tells us we’re not good enough, the idea won’t work, or we should just stop. \n\nHarlan Coben talks about learning to push past that voice and keep creating. ✍️🎧 \n\nTune into this week's episode wherever you get your podcasts 👊",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 1,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-28T15:45:38.000Z",
+    "url": "https://www.instagram.com/p/Dd1iX0Cmo58/"
+   },
+   {
+    "caption": "“It’s my therapy,” says Debbie. \n\nAt 69, she is still jumping at least once a month. \n\nIt hasn’t been easy - and I jump with people who are in their 20’s who progress much faster than I do. But I keep pushing forward with my goals in mind. \n\nI can’t count the number of times I’ve told myself I should just quit. One of those times, I wrote down the benefits of skydiving for me. \n\nThese are the positives that have come out of my skydiving experience, but it can apply to any sport. It’s not easy. It takes commitment and work. \n\nBut the benefits are enormous:\n\nI have to work out regularly & eat healthy to be able to do this.\nI’m learning something new at this stage in life.\nIt’s a technical & physical challenge in freefall and canopy.\nI’m constantly problem solving “on the fly”\nI’m always striving to be better.\nI feel better mentally & emotionally \nIt gives me a great sense of accomplishment.\nIt has helped with my coordination & reflexes.\nIt keeps my brain and my body active.\nIt calms me.\nI can be an inspiration to other women who think their lives are “over”\n\n#itsnevertoolate and #wearenevertooold \n\nIf this story inspired you please share 🙏💟",
+    "hashtags": [
+     "itsnevertoolate",
+     "wearenevertooold"
+    ],
+    "likes": 149,
+    "comments": 49,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-26T06:53:34.000Z",
+    "url": "https://www.instagram.com/p/Ddvb8IwlNR6/"
+   },
+   {
+    "caption": "“If you can’t find time to write, then writing isn’t a priority.”\n\nHarlan Coben doesn’t mince words when it comes to making time for the work. ✍️ We all get 24 hours a day. The question is what we choose to make room for.\n\n🎧 Listen wherever you get your podcasts, or watch on my YouTube channel 👍",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 3,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-24T16:00:47.000Z",
+    "url": "https://www.instagram.com/p/DdrQ7M5jdJH/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.966Z"
+}

@@ -1,0 +1,367 @@
+[
+ {
+  "li": "garyvaynerchuk",
+  "ig": "garyvee",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Gary Vaynerchuk - Chairman – VaynerX, CEO – VaynerMedia, Cre",
+  "liLd": true
+ },
+ {
+  "li": "alexisohanian",
+  "ig": "alexisohanian",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Alexis Ohanian Sr. - Founder at 7️⃣7️⃣6️⃣ | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "sophiaamoruso",
+  "ig": "sophiaamoruso",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Sophia Amoruso - Founder &amp; Managing Partner at Trust Fun",
+  "liLd": true
+ },
+ {
+  "li": "aliabdaal",
+  "ig": "aliabdaal",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "simonsinek",
+  "ig": "simonsinek",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Simon Sinek - Optimist, New York Times bestselling author of",
+  "liLd": true
+ },
+ {
+  "li": "brenebrown",
+  "ig": "brenebrown",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Brené Brown - University of Houston + University of Texas at",
+  "liLd": true
+ },
+ {
+  "li": "marieforleo",
+  "ig": "marieforleo",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Marie Forleo - Marie Forleo International | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "codiesanchez",
+  "ig": "codie_sanchez",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Codie A. Sanchez - Founder, Entrepreneur, Author | My new bo",
+  "liLd": true
+ },
+ {
+  "li": "stevenbartlett-123",
+  "ig": "steven",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Steven Bartlett - Founder: Steven.com The Creator Economy Co",
+  "liLd": true
+ },
+ {
+  "li": "randizuckerberg",
+  "ig": "randizuckerberg",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Randi Zuckerberg - 11x Marathons since Sept 2023 ✨ 7x Ultram",
+  "liLd": true
+ },
+ {
+  "li": "ariannahuffington",
+  "ig": "ariannahuff",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Arianna Huffington - Founder and CEO at Thrive Global | Pass",
+  "liLd": true
+ },
+ {
+  "li": "daymondjohn",
+  "ig": "thesharkdaymond",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Daymond John - CEO of FUBU and The Shark Group, TV Personali",
+  "liLd": true
+ },
+ {
+  "li": "barbaracorcoran",
+  "ig": "barbaracorcoran",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Barbara Corcoran - Executive Coach, Motivational Speaker, Sh",
+  "liLd": true
+ },
+ {
+  "li": "rbranson",
+  "ig": "richardbranson",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Richard Branson - Founder at Virgin Group | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "jayshetty",
+  "ig": "jayshetty",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Jay Shetty - 8NTY B.V | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "melrobbins",
+  "ig": "melrobbins",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Mel Robbins - #1 NYT Best Selling Author of The Let Them The",
+  "liLd": true
+ },
+ {
+  "li": "adammgrant",
+  "ig": "adamgrant",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Adam Grant - Organizational psychologist at Wharton, #1 NYT ",
+  "liLd": true
+ },
+ {
+  "li": "sahilbloom",
+  "ig": "sahilbloom",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Sahil Bloom - NYT Bestselling Author | Entrepreneur | Invest",
+  "liLd": true
+ },
+ {
+  "li": "lewishowes",
+  "ig": "lewishowes",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Lewis Howes - 3x New York Times Bestselling Author | Top 25 ",
+  "liLd": true
+ },
+ {
+  "li": "emmagrede",
+  "ig": "emmagrede",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "warikoo",
+  "ig": "ankurwarikoo",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Ankur Warikoo - Founder @WebVeda, @IndiaGeniusChallenge @Mon",
+  "liLd": true
+ },
+ {
+  "li": "chrisdo",
+  "ig": "thechrisdo",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "guykawasaki",
+  "ig": "guykawasaki",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Guy Kawasaki - On a mission to make people remarkable. Chief",
+  "liLd": true
+ },
+ {
+  "li": "neilkpatel",
+  "ig": "neilpatel",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Neil Patel - Co-Founder at Neil Patel Digital | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "amyporterfield",
+  "ig": "amyporterfield",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Amy Porterfield - Nashville, Tennessee, United States | Prof",
+  "liLd": true
+ },
+ {
+  "li": "jamiekernlima",
+  "ig": "jamiekernlima",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "karagoldin",
+  "ig": "karagoldin",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Kara Goldin - Founder, CEO, Board Member                    ",
+  "liLd": true
+ },
+ {
+  "li": "vanessavanedwards",
+  "ig": "vvanedwards",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Vanessa Van Edwards - Science of People | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "ramitsethi",
+  "ig": "ramit",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Ramit Sethi - Host of @netflix “How to Get Rich,” author, &a",
+  "liLd": true
+ },
+ {
+  "li": "whitneywolfeherd",
+  "ig": "whitneywolfeherd",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "melanieperkins",
+  "ig": "melanieperkins",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Melanie Perkins - Co-founder &amp; CEO at Canva | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "justinwelsh",
+  "ig": "justinwelsh",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Justin Welsh - Writer &amp; Entrepreneur. I write The Saturd",
+  "liLd": true
+ },
+ {
+  "li": "tonyrobbins",
+  "ig": "tonyrobbins",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Tony Robbins - Splunk | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "markcuban",
+  "ig": "mcuban",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "lorigreiner",
+  "ig": "lorigreiner",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "sarablakely",
+  "ig": "sarablakely",
+  "igStatus": 429,
+  "liStatus": 200,
+  "liTitle": "Sara Blakely - prAna | LinkedIn",
+  "liLd": true
+ },
+ {
+  "li": "mkbhd",
+  "ig": "mkbhd",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "iamjamiekern",
+  "ig": "jamiekernlima",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "timferriss",
+  "ig": "timferriss",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "jasminestar",
+  "ig": "jasminestar",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "chalenejohnson",
+  "ig": "chalenejohnson",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "ryanserhant",
+  "ig": "ryanserhant",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "grantcardone",
+  "ig": "grantcardone",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "patrickbetdavid",
+  "ig": "patrickbetdavid",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "deepakchopra",
+  "ig": "deepakchopra",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "sallie-krawcheck",
+  "ig": "salliekrawcheck",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "reshmasaujani",
+  "ig": "reshmasaujani",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ },
+ {
+  "li": "tiffanyaliche",
+  "ig": "thebudgetnista",
+  "igStatus": 429,
+  "liStatus": 999,
+  "liLd": false
+ }
+]

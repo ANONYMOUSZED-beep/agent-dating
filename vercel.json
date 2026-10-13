@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "public",
+  "functions": { "api/scrape.js": { "maxDuration": 120 } }
+}

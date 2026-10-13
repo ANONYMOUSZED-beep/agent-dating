@@ -1,0 +1,180 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/rbranson",
+  "name": "Richard Branson",
+  "headline": "Founder at Virgin Group",
+  "about": "",
+  "location": "",
+  "country": "",
+  "photo": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1625181963183?e=2147483647&v=beta&t=oiGK2oBQ3r3COkRR0z62i7CbnqXKw_1ujZ9X4-SKheo",
+  "jobTitles": [
+   "Founder"
+  ],
+  "positions": [
+   {
+    "company": "Virgin Group",
+    "title": "",
+    "description": "Tie-loathing adventurer and thrill seeker, who believes in turning ideas into reality. Otherwise known as Dr Yes at Virgin!",
+    "start": "1968-01",
+    "end": ""
+   }
+  ],
+  "education": [],
+  "awards": [],
+  "languages": [],
+  "followers": 18644904,
+  "posts": [
+   "Ask Richard: How do you keep joy alive during difficult times?",
+   "Why it’s time to reconsider Britain’s relationship with the EU",
+   "What's one belief you had to unlearn in order to keep growing?",
+   "How do you find low-cost creative solutions to business challenges?",
+   "The time I ripped my trousers jumping off the tallest building in Las Vegas...",
+   "What’s next on Iran?",
+   "Ask Richard: What's the first piece of business advice you received that still holds true?",
+   "Say YES to life",
+   "One in three entrepreneurs are dyslexic - let’s talk about that",
+   "Ask Richard: What’s one daily habit that has shaped you as a person?"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/richardbranson/",
+  "username": "richardbranson",
+  "fullName": "Richard Branson",
+  "bio": "Screw it, let’s do it.",
+  "category": "Entrepreneur",
+  "externalUrl": "https://virg.in/U3Xj",
+  "followers": 4986255,
+  "following": 507,
+  "postsCount": 4645,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-ssn1-1.cdninstagram.com/v/t51.75761-19/503469413_18508843858032318_3818904278229082005_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDIuQzMifQ%3D%3D&_nc_ohc=cWvPWINgVt8Q7kNvwHtVsOu&_nc_oc=AdpPJLxCk_9o3qaZ8WnIlmXh8F65DTrIE0N-OQXDk-wTZ2ZWUp6zO46CKgkzedUuO3c&_nc_zt=24&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=ivo47Oq8ki_oh5sCWVj8uQ&_nc_ss=70689&oh=00_AQPmfsYIj7RV4vE-rEO8gYPhzUGjGojFeQyj8nZZSlqJRg&oe=6AD3AB7F",
+  "posts": [
+   {
+    "caption": "My number one piece of advice for anyone thinking of starting a business? Find a mentor (and actually lean on them).\n\nWhen I was young, I had no trouble asking people for help. If someone had done something I was trying to do, I would pick up the phone and ask how they’d gone about it. I didn’t think of that as finding a mentor. I was curious, perhaps a little naive, and I knew there was a great deal I didn’t know.\n\nStarting @VirginAtlantic brought that realisation to 30,000ft. I loved the idea of making flying better, but I had never run an airline. So, I reached out to someone who had - Sir Freddie Laker. He (very generously) gave me his time, told me what he had learned from building Laker Airways and spoke frankly about what they had gotten wrong. For example, he was extremely clear-eyed about the challenges we would face from our competitors. When British Airways tried to destroy us with their Dirty Tricks campaign, Freddie’s wisdom was invaluable. He helped us make decisions when the stakes were high, and he became a trusted friend along the way.\n\nOver the years, I’ve learned from all sorts of people. My parents shaped the way I approached life long before I started a business. My sisters were my sounding board in the early days of Student Magazine. Freddie helped me when my head was above the clouds. Their mentorship was invaluable, and I’m not sure where I’d be right now without them all. \n\nOne of the key reasons we started @VirginStartUp was to provide mentorship. In the lead up to National Mentoring Day on October 27, the team will be sharing some mentoring opportunities with some of the biggest founders and industry leaders in the founder world. Rare opportunities like this are there to be seized - this is what being a founder is all about. To get involved, join more than 4,000 founders on the Virgin StartUp Digital Community - a platform for practical support, mentorship opportunities, and networking events. Find all the deatils at @VirginStartUp's link in bio.",
+    "hashtags": [],
+    "likes": 1461,
+    "comments": 73,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-12T12:57:56.000Z",
+    "url": "https://www.instagram.com/p/DeZSV8xF7qY/"
+   },
+   {
+    "caption": "The brave may not live forever, but the cautious do not live at all. \n \nI wrote this in one of the first editions of Student magazine. They are words that have shaped my entire life.\n \nWonderful to see them plastered to the walls of @Virgin’s new office in New York - encouraging the team to make bold decisions and see where it takes them.",
+    "hashtags": [],
+    "likes": 5880,
+    "comments": 172,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T22:54:46.000Z",
+    "url": "https://www.instagram.com/p/DeXxuy8o5HF/"
+   },
+   {
+    "caption": "In my experience, the best businesses start by looking at an industry and asking: how could this be done better? \n \nThis is our exact ambition with cross-Channel rail. Today, we shared a first glimpse of the bold black and red livery planned for our fleet of 12 @Alstom Avelia Stream trains. \n \n@Virgin's ambition is to run 20 daily return services between London and continental Europe from 2030. We want to bring more choice, some healthy competition, and more capacity to one of Europe’s most important travel routes. \n \nThere is a huge opportunity here. More people are choosing rail for shorter journeys across Europe, and we believe Virgin can help grow that market by creating an experience people genuinely look forward to. After all, this is what we do best. \n \nWe’ll bring together the best ideas from all across the Virgin family: from @VirginAtlantic’s distinct hospitality, and @VirginVoyages’ award-winning dining experiences, to @VirginHotels’ design approach, and everything we learned from 20 years of Virgin Trains. \n \nExciting times ahead!",
+    "hashtags": [],
+    "likes": 16892,
+    "comments": 504,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-09T08:34:45.000Z",
+    "url": "https://www.instagram.com/p/DeRF1NLl8Vo/"
+   },
+   {
+    "caption": "Our Mile High Tea has fans in high places ✈️",
+    "hashtags": [],
+    "likes": 26095,
+    "comments": 886,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-06T16:30:35.000Z",
+    "url": "https://www.instagram.com/p/DeKN_0aB7iR/"
+   },
+   {
+    "caption": "New York is always buzzing during Climate Week and the United Nations General Assembly. I come each year for the same reason: to have serious conversations that lead to meaningful change. \n\nWeeks like this aren’t about one person, one organisation or one big speech. They’re about showing up, listening, sharing knowledge and working together to turn ideas into action.\n\nThere are no easy answers to the challenges our world faces but spending time with so many brilliant, determined and hopeful people reminds me that progress is possible.\n\nWe all want to leave the world in a better place for our children and grandchildren, and the best way to do that is together.",
+    "hashtags": [],
+    "likes": 4130,
+    "comments": 302,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-05T15:33:11.000Z",
+    "url": "https://www.instagram.com/p/DeHiT-eAmH3/"
+   },
+   {
+    "caption": "Hanging out with @CorneelKoster and some of the @VirginAtlantic team at HQ. Meeting our teams is one of my favourite things to do.",
+    "hashtags": [],
+    "likes": 4179,
+    "comments": 114,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-04T21:35:26.000Z",
+    "url": "https://www.instagram.com/p/DeFnNk6jM2H/"
+   },
+   {
+    "caption": "So touching to see @VirginAtlantic’s new plane paying tribute to my wonderful wife, Joan. \n \nJoan was part of the Virgin Atlantic story from the very beginning. From joining the inaugural flight in 1984, to coming up with the idea of donating loose change on-board for charity (which resulted in almost every airline in the world following suit and raising billions over the years). She was always there. \n \nSeeing the details of our family tartan, the heart-shaped necklace, and the rings she wore every day, brought back so many happy memories.",
+    "hashtags": [],
+    "likes": 23272,
+    "comments": 621,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-30T10:00:02.000Z",
+    "url": "https://www.instagram.com/p/Dd6EfJLkUan/"
+   },
+   {
+    "caption": "We get one go at this life. Don’t spend it wondering, “What if?”\n \nThe best things in my life began before I knew what I was doing.\n \nSaying 'yes’ has changed my life. It’s opened up doors. It’s forged friendships. It’s taught lessons that will never leave me. \n\nNow, I’d love to hear about the wonderful yes moments that changed your life.\n\nWe’re officially searching for @Virgin’s next Head of Yes! The opportunity is open to everyone in the UK and US. You don’t need to have a huge following. You just need a real story about a time you threw caution to the wind.\n\nOne person will receive a deal worth £75,000 in the UK or $100,000 in the US, including six months of incredible experiences. Those shortlisted may also discover more ‘yes’ opportunities along the way too!\n\nTo apply: Share a video about a time you said yes on YouTube, TikTok or Instagram, tag @Virgin and use #headofyes.\n\nApplications open until 20th October, 2026. You never know where one small yes might lead.\n\nTerms apply - see @Virgin’s link in bio. 18+ UK and US residents only. By submitting an application video, you agree to your video being reposted (in whole or in part) on Virgin channels. Head of Yes is a paid content-creator engagement selected on merit, not a prize draw or employment relationship, and is subject to the selected individual entering into a content creator agreement with Virgin Red. Apply by 20 October.",
+    "hashtags": [
+     "headofyes"
+    ],
+    "likes": 31025,
+    "comments": 804,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-29T17:11:37.000Z",
+    "url": "https://www.instagram.com/p/Dd4Q_-1gUt3/"
+   },
+   {
+    "caption": "One destination. Two extraordinary experiences 🏔️\n\nFrom the heart of Verbier to 3,000 metres in the high Alps.\n\nFrom ski-in living at @thelodgeverbier_ to the seclusion of @cabanetortin, where untouched snow, spectacular peaks and first tracks await.\n\nOne seamless Alpine journey, delivered exclusively by @VirginLimitedEdition.\n\nAvailable throughout April 2027 for private groups up to 8–10 guests, with additional dates available on request, subject to availability.\n\nThe Lodge × Cabane Tortin",
+    "hashtags": [],
+    "likes": 772,
+    "comments": 56,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-28T10:18:26.000Z",
+    "url": "https://www.instagram.com/p/Dd084nZNDzH/"
+   },
+   {
+    "caption": "Recents from the camera roll…\n1. Thinking back on my hot air ballooning days\n2. Meeting the most wonderful students at a school we helped set up in Kenya. @MahaliMzuri\n3. Flamingo love on @NeckerIsland \n4. The winner takes it all...\n5. Alfie taking an afternoon nap",
+    "hashtags": [],
+    "likes": 5036,
+    "comments": 212,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-27T10:09:07.000Z",
+    "url": "https://www.instagram.com/p/DdyXGkRl0x3/"
+   },
+   {
+    "caption": "Did @RichardBranson just give @badassboz a new way to think about advertising? 👀\n\nWatch episode 2 of Brilliant Conversations now on YouTube. Link in bio 📺",
+    "hashtags": [],
+    "likes": 1236,
+    "comments": 49,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-25T21:35:45.000Z",
+    "url": "https://www.instagram.com/p/Ddubr0ZBsVr/"
+   },
+   {
+    "caption": "Did you know that @Virgin once imagined the iPod, but we made it into an April Fool’s joke!\n\nIn 1986, we announced the Virgin Music Box: a machine that could store music and let you call up any song you wanted. We thought it was so farfetched it would pass as a ‘gotcha’ moment. How wrong we were!\n\nYears later, the world caught up with the idea, and I remember thinking: we should have built the bloody thing. The moral of the story is that when an idea feels slightly ridiculous, don’t dismiss it too quickly.\n\nSometimes the ridiculous ideas are a not-so-distant future...",
+    "hashtags": [],
+    "likes": 1719,
+    "comments": 93,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-09-25T16:04:09.000Z",
+    "url": "https://www.instagram.com/p/Ddt2JBglwTj/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.932Z"
+}

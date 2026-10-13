@@ -1,0 +1,285 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/adammgrant",
+  "name": "Adam Grant",
+  "headline": "Organizational psychologist at Wharton, #1 NYT bestselling author of THINK AGAIN, host of the TED podcast Re:Thinking",
+  "about": "Recognized as Wharton's top-rated professor, the world's #2 most influential management thinker, and one of Fortune's 40 under 40.\n\n#1 New York Times bestselling author of Think Again, Hidden Potential and 4 other books that have sold millions of copies. TED talks have been viewed over 35 million times, and WorkLife and Re:Thinking podcasts have over 80 million downloads.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/C4E03AQFGdrbBw3FYhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1629123595757?e=2147483647&v=beta&t=JUmWTuoF3BGCkjcizsJ2oxkZJ8Zjf0Lej0Kab1bYtAg",
+  "jobTitles": [
+   "Author: VIBE, THINK AGAIN, HIDDEN POTENTIAL, GIVE AND TAKE, ORIGINALS, OPTION B",
+   "The Saul P. Steinberg Professor of Management and Psychology",
+   "Contributing Op-Ed Writer",
+   "Keynote Speaker"
+  ],
+  "positions": [
+   {
+    "company": "Penguin Publishing Group",
+    "title": "",
+    "description": "",
+    "start": "2013-04",
+    "end": ""
+   },
+   {
+    "company": "The Wharton School",
+    "title": "",
+    "description": "",
+    "start": "2013-07",
+    "end": ""
+   },
+   {
+    "company": "The New York Times",
+    "title": "",
+    "description": "",
+    "start": "2015-03",
+    "end": ""
+   },
+   {
+    "company": "Washington Speakers Bureau",
+    "title": "",
+    "description": "",
+    "start": "2013-01",
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "Academy of Management Journal",
+    "description": ""
+   },
+   {
+    "school": "University of North Carolina at Chapel Hill",
+    "description": ""
+   },
+   {
+    "school": "Let's Go Publications",
+    "description": ""
+   },
+   {
+    "school": "Harvard University",
+    "description": ""
+   },
+   {
+    "school": "University of Michigan",
+    "description": ""
+   }
+  ],
+  "awards": [
+   "100 Most Creative People in Business",
+   "Class of 1984 Teaching Award",
+   "#1 New York Times bestseller",
+   "Thinkers 50 Most Influential Management Thinkers",
+   "Class of 1984 Teaching Award",
+   "World Economic Forum Young Global Leader",
+   "Fellow, Martin Prosperity Institute",
+   "HR's Most Influential International Thinkers",
+   "\"Goes Above and Beyond the Call of Duty\" MBA Teaching Award",
+   "Class of 1984 Teaching Award",
+   "Excellence in Teaching Award",
+   "Excellence in Teaching Award",
+   "Forbes Most Dynamic Social Innovation Initiatives of 2013",
+   "Harvard Business Review Ideas that Shaped Management",
+   "Wall Street Journal Favorite Books of 2013",
+   "Washington Post Books Every Leader Should Read",
+   "Amazon Best Books of the Year",
+   "Financial Times Books of the Year",
+   "Inc. Best Books of 2013 for Entrepreneurs",
+   "Fortune's Five Must-Read Business Books",
+   "Oprah Magazine 15 riveting reads to pick up in May",
+   "Class of 1984 Teaching Award",
+   "Excellence in Teaching Award, MBA Curriculum",
+   "New York Times bestseller",
+   "Wall Street Journal bestseller",
+   "“Goes Above and Beyond the Call of Duty” MBA Teaching Award",
+   "BusinessWeek Favorite Professors",
+   "Class of 1984 Teaching Award",
+   "“Goes Above and Beyond the Call of Duty” MBA Teaching Award",
+   "Excellence in Teaching Award, MBA Elective Curriculum",
+   "Cummings Scholarly Achievement Award",
+   "Distinguished Scientific Award for Early Career Contribution to Applied Psychology",
+   "Distinguished Early Career Contributions Award – Science",
+   "Excellence in Teaching Award, MBA Core Curriculum",
+   "Excellence in Teaching Award, Undergraduate Division",
+   "“Goes Above and Beyond the Call of Duty” MBA Teaching Award",
+   "World’s 40 Best Business School Professors Under 40",
+   "Owens Scholarly Achievement Award, Best Publication in I/O Psychology",
+   "Excellence in Teaching Award, MBA Elective Curriculum",
+   "Excellence in Teaching Award, Undergraduate Division",
+   "MBA Teaching All-Star",
+   "Tanner Award for Excellence in Undergraduate Teaching",
+   "Rensis Likert Prize, Best Paper from a Dissertation in Organization Studies",
+   "Weatherspoon Award for Excellence in Undergraduate Teaching",
+   "Best Published Scholarly Article",
+   "Early Research Award, Applied Science",
+   "Graduate Research Fellowship",
+   "Junior Fellow",
+   "Manager of the Year"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "followers": 5647131,
+  "posts": [
+   "The 10 New Leadership Books to Wrap Up Summer and Kick Off Fall",
+   "The 12 New Leadership Books to Read This Summer",
+   "The Spring Books to Stretch Your Mind",
+   "The New Leadership Books to Launch 2021",
+   "Yes, Women with Doctorates Should Be Called Dr.",
+   "My Favorite Podcasts on Work and Psychology",
+   "It's Time to Teach Collaboration",
+   "The Fall Idea Books to Teach You Something New",
+   "Why White People Stay Silent on Racism, and What to Read First",
+   "15 New Leadership Books for a Summer in Quarantine",
+   "Sheryl Sandberg and Adam Grant on Option B: Building Resilience"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/adamgrant/",
+  "username": "adamgrant",
+  "fullName": "Adam Grant",
+  "bio": "Organizational psychologist @whartonschool\n#1 NYT bestselling author of THINK AGAIN and HIDDEN POTENTIAL\n@TED podcast: Re:Thinking",
+  "category": "Author",
+  "externalUrl": "http://linktr.ee/adammgrant",
+  "followers": 2806581,
+  "following": 636,
+  "postsCount": 2000,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzcuYzIifQ&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEArDLjlhJ8qL44q1aubscjvKEvXRVdjuAf1K3MMSTakCPfcV00JLowOYR0W9MISiE&_nc_ohc=IOmQrLX346IQ7kNvwGBQvXJ&_nc_gid=7jHY6gORnuODwk-y0rViZA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNGRn3CU7Jd498HSg9gf4RIVHVb-DFXJ-4jT-YCyKUz5w&oe=6AD38038&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "Your favorite insights of 2023. Thanks to so many of you for engaging enthusiastically, challenging respectfully, and sharing thoughtfully!",
+    "hashtags": [],
+    "likes": 356575,
+    "comments": 1750,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2023-12-30T15:04:06.000Z",
+    "url": "https://www.instagram.com/p/C1e0XDVOTTQ/"
+   },
+   {
+    "caption": "When you give tough love, how do you highlight that you’re doing it because you care? This event with @jennifer.garner was one of my favorites ever—filled with surprise and delight. Podcast link in bio: we talk parenting and mentoring, acting and aging, hidden potential, and what our dream school would look like",
+    "hashtags": [],
+    "likes": 402885,
+    "comments": 1508,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2024-01-10T15:10:06.000Z",
+    "url": "https://www.instagram.com/p/C17InLSrG4M/"
+   },
+   {
+    "caption": "I just visited my old diving team, and couldn’t resist getting back on the board for the first time in years. Back in the 90s, the hardest skill for me to learn was twisting, and I wanted to see if this old dog could still do an old trick. And yes, I’m still sore 😆",
+    "hashtags": [],
+    "likes": 79124,
+    "comments": 1388,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2022-10-23T15:35:32.000Z",
+    "url": "https://www.instagram.com/p/CkD6a-KtNpE/"
+   },
+   {
+    "caption": "To win a copy of my new book VIBE:\n1. Tag someone you vibe with in the comments\n2. Share this post to your IG story\n\nAlso: Comment TOUR for the book tour dates and tickets link straight to your DMs\n\nI’ve explored connection from all angles, even this one. (Flipping is not a good strategy for reading, but it’s highly effective for embarrassing my teenagers.)\n\n#AdamGrant #VIBE #ThinkAgain #HiddenPotential #Bookstagram",
+    "hashtags": [
+     "AdamGrant",
+     "VIBE",
+     "ThinkAgain",
+     "HiddenPotential",
+     "Bookstagram"
+    ],
+    "likes": 16261,
+    "comments": 5775,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-07T13:03:35.000Z",
+    "url": "https://www.instagram.com/p/DeMbB2tER_2/"
+   },
+   {
+    "caption": "@lukebateman_ is one of the best alternatives to the manosphere. Loved talking with him about how to stop cycles of aggression and abuse",
+    "hashtags": [],
+    "likes": 12268,
+    "comments": 276,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-02T15:48:31.000Z",
+    "url": "https://www.instagram.com/p/Dd_1s7pxEUM/"
+   },
+   {
+    "caption": "The reports about the events at Cornell—and the lack of accountability for the perpetrators—are sickening. Also disgusting is the victim blaming in response. The right place to focus is not on teaching girls and women to avoid harm; it’s on raising boys and men who don’t commit it.",
+    "hashtags": [],
+    "likes": 258442,
+    "comments": 1956,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-29T14:06:00.000Z",
+    "url": "https://www.instagram.com/p/Dd37z_MEbGD/"
+   },
+   {
+    "caption": "For more on building and sustaining strong bonds, check out my new book VIBE—it comes out Oct 13! It’s available for preorder now, and I hope to see some of you live on my tour with Jennifer Garner, Malcolm Gladwell, M. Night Shyamalan, Brené Brown, Mark Rober, Malala, Daymond John, Ann Patchett, Matthew McConaughey and more! Swipe for details",
+    "hashtags": [],
+    "likes": 21777,
+    "comments": 238,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-28T18:45:01.000Z",
+    "url": "https://www.instagram.com/p/Dd128nzluJD/"
+   },
+   {
+    "caption": "The evidence: “Daddy’s girl: Daughters, managerial decisions, and gender inequality”\n(Ronchi & Smith)\nThe economists who conducted the study add: “Because these effects emerge rapidly and persist over time, we can rule out the need for prolonged exposure to gender issues or for personal incentives tied to improving conditions for their own daughters as prerequisites for managers to promote gender equality within their firms.”",
+    "hashtags": [],
+    "likes": 48586,
+    "comments": 558,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-22T15:14:46.000Z",
+    "url": "https://www.instagram.com/p/DdmCHjuEQR_/"
+   },
+   {
+    "caption": "What have you learned about overcoming the pressure to please others? If you haven’t read Defy by Sunita Sah, it’s spot on",
+    "hashtags": [],
+    "likes": 34502,
+    "comments": 329,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-20T17:11:19.000Z",
+    "url": "https://www.instagram.com/p/DdhF3cvDiBu/"
+   },
+   {
+    "caption": "Illustrations @researchdoodles @lizandmollie \nA little kindness goes a long way. Between yes and no is “I can’t do that, but I can offer this”—and people are grateful for it.\nResearch: “Halfway to my request is not halfway to my heart: Underestimating appreciation for partial help” (Wang & Xie)\n“Undervaluing the positive impact of kindness starts early” (Echelbarger & Epley)\n“Exploring the effects of prosocial and self-kindness interventions on mental health outcomes” (Naclerio et al)",
+    "hashtags": [],
+    "likes": 17050,
+    "comments": 77,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-05T15:34:16.000Z",
+    "url": "https://www.instagram.com/p/Dc6S1dRkQnA/"
+   },
+   {
+    "caption": "This genius kid sent me on a roller coaster of emotion. Excited to announce my VIBE tour for this fall—hope some of you will join me along with @jennifer.garner @malcolmgladwell @markrober @officiallymcconaughey @mnight @brenebrown @danielpink Ann Patchett, Tim Harford, and more to come!",
+    "hashtags": [],
+    "likes": 15553,
+    "comments": 276,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-08-29T12:39:23.000Z",
+    "url": "https://www.instagram.com/p/Dcn9QfZEU3_/"
+   },
+   {
+    "caption": "When it comes to addressing cheating in schools, in-class essays and oral exams can only go so far, writes @adamgrant, a contributing Opinion writer and organizational psychologist at the @whartonschool. “Creating obstacles is never going to be enough. We need to get at the root of the problem by changing students’ underlying motivations,” he writes.\n\n“Across a series of studies, in a wide range of contexts, psychologists have found that as the stakes of a competitive challenge go up, cheating does, too,” he adds. “Some people are largely immune to this effect. They don’t follow a logic of consequence by calculating whether the benefits of cheating would outweigh the costs. They ask themselves: What’s the right thing for someone like me to do in a situation like this? They have strong moral identities.” \n\nClick the link in our bio to read about how schools can foster moral identities in students, from studying ethics to “inviting kids to think about how cheating is unfair to their friends.” | 🎨 @petey_royale #nytopinion",
+    "hashtags": [
+     "nytopinion"
+    ],
+    "likes": 14507,
+    "comments": 353,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-08-27T19:01:10.000Z",
+    "url": "https://www.instagram.com/p/DcjRrVjAfuj/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.947Z"
+}

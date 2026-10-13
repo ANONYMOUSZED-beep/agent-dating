@@ -1,0 +1,375 @@
+{
+ "linkedin": {
+  "source": "apify-linkedin",
+  "url": "https://www.linkedin.com/in/ryanserhant",
+  "name": "Ryan Serhant",
+  "headline": "Founder & CEO at SERHANT. | Star & EP of Netflix’s Owning Manhattan | 3X Bestselling Author | Investor in Major League Pickleball, RLTY Capital, Blank Street, and more",
+  "about": "Ryan Serhant is one of the most successful and well-known real estate brokers in the world. He is the founder and CEO of SERHANT., a multidimensional real estate brokerage that sits at the intersection of media, entertainment, education, and technology. He is also an innovator, entrepreneur, producer, best-selling author, podcast host, public speaker, educator, content creator, Executive Producer of Netflix's Owning Manhattan, star of multiple Bravo TV shows, including the two-time Emmy-nominated Million Dollar Listing New York.\n\nRyan has closed nearly $10B in sales and represented clients in record-breaking deals in New York and South Florida. Under Ryan’s leadership, SERHANT. has become one of the fastest-growing real estate firms in the United States, with agents across 8 states and an audience of over 6 million across social platforms. The company is also the home of LISTED, a dedicated YouTube network for entertaining lifestyle and real estate shows featuring the firm’s diverse up-and-coming real estate agents.\n\nRyan actively supports City Harvest, Feeding America, the Ali Forney Center, the NYC Sanitation Foundation, the American Cancer Society, and Project Sunshine.\n\nRyan currently resides in Brooklyn with his wife, Emilia, and their daughter, Zena.",
+  "location": "New York, New York, United States",
+  "country": "",
+  "photo": "https://media.licdn.com/dms/image/v2/D4E03AQGvCpOy5US5wQ/profile-displayphoto-crop_800_800/B4EZmqk.anHEAI-/0/1759503445513?e=1793232000&v=beta&t=lVQ6B1ka__e5zoR4SSKC8kDyMfw3lRDBkyCPOo-P5a8",
+  "jobTitles": [
+   "Founder & CEO",
+   "Chief Executive Officer",
+   "Podcast Host",
+   "Contributor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Author",
+   "Star of Million Dollar Listing New York, Bravo TV",
+   "Associate Broker",
+   "Exhibitor",
+   "Actor"
+  ],
+  "positions": [
+   {
+    "company": "SERHANT.",
+    "title": "Founder & CEO",
+    "description": "The first real estate company launched and designed for the marketplace of tomorrow, at the intersection of brokerage, education, media and technology.",
+    "start": {
+     "month": "Sep",
+     "year": 2020,
+     "text": "Sep 2020"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "SERHANT.",
+    "title": "Chief Executive Officer",
+    "description": "",
+    "start": {
+     "month": "Sep",
+     "year": 2020,
+     "text": "Sep 2020"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Business of Influence",
+    "title": "Podcast Host",
+    "description": "I host a podcast where I dive deep into the creator economy, talking with some of the world's biggest influencers!\n\nAvailable on YouTube, Spotify, Apple Podcasts, and all other podcasting platforms.",
+    "start": {
+     "month": "Jan",
+     "year": 2023,
+     "text": "Jan 2023"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Forbes",
+    "title": "Contributor",
+    "description": "I write about real estate, sales advice, and leveraging social media.",
+    "start": {
+     "month": "Jan",
+     "year": 2019,
+     "text": "Jan 2019"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "RLTY Capital",
+    "title": "Investor",
+    "description": "",
+    "start": {
+     "month": "Feb",
+     "year": 2021,
+     "text": "Feb 2021"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Mad Drops Pickleball Club",
+    "title": "Investor",
+    "description": "",
+    "start": {
+     "month": "Jul",
+     "year": 2022,
+     "text": "Jul 2022"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Blank Street",
+    "title": "Investor",
+    "description": "I featured Blank Street in my \"Startup Story Time\" series on social media in December 2022. Their founders saw it, reached out, and invited me to join the cap table.",
+    "start": {
+     "text": "Mar 2023",
+     "month": "Mar",
+     "year": 2023
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Hachette Book Group",
+    "title": "Author",
+    "description": "I am the author of three best-selling books:\n\n• Sell It Like Serhant, published in 2018\n• Big Money Energy, published in 2021\n• Brand It Like Serhant, published in 2024",
+    "start": {
+     "text": "Sep 2018",
+     "month": "Sep",
+     "year": 2018
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "NBCUniversal",
+    "title": "Star of Million Dollar Listing New York, Bravo TV",
+    "description": "Million Dollar Listing New York, a spinoff of Million Dollar Listing LA, debuted in 2012 and was nominated in 2014 and 2015 for an Emmy for outstanding unstructured reality program.\n\nI decided to leave Million Dollar Listing New York in 2021, shortly after launching my brokerage, SERHANT.",
+    "start": {
+     "text": "Jan 2012",
+     "month": "Jan",
+     "year": 2012
+    },
+    "end": {
+     "text": "May 2021",
+     "month": "May",
+     "year": 2021
+    }
+   },
+   {
+    "company": "Nest Seekers International",
+    "title": "Associate Broker",
+    "description": "#1 Sales Team in New York as ranked by the Wall Street Journal \n#3 Sales Team in the Nation as ranked by the Wall Street Journal",
+    "start": {
+     "text": "Sep 2008",
+     "month": "Sep",
+     "year": 2008
+    },
+    "end": {
+     "text": "Jun 2020",
+     "month": "Jun",
+     "year": 2020
+    }
+   },
+   {
+    "company": "National Association of REALTORS®",
+    "title": "Exhibitor",
+    "description": "",
+    "start": {
+     "text": "2013",
+     "year": 2013
+    },
+    "end": {
+     "text": "2013",
+     "year": 2013
+    }
+   },
+   {
+    "company": "CBS News",
+    "title": "Actor",
+    "description": "",
+    "start": {
+     "text": "2007",
+     "year": 2007
+    },
+    "end": {
+     "text": "2008",
+     "year": 2008
+    }
+   }
+  ],
+  "education": [
+   {
+    "school": "Hamilton College",
+    "description": "BA"
+   },
+   {
+    "school": "Pingree School",
+    "description": ""
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "skills": [
+   "Apartments",
+   "Real Estate",
+   "Investment Properties",
+   "Rentals",
+   "Condos",
+   "Selling",
+   "Sales",
+   "Home Staging",
+   "Modeling",
+   "Sellers",
+   "Negotiation",
+   "National Association of Realtors",
+   "Real Estate Transactions",
+   "Real Estate Development",
+   "Buyers",
+   "Television",
+   "Public Relations",
+   "Management",
+   "Relocation Buyers",
+   "First Time Home Buyers",
+   "Leases",
+   "Move Up Buyers",
+   "Training",
+   "Marketing",
+   "Project Management",
+   "Buyer Education",
+   "Real Estate Economics",
+   "Buyer Representation",
+   "Listing Homes",
+   "Investors"
+  ],
+  "followers": 417621,
+  "posts": []
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/ryanserhant/",
+  "username": "ryanserhant",
+  "fullName": "Ryan Serhant",
+  "bio": "Father to an amazing girl, husband to a brilliant wife, CEO of the greatest real estate company in the world \n@serhant",
+  "category": "Entrepreneur",
+  "externalUrl": "http://hoo.be/RyanSerhant",
+  "followers": 3383995,
+  "following": 1649,
+  "postsCount": 1767,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/559733489_18537176491013603_4015801282345098012_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzQuYzIifQ&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFo3tQxtOzeQSbYRgdeUXQGG_BvVmHYWcjes562LypMz0K3purBoZr7ciN0fi3ejxrGgecm_tEFRnxKBZyNx-nS&_nc_ohc=BDR9kJni5NsQ7kNvwG_eEKj&_nc_gid=5v79rnYLNHRto0OpaM7Trw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMLmeMSIdsvG-ZLllp7n8pZUvAhk0Hy4vgAR2UbiRgbeQ&oe=6AD38AA1&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "4 is light work…",
+    "hashtags": [],
+    "likes": 911787,
+    "comments": 7891,
+    "type": "Video",
+    "location": "Manhattan, New York",
+    "timestamp": "2026-08-19T20:51:54.000Z",
+    "url": "https://www.instagram.com/p/DcPFZn4CbWc/"
+   },
+   {
+    "caption": "I moved to New York 20 years ago this month with no job, a little money saved up from working summers in construction and some that my grandfather left me when he died. I gave myself 2 years to “make it” in the city before I’d throw in the towel and move back home. I didn’t know anyone other than my 2 roommates Jon Reese and Dan Cafarelli - we rented a 1 bedroom and put up fake walls to turn it into a 3 bed. My room was half the living room and Dan’s was half the kitchen. Jon got the actual bedroom because he had a “real” job. Everyday I’d say “Ready Set GO!” and try to “make it.” What a time. I didn’t take a whole lot of photos back then on my Palm Treo phone, but I dug these up in the archives. Peter Pan once said to never grow up because once you do, you can never go back. \n\nI think this is my friend’s baby leopard? 2008. \n\nKevin Bacon! Few years later but I just found this photo and I love it. Kevin was a lot to deal with though. 1: he would only eat cottage cheese with Cheerios. Like that’s literally the only thing I could get him to eat.  And 2: he would only sleep in my armpit. Literally. The only reason I don’t have him now is because when I got him, I was told he was a teacup pig, but that was a lie because he got real big real fast and not only was I not allowed to have pets in the apartment I rented, but I definitely didn’t have enough room for a big potbelly pig. \n\nMy girlfriend 💙\n\nFirst day filming Million Dollar Listing New York in 2010. This shot would go on to be one of the most famous openings in any reality TV show in the universe. To do this day, people stop me on the street and ask me to do this pose where I hold the lapels of my suit jacket.  I’m fine with it because I literally do this pose to this actual day.  I don’t like change. \n\nMy razor scooter cycle. Once I got into Real Estate because I couldn’t make any money as an actor and I was dead broke in the summer of 2008. I used any money. I had saved up after paying rent and paying for food to buy this thing. Getting around the city in the subway at the time was brutal. It was hot, there was no cell service, and you couldn’t guarantee it wasn’t going to break or not and you’d miss an a",
+    "hashtags": [],
+    "likes": 79231,
+    "comments": 964,
+    "type": "Sidecar",
+    "location": "New York, New York",
+    "timestamp": "2026-07-18T19:46:59.000Z",
+    "url": "https://www.instagram.com/p/Da8kziBEfnH/"
+   },
+   {
+    "caption": "Morning routine of a CEO | 4:30 AM - 8:00 AM",
+    "hashtags": [],
+    "likes": 40201,
+    "comments": 724,
+    "type": "Video",
+    "location": "SERHANT.",
+    "timestamp": "2026-06-25T17:07:18.000Z",
+    "url": "https://www.instagram.com/p/DaBD77EOBBO/"
+   },
+   {
+    "caption": "DAY IN THE LIFE OF A CEO | 4:30 AM - 11:00 PM\n\nStarting my day with Elk Antler extract because I knew the day was going to be crazy... property tour with @thebrandonbogard and @mallorybogard in their new listing at\n200 Central Park South before racing through town to get to @adweek with @dhar.mann to speak on stage with @nickcannon @travelwithlivii @harryjowsey @bigboy @fatjoe and @christinamilian then, since I was late, I had to jump on an E-Bike to beat traffic and race uptown for a private showing, press for S.MPLE 2.0. Then back to the office for more meetings, my first meal of the day, another showing, quick power nap before doing more press for the launch of @serhantchicago (so excited about this) met up with my beautiful wife @emiliaserhant so that we can get to the Hudson River Park Gala where I met up with my new best friend @ronnychieng and our incredibly talented duo @greg__chan and Jon Katz along with my sister and her husband. What an honor it was to be honored. Man... what a day.",
+    "hashtags": [],
+    "likes": 12508,
+    "comments": 230,
+    "type": "Video",
+    "location": "SERHANT.",
+    "timestamp": "2026-10-12T18:41:37.000Z",
+    "url": "https://www.instagram.com/p/DeZ5XKPikpW/"
+   },
+   {
+    "caption": "As announced at Sell It 26. \n\nSERHANT. Stars 2027 is heading to Scotland, and this year it’s Traitors themed. \n\nOur top producers who hit $1M+ in GCI earn an all-expense-paid spot at the round table for a few unforgettable days, celebrating a year of hard work and career milestones. \n\nCloaks on, deals closed, castle bound. 🚀",
+    "hashtags": [],
+    "likes": 2212,
+    "comments": 75,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-10T18:56:16.000Z",
+    "url": "https://www.instagram.com/p/DeUxeD8v2n0/"
+   },
+   {
+    "caption": "I’ve always wanted to be in two places at once. Starting today, I am. Say hi to @heyserhant \n\nAvatar created with HeyGen",
+    "hashtags": [],
+    "likes": 5923,
+    "comments": 170,
+    "type": "Video",
+    "location": "SERHANT.",
+    "timestamp": "2026-10-08T12:00:08.000Z",
+    "url": "https://www.instagram.com/p/DeO4kkpOO3K/"
+   },
+   {
+    "caption": "People can’t afford their first home and their parents can’t afford to sell their last one 🤷‍♀️ I have two ideas",
+    "hashtags": [],
+    "likes": 8863,
+    "comments": 534,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-07T21:00:17.000Z",
+    "url": "https://www.instagram.com/p/DeNRWiSiM0D/"
+   },
+   {
+    "caption": "These are my TOP 3 tips for buying a home in Texas. #AD SO PROUD of my entire @serhant.texas family for all the incredible service they’ve provided their clients, alongside our 14-year relationship with the incredible Home Lending Advisors at Chase who continue to provide our buyers with exceptional service, clear expectations, consistent communication, and zero surprises. \n#ChasePartner",
+    "hashtags": [
+     "AD",
+     "ChasePartner"
+    ],
+    "likes": 1335,
+    "comments": 45,
+    "type": "Video",
+    "location": "SERHANT.",
+    "timestamp": "2026-10-07T20:57:39.000Z",
+    "url": "https://www.instagram.com/p/DeNRHqmCozW/"
+   },
+   {
+    "caption": "Emergency Press Announcement: Hello SERHANT. Chicago!\n\nPoll: “Give people a reason to stay, and you’ll never have to stand in their way.” - my grandma (who is in Wisconsin, and who is 101, and took me to chicago for the first time when I was 5 btw!)",
+    "hashtags": [],
+    "likes": 4376,
+    "comments": 278,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-06T17:17:48.000Z",
+    "url": "https://www.instagram.com/p/DeKS8wyRPy2/"
+   },
+   {
+    "caption": "The forecast for Chicago? A serious change in the wind. 🌬️\nㅤ\nTwo offices. 40+ agents. $600M+ in sales volume across Chicagoland. SERHANT. Illinois is officially here, serving the city of Chicago and the North Shore suburbs.\nㅤ\nA fresh start for Chi-town begins 🚀💙🌟",
+    "hashtags": [],
+    "likes": 3616,
+    "comments": 276,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-06T14:04:53.000Z",
+    "url": "https://www.instagram.com/p/DeJ9MP_EfRG/"
+   },
+   {
+    "caption": "You’re buying the property next door too.\n\nOffered together, 1617 and 1619 19th Street NW combine a meticulously engineered luxury residence with a fully renovated, income-producing three-unit building, creating an exceptional legacy estate with unparalleled versatility.\n\nEven more rare… a two car garage, which is virtually unheard of in DC. \n\n9 beds | 9.5 baths | 6,636 SQFT\n1619 + 1617 19th Street NW Washington, DC\n\nRepped by @baraksky and @annamackler of @the_sky_group",
+    "hashtags": [],
+    "likes": 4381,
+    "comments": 115,
+    "type": "Video",
+    "location": "Dupont Circle, Washington DC",
+    "timestamp": "2026-10-05T21:07:11.000Z",
+    "url": "https://www.instagram.com/p/DeIIh5wCi1n/"
+   },
+   {
+    "caption": "Tribeca penthouse perfection. \n\nWelcome to 405 Greenwich Street PH. A full-floor penthouse loft with 2,312 SF of interior space and an extraordinary 1,284 SF private landscaped roof terrace, accessed directly from inside the home.\n\nA key-locked elevator opens straight into the residence, where soaring ceilings, oversized windows, multiple skylights, original exposed brick and a wood-burning fireplace bring classic Tribeca character throughout.\n\nThe newly renovated chef’s kitchen features custom cabinetry, marble countertops and a substantial center island, while the expansive great room is built for entertaining.\n\nUpstairs, your private rooftop oasis offers dedicated spaces for dining and lounging surrounded by mature landscaping and open Tribeca views.\n\n405 Greenwich Street PH | Tribeca\n2 Beds | 2 Baths | 2,312 SF Interior\n1,284 SF Private Roof Terrace\n\nListed by Andrew Feldman & myself",
+    "hashtags": [],
+    "likes": 6757,
+    "comments": 105,
+    "type": "Video",
+    "location": "Tribeca, New York City",
+    "timestamp": "2026-10-02T19:54:46.000Z",
+    "url": "https://www.instagram.com/p/DeAR_wgSaOA/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.992Z"
+}

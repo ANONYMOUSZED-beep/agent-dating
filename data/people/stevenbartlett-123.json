@@ -1,0 +1,359 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/stevenbartlett-123",
+  "name": "Steven Bartlett",
+  "headline": "Founder: Steven.com The Creator Economy Company, home to FlightStory & FlightCast.",
+  "about": "Steven Bartlett is a 33-year-old British entrepreneur, investor in more than 100 companies, speaker, author, and media owner. He is the founder of Steven.com - the creator media company. Through it's podcast creator \"label\" called FlightStory, they create and scales new media podcast IP and commercialise that IP through brand partnerships, programmatic revenue, events, book publishing, newsletters, e-commerce, and new product development.\n\nHe is also the co-founder of thirdweb, a developer platform powering over 100,000 teams to build and launch web3 applications, and FlightCast, a video-first podcast hosting platform used by some of the world’s largest shows.\n\nSteven first gained recognition as the co-founder and CEO of Social Chain AG, a social media marketing and e-commerce company he launched at 21 and took public on a European stock exchange by the age of 27 via reverse merger. Social Chain AG became a globally recognised business with hundreds of employees across London, Manchester, Berlin, New York, and Los Angeles, working with major brands including Amazon, Apple, and Coca-Cola.\n\nThrough his Fund and personal investments, he has backed companies including SpaceX, Huel, ZOE, Whoop, MrBeast, Groq, KetoneIQ, Cadence, PerfectTed, and over 60 others - focusing on businesses that improve human health, happiness, and performance.\n\nSteven is also the creator and host of The Diary of a CEO, currently the world's most downloaded / watched podcast and the fastest-growing podcast in the world. He is the youngest-ever investor on BBC’s Dragons’ Den.\n\nReach My Team 👇🏽\nCommercial & Speaking: commercial@stevenbartlett.com\nPress: press@stevenbartlett.com\nPodcast Enquiries: bookings@stevenbartlett.com\nEvents: events@stevenbartlett.com\nFund & Venture Investments: www.flightfund.com",
+  "location": "United Kingdom",
+  "country": "GB",
+  "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFOA04ym7Mcbw/profile-displayphoto-scale_200_200/B4EZvR5vDlGcAY-/0/1768753132436?e=2147483647&v=beta&t=IZifXaD93XVwYkGmaGBvU5umr93wX-2OBTwX61xJozU",
+  "jobTitles": [
+   "Founder & CEO",
+   "Founder",
+   "Co-Founder",
+   "Co-Owner",
+   "Co-owner",
+   "Founder",
+   "Investor & Partner",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor"
+  ],
+  "positions": [
+   {
+    "company": "Steven.com",
+    "title": "",
+    "description": "Steven.com is the creator economy company. We build and own businesses across every layer of it: media, technology, commerce, community and events. Home to some of the biggest creator IP and most advanced creator technology in the world. London, Manchester, New York and LA.",
+    "start": "2025-11",
+    "end": ""
+   },
+   {
+    "company": "FLIGHTSTORY",
+    "title": "",
+    "description": "FlightStory is a creator media company and the home of The Diary of a CEO - With Steven Bartlett, We Need To Talk With Paul Brunson, Begin Again With Davina McCall, Hot Smart Rich With Maggie Sellers and 30 other creators. We produce long-form media IP that had reached billions globally.",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "Flightcast",
+    "title": "",
+    "description": "A few years ago we got annoyed that all the podcast hosting platforms were inadequate and built for the past. So myself and Rox built a better one, which is built for the future. FlightCast is an AI-powered distribution platform built for podcast creators. It automates publishing, optimises content for each platform, and gives creators the infrastructure to grow without the operational overhead. www.flightcast.com. It's now used by many of the world's biggest shows.",
+    "start": "2024-05",
+    "end": ""
+   },
+   {
+    "company": "Chapter 2",
+    "title": "",
+    "description": "8 years ago I met Leo Harrison before Chapter2 was founded, and we wanted to start a company together. We couldn't quite decide what to start, but ultimately he came back to me some years later with Chapter2 and I became the companies sole investor and partner. The company now employs hundreds of people and drives the talent function for some of the world's leading brands.",
+    "start": "2024-07",
+    "end": ""
+   },
+   {
+    "company": "Ketone-IQ",
+    "title": "",
+    "description": "",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "The Diary Of A CEO",
+    "title": "",
+    "description": "I started a podcast and it got out of hand.",
+    "start": "2020-01",
+    "end": ""
+   },
+   {
+    "company": "PerfectTed",
+    "title": "",
+    "description": "PerfectTed is the UK’s fastest growing founder led company according to a recent report. They are also Europe’s leading Matcha brand. I was the first investor and partner, having invested £1m± into the company - they’ve recently exceeded $100m annual run rate and are on track to become the world’s biggest matcha brand. They are also Dragons Den's most successful ever deal.",
+    "start": "2022-01",
+    "end": ""
+   },
+   {
+    "company": "Neko Health",
+    "title": "",
+    "description": "Invested $2.8m into Neko Health to help build the infrastructure for preventable health care.",
+    "start": "2026-01",
+    "end": ""
+   },
+   {
+    "company": "Lovable",
+    "title": "",
+    "description": "",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "Stan",
+    "title": "",
+    "description": "Empowering the next generation of creator-entrepreneurs. I joined Stan as an investor to help scale the most accessible platform for monetising digital audiences. From strategy to storytelling, I’m supporting Stan’s mission to make financial freedom possible for anyone with a smartphone and an idea.",
+    "start": "2025-04",
+    "end": ""
+   },
+   {
+    "company": "SpaceX",
+    "title": "",
+    "description": "Invested in SpaceX as a private company at a roughly $150b± valuation. SpaceX would later IPO reaching a $3T valuation.",
+    "start": "2024-01",
+    "end": ""
+   },
+   {
+    "company": "Wispr Flow",
+    "title": "",
+    "description": "Become a shareholder, investor and partner in Wispr Flow early in the companies story after personally reaching out to the companies founders. This year the company closed a large investment round at a $2B valuation, led by Menlo Ventures, with Goodwater Capital, Forerunner, and Acrew Capital joining as major investors, alongside an incredible group of other funds, angels, and a few celebrities.",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "WHOOP",
+    "title": "",
+    "description": "",
+    "start": "2023-01",
+    "end": ""
+   },
+   {
+    "company": "Groq",
+    "title": "",
+    "description": "Invested $1m. Company sold for $20 Billion.",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "Replit",
+    "title": "",
+    "description": "",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "Cadence",
+    "title": "",
+    "description": "The company’s lead Investor. Investing $2m± early into the companies growth.",
+    "start": "2025-07",
+    "end": ""
+   },
+   {
+    "company": "Metastat",
+    "title": "",
+    "description": "MetaStat is a performance marketing partner that turns creators into entrepreneurs through data-led creative and paid media. We combine strategy, AI-enhanced content, and real-time analytics to build campaigns that drive customer acquisition and long-term brand value. To date, we’ve generated over $100M in revenue for global creator partners by helping them transform audiences into scalable businesses. By treating paid media as a growth engine, we deliver predictable, sustainable growth for founder and creator-led brands and events.",
+    "start": "2023-01",
+    "end": ""
+   },
+   {
+    "company": "thirdweb",
+    "title": "",
+    "description": "",
+    "start": "2021-04",
+    "end": ""
+   },
+   {
+    "company": "MrBeast",
+    "title": "",
+    "description": "",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "ZOE",
+    "title": "",
+    "description": "",
+    "start": "2022-01",
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "Huel",
+    "description": "As an Investor, Board Member at Huel from 2022 to 2025, I'm honoured to have supported the company’s incredible growth up to £214M in revenue. My involvement with the company ended in late 2023 early 2024 when I joined Zoe and I stepped down from the board in late 2024 ahead of my move to America in 2025. Huel was aquired by Danone for €1bn."
+   },
+   {
+    "school": "SocialChain",
+    "description": "In 2021, Steven Bartlett signed a new contract with The Social Chain AG to support the company in the lead up to it's stock market uplisting. Social Chain AG officially uplisted its shares to the Prime Standard segment of the Frankfurt Stock Exchange on November 12, 2021. At the time of this 2021 listing, the company's valuation had reached approximately $600 million."
+   },
+   {
+    "school": "atai Life Sciences",
+    "description": "ATAI is one of the world’s largest and most exciting mental health company using psychedelic and non-psychedelic drugs to heal mental health disorders so that everyone, everyone can lead a more fulfilled life. I invested in ATAI’s series C round and then joined the team as a director through their IPO. \n\nI worked alongside ATAI’s founder and CEO to prepare the company for its IPO. Working across everything from strategy, marketing, comms, hiring and preparing the key assets for the NASDAQ IPO. \n\nIn 2021 ATAI IPO’d on the Nasdaq with a $3bn~ market cap. My contract was 6 months long, but I voluntarily extended for another 6 months because the IPO was delayed. I departed the company after the IPO.\n\nEli Lilly would later acquired AtaiBeckley for $2.8B."
+   },
+   {
+    "school": "SocialChain",
+    "description": "In 2014 aged 21 Steven founded Social Chain & Media Chain, which went on to become “Social Chain AG” a publicly listed company with more than 500 employees, via merger. Between 2018-2020 Steven led the 'Social Chain AG' as co-CEO’s alongside Wanja Oberhof, before resigning in August 2020 at 27 years old, 6 years after founding the company. At the time of Steven's resignation Social Chain AG's market cap had reached $300m±. Steven Bartlett sold a significant portion of his shares in Social Chain AG in December 2020, when the company’s market capitalisation was approximately $300 million. The transaction, which marked Steven Bartlett’s first business exit, was facilitated by co-founder and CEO Wanja Oberhof. At the time of the sale, Bartlett was 28 years old."
+   },
+   {
+    "school": "Bebo",
+    "description": "After the founder of Bebo sold the company for $800m and then bought it back for $1m, I worked alongside his team in San Fransisco to bring Bebo back! \n\nAt roughly 19-21 years old I worked across a variety of different teams in the Monkey inferno HQ in San Fransisco, building applications and driving growth.\n\nhttps://www.linkedin.com/company/monkey-inferno/about/"
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "followers": 3246130,
+  "posts": [
+   "You don't need to burnout to build a billion dollar business",
+   "TOP TIPS for staying productive and beating procrastination",
+   "Business Secrets: 5 LESSONS you need to learn FAST from Holly Tucker, Founder of Notonthehighstreet.com",
+   "YouGov: 100% of the UK's most famous and popular newspaper columnists are white!",
+   "5 small tips on how to give a powerful public speech",
+   "Stop Saying Yes.",
+   "The story of a young desperate kid that decided he would rather dance.",
+   "The 10 most common mistakes most companies made on social media in 2017, and will make again in 2018:",
+   "REVEALED: HOW TO GROW A BIG SNAPCHAT CHANNEL!",
+   "My 10 tips on starting a business before you're 25.",
+   "Sarah Mary Cunningham"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/steven/",
+  "username": "steven",
+  "fullName": "Steven Bartlett",
+  "bio": "Entrepreneur: Steven.com, @flightstorystudio , @flightfund, @founded, Thirdweb.com\nInvestor: 100+ companies \nPodcast: @thediaryofaceopodcast",
+  "category": "",
+  "externalUrl": "https://link.thediaryofaceo.com/BTDepisode1",
+  "followers": 5290070,
+  "following": 1576,
+  "postsCount": 2896,
+  "verified": true,
+  "private": false,
+  "photo": "https://instagram.fpmw4-1.fna.fbcdn.net/v/t51.82787-19/704932889_18588343681053811_3936447042547925360_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTAuYzIifQ&_nc_ht=instagram.fpmw4-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFGqLWSfeI4VLRgzb_HhogesIZ8qC2eIqL_NRO5HOlItIj2nBZVYBbBn0djXAYnzsA&_nc_ohc=SKSx4g2NUl0Q7kNvwHlitK6&_nc_gid=HEpPIv_yQQrWkHHijAyskg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMLnuYks2OdLJ6nKoOzMjmSP5KCLOV5kezqfAJWWEfh-g&oe=6AD3AB36&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "“humans were designed to create, this is why we get depressed when all we do is consume” - unknown",
+    "hashtags": [],
+    "likes": 163028,
+    "comments": 1429,
+    "type": "Sidecar",
+    "location": "All Over the World",
+    "timestamp": "2026-03-15T20:34:36.000Z",
+    "url": "https://www.instagram.com/p/DV6y43-iWkZ/"
+   },
+   {
+    "caption": "🥲 so so surreal! i’ve watched Jimmy Fallon since I was a kid - him and his show are iconic in my eyes - and kids like me from Botswana / Plymouth in the UK don’t do Jimmy Fallon… I’m so grateful to my team, my family and to all of you guys for all the encouragement and support - today was another “wtf is going on..” moment ❤️👊🏾",
+    "hashtags": [],
+    "likes": 81053,
+    "comments": 1762,
+    "type": "Sidecar",
+    "location": "New York City",
+    "timestamp": "2025-09-11T06:48:28.000Z",
+    "url": "https://www.instagram.com/p/DOc9SUHjg9k/"
+   },
+   {
+    "caption": "Today was surreal! Prince William's team asked me to work with him over the coming years on a project to end homelessness in the UK through his Foundation @homewardsuk ! This is part of a multi-year campaign that me and Prince William are embarking on to change the state of homelessness in the UK.\n\n🥪 We started the day in a Pret A Manger in Bournemouth! We both put on aprons, made coffee's, sandwiches, and got to meet some of the incredible team members that are former refugees, former inmates and formerly homeless!\n\n⚽️ We drove over to Bournemouth FC and met players from the Men's and Women's team who had come through the bounce back program and used football to change their lives. \n\n🎤 I was lucky enough to have a few moments to ask the future king some questions on his own personal motivations and how we manages his time! \n\n👩🏻‍💼 Myself and Prince William then hosted a business round table with a group of local business leaders about how they could work to hire more homeless individuals into their organisation! \n\nThis is just the beginning of a big piece of work we're planning to do with Prince William, Homewards and the UK business community to help get homeless people (and former inmates) back into work, to up-skill them and to end homelessness for good!\n\n🤯 Side note:\n\nIf you had told me as a kid, I would be spending the day with Prince William, the future King - I would never ever ever believed you. I grew up with a Nigerian mother and a english dad who both adore the royal family, one of my earliest memories is watching my mum and dad cry when Diana died. William has a wonderful way with people, and he was authentically kind both on and off camera today! Thank you to whatever force in the universe put me there today, I'm so grateful and a little confused. A day I'm sure I'll tell my kids about. \n\nIf you're a business please do check out Homewards work! Together as a business community we can do a lot more to get all the talent we have in this country back to work! ❤️",
+    "hashtags": [],
+    "likes": 175169,
+    "comments": 3551,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2023-09-07T15:34:34.000Z",
+    "url": "https://www.instagram.com/p/Cw5VOYNslCt/"
+   },
+   {
+    "caption": "🥲🥲🥲 such a beautiful story!!! We just hit $100,000 ❤️❤️❤️ thank you @tonyrobbins and @kayla_itsines and well done @mrlumore",
+    "hashtags": [],
+    "likes": 214017,
+    "comments": 6126,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-04T18:34:17.000Z",
+    "url": "https://www.instagram.com/p/DeFSLXCP3t7/"
+   },
+   {
+    "caption": "A side of @druski that the world has never seen...\n\nTomorrow, 9.24.26 👀 \n\nComment ‘Druski’ and we’ll DM you the episode when it’s live.",
+    "hashtags": [],
+    "likes": 201901,
+    "comments": 3448,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-23T19:00:12.000Z",
+    "url": "https://www.instagram.com/p/DdpAshdsya7/"
+   },
+   {
+    "caption": "i have no words to describe how crazy it is to me that this all started with a $100 microphone and a decision to hit “publish”, thank you so much for all your support DOAC fam ❤️👊🏾",
+    "hashtags": [],
+    "likes": 13412,
+    "comments": 506,
+    "type": "Sidecar",
+    "location": "New York City",
+    "timestamp": "2026-09-15T09:50:32.000Z",
+    "url": "https://www.instagram.com/p/DdTbcrYAKor/"
+   },
+   {
+    "caption": "I AM 34 🎂 🎁 ♍️ thank you to the universe, to all of you and to whatever god there is for everything ❤️ grateful",
+    "hashtags": [],
+    "likes": 77813,
+    "comments": 2292,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-07T08:16:24.000Z",
+    "url": "https://www.instagram.com/p/Dc-qULtldP_/"
+   },
+   {
+    "caption": "“The only real test of intelligence is if you get what you want out of life.” ❤️ - Naval\n\n#StevenBartlett",
+    "hashtags": [
+     "StevenBartlett"
+    ],
+    "likes": 130868,
+    "comments": 1103,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-06-08T17:00:04.000Z",
+    "url": "https://www.instagram.com/p/DZVSAUmDDPD/"
+   },
+   {
+    "caption": "She said Yes 💍🥺\n\nTo say I was nervous is an understatement… i could feel my heart racing in my chest. She thought I was away in Europe - but I had snuck into Morocco on Christmas Day where she was on holiday with her family - I asked her mother and father if I could ask her to marry me - then had to build this big hut outside because a thunderstorm was forecast last minute 😅 - and then I stepped out and surprised her when she thought she was meeting her fam for dinner. Thankfully she said yes. \n\n10 years ago, I didn’t really understand the concept of marriage as many of you know - I was definitely an “avoidant” - but when you meet the right person, a lot of things start to make a lot of sense ❤️\n\nUpdate: thank you for all the kind words and congratulations!!!",
+    "hashtags": [],
+    "likes": 657938,
+    "comments": 15882,
+    "type": "Sidecar",
+    "location": "Marrakech, Morocco",
+    "timestamp": "2026-01-18T11:58:59.000Z",
+    "url": "https://www.instagram.com/p/DTprXdLDH_T/"
+   },
+   {
+    "caption": "SOME NEWS 🚨 this year I’m joining @sharktankabc !!! 📺 🇺🇸 this was a dream of mine AND my mums...let me explain👇🏾\n\nMy nigerian mum raised 4 of us without being able to read or write herself, having left school when she was a child in Nigeria.\n\nI struggled with school too - I wasn’t a smart kid and couldn’t pay attention, so I quickly realised the “traditional path” wasn’t going to work for someone like me\n\nThen, when I was 12 years old, I discovered Dragons’ Den! 🐉\n\nMe and my mum both fell in love with the show. Looking back, I think entrepreneurship offered us both hope - a path to a better life for people like us, who couldn’t pass tests in a classroom but were willing to work hard.\n\nAt 12 I would pause the TV and give my verdict, as if I was the 6th Dragon\n\nBy 16 I’d discovered Shark Tank and was starting my first (terrible) businesses\n\nBy 18 I was a university dropout with a start-up\n\nAnd somehow, 9 years later, I ended up sitting in one of those Dragons’ Den chairs I used to shout at from our sofa\n\nMy mum has never fully gotten over it. \n\nWhen I call her today, 6 years later, the conversation is still 80% Dragons’ Den - her opinion on what I said, the businesses, what SHE would have done...\n\nBtw, i’m genuinely not sure if she knows I have a podcast 😂 i don’t think she’s ever mentioned it 😅\n\nBut she knows Dragons’ Den, and that’s more than enough for her.\n\nI know she’s always wanted me to do Shark Tank, so this phone call - telling her that day had come absolutely made my day, and hopefully her’s too!\n\nI very much hope to do her proud + all of you that have supported me for the longest time... wish me luck!! 👊🏾❤️\n\nP.S who would win in a fight, a shark 🦈 or a dragon 🐉 ???\n\n#sharktank #stevenbartlett",
+    "hashtags": [
+     "sharktank",
+     "stevenbartlett"
+    ],
+    "likes": 159022,
+    "comments": 8507,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-07-13T10:49:30.000Z",
+    "url": "https://www.instagram.com/p/Dauu7augLWn/"
+   },
+   {
+    "caption": "😳 It’s absolutely crazy how much that $100 microphone changed my life… and now we’re building the platform to help creators everywhere do the same!\n\nSteven.com is the creator holding company built to help high-potential creators grow their audience, build IP, commercialise their work, launch ventures, and provides the technology to power it all.​❤️👊🏾\n\nVia @flightstory our media division which is part of Steven.com, we’ve already begun scaling, commercialising and building ventures with some of the world’s most exciting creators!\n\nIf you’re an aspiring creator please do get in touch ❤️👊🏾\n\n…and thank you again for all the love and support you’ve shown me and my team over the last few years - you’ve absolutely allowed us to live a Disney style dream! 🏰",
+    "hashtags": [],
+    "likes": 77012,
+    "comments": 4909,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2025-10-27T16:50:07.000Z",
+    "url": "https://www.instagram.com/p/DQUetExj0NJ/"
+   },
+   {
+    "caption": "@steven was thorough about his research into Jimmy ahead of his The Diary Of A CEO episode! #FallonTonight",
+    "hashtags": [
+     "FallonTonight"
+    ],
+    "likes": 111098,
+    "comments": 1073,
+    "type": "Video",
+    "location": "The Tonight Show Starring Jimmy Fallon",
+    "timestamp": "2025-09-11T04:04:12.000Z",
+    "url": "https://www.instagram.com/p/DOcqc2Wjjn3/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.905Z"
+}

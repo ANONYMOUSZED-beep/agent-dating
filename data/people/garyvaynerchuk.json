@@ -1,0 +1,360 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/garyvaynerchuk",
+  "name": "Gary Vaynerchuk",
+  "headline": "Chairman – VaynerX, CEO – VaynerMedia, Creator – VeeFriends",
+  "about": "Gary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and Creator and CEO of VeeFriends, and 6x New York Times Best Selling Author. Gary is considered one of the leading global minds on what's next in culture, business, and the internet. \n\nKnown as \"GaryVee,\" he is described as one of the most forward thinkers in business. He acutely recognizes trends and patterns early to help others understand how shifts in consumer attention impact the realities of the business world today. Gary's approach sits at the intersection of business and pop culture. He keenly understands how to bring brand relevance to the forefront. He is a prolific angel investor with early investments in companies like Facebook, Twitter, Tumblr, Venmo, Snapchat, Coinbase, and Uber. \n\nGary is an entrepreneur at heart – he builds businesses. Today, he helps Fortune 1000 brands leverage consumer attention through his full-service advertising agency, VaynerMedia, which has ofﬁces in Amsterdam, Bangkok, Chicago, Delhi, Kuala Lumpur, London, Los Angeles, Mexico City, Miami, New York, Tokyo, Toronto, Singapore, and Sydney. VaynerMedia is part of the VaynerX modern-day parent company, which also includes Eva Nosidam Productions, Gallery Media Group, ChukMedia, VaynerSpeakers, VaynerCommerce, Tamara Group, and Tingley Lane Trading. Gary is the Co-Founder of VaynerSports, VCR Group, VaynerWatt, Resy, and Empathy Wines. He guided Resy and Empathy to successful exits -- which he later sold to American Express and Constellation Brands, respectively. He also owns a Major League Pickleball team called the 5s, is part owner of a Big3 basketball team, and is an investor in the revival of the SlamBall League. \n\nGary is also the founder and creator of VeeCon – a contemporary super conference that converges business and pop culture with innovation and technology. In addition to running multiple businesses, Gary documents his daily life as a CEO through his social media channels, which have more than 50 million followers and garner more than 2+ billion impressions per year across all platforms. His podcast, \"The GaryVee Audio Experience,\" ranks among the top podcasts globally. \n\nGary serves on the board of MikMak, Bojangles Restaurants, Global Citizen Forum, The Paley Center, and Pencils of Promise. He is also an advisor for District and a longtime Well Member of charity: water. \n\nGary's life ambition is to buy the New York Jets.",
+  "location": "New York, New York, United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFAvHbFTXirbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718260287453?e=2147483647&v=beta&t=GuI4m4JQAcZah8uVf3_yT647EtyXD3FiXoJ0cT7y2WE",
+  "jobTitles": [
+   "Chairman of VaynerX, CEO of VaynerMedia",
+   "Creator",
+   "CEO",
+   "Investor",
+   "Co-Founder",
+   "Investor",
+   "Angel Investor",
+   "Angel Investor",
+   "Angel Investor",
+   "Investor",
+   "Board Member",
+   "Investor",
+   "Board Member",
+   "Co-Founder",
+   "Angel Investor",
+   "Co-Founder",
+   "Chief Executive Officer",
+   "Host",
+   "Host/Producer",
+   "Host"
+  ],
+  "positions": [
+   {
+    "company": "VaynerX",
+    "title": "",
+    "description": "I’m the Chairman of VaynerX, a modern-day parent company built to scale brands for the now. Our family of relevance-driving businesses includes VaynerMedia, ChukMedia, Tamara Group, Gallery Media Group, Tingley Lane Trading, and VaynerSpeakers. \n\nOur specialties include:\n\n • Creative\n • Strategy\n • Media\n • Analytics \n • Commerce\n • Influencers\n • Experiential\n • Collectibles\n\nWant to work with us? DM me.",
+    "start": "2009-04",
+    "end": ""
+   },
+   {
+    "company": "VeeFriends",
+    "title": "",
+    "description": "VeeFriends is a contemporary entertainment company that combines art, storytelling, collecting, events and innovative technologies to build a community around a movement of kindness and positivity. The company’s mission is to scale 283 unique VeeFriends characters and their attributes to create a better world. These characters foster a sense of community and inspire creativity, self-discovery, accountability, and personal growth. VeeFriends’ characters represent qualities and traits Gary hopes to inspire in others. VeeFriends’ intellectual property was minted on the Ethereum blockchain to create unprecedented opportunities for utility, collectibility, and community building.",
+    "start": "2021-05",
+    "end": ""
+   },
+   {
+    "company": "Vayner3",
+    "title": "",
+    "description": "Vayner3 was founded to help the world’s leading enterprises navigate the next era of connected consumer behavior. Our mission is to grow your business by helping to build new markets and revolutionize digital engagement, charting a new course for enterprises. \n\nVayner3 partners with leading brands to shape the next era of the internet; leverage AR, Blockchain, AI, and immersive digital experiences to future-proof your business.",
+    "start": "2021-06",
+    "end": ""
+   },
+   {
+    "company": "Liquid Death",
+    "title": "",
+    "description": "Liquid Death is natural mountain water served in ice-cold infinitely recyclable cans.",
+    "start": "2019-05",
+    "end": ""
+   },
+   {
+    "company": "VCR Group",
+    "title": "",
+    "description": "VCR Group is a modern hospitality company comprised of kind and talented operators with a simple focus of creating consumer-centric experiences through unmatched hospitality.",
+    "start": "2021-06",
+    "end": ""
+   },
+   {
+    "company": "Slack",
+    "title": "",
+    "description": "I invested in slack pre-IPO in 2018. They were acquired in 2020 by Salesforce for $27.7B.",
+    "start": "2018-03",
+    "end": ""
+   },
+   {
+    "company": "Twitter",
+    "title": "",
+    "description": "I invested in Twitter in 2009, a few years after it was founded.",
+    "start": "2009-06",
+    "end": ""
+   },
+   {
+    "company": "Uber",
+    "title": "",
+    "description": "I was an early investor in Uber in 2012 (after famously passing on it a couple of years prior). \n\nThe company went public in 2019.",
+    "start": "2012-01",
+    "end": ""
+   },
+   {
+    "company": "Venmo",
+    "title": "",
+    "description": "I'm an early investor in Venmo, a digital wallet that makes it easy to send & receive money.",
+    "start": "2012-02",
+    "end": ""
+   },
+   {
+    "company": "Facebook",
+    "title": "",
+    "description": "I invested in Facebook pre-IPO in 2010, the company went public two years later.",
+    "start": "2010-03",
+    "end": ""
+   },
+   {
+    "company": "Bojangles'​ Restaurants, Inc.",
+    "title": "",
+    "description": "Bojangles is a restaurant chain that started in the South, and serves food with real deal Southern flavor. I joined the board in early 2020.",
+    "start": "2020-01",
+    "end": ""
+   },
+   {
+    "company": "Coinbase",
+    "title": "",
+    "description": "Coinbase is a digital platform that makes it easier to buy & sell cryptocurrency. I invested in the company in 2014 via Vayner/RSE.",
+    "start": "2014-12",
+    "end": ""
+   },
+   {
+    "company": "MikMak",
+    "title": "",
+    "description": "MikMak (founded by Rachel Tipograph) lets brands unify their digital storefront across online retailers. I joined the board back in 2016.",
+    "start": "2016-08",
+    "end": ""
+   },
+   {
+    "company": "VaynerSports",
+    "title": "",
+    "description": "VaynerSports is a full-service athlete representation agency that guides players through a variety of issues involving their professional career. We are improving the level of service beyond what any athlete has experienced in the industry thus far, one client at a time.",
+    "start": "2016-01",
+    "end": ""
+   },
+   {
+    "company": "Liquid I.V.",
+    "title": "",
+    "description": "I invested in Liquid IV in 2019, a wellness brand that's known for its non-GMO drink mixes. \n\nThe company has received attention & financial backing from people including Demi Lovato, Kevin Hart, Kendall Jenner, Hailey and Justin Bieber, James Corden, Usher, DJ Khaled, Steve Aoki, Patrick Schwarzenegger, Maria Shriver, Yes Theory, Freddy Wexler, Jake Kassan, Elle and Ross Walker, and Moiz Ali.",
+    "start": "2019-07",
+    "end": ""
+   },
+   {
+    "company": "Vayner/RSE",
+    "title": "",
+    "description": "I was an angel investor in companies like Facebook, Twitter, Tumblr, Uber, and Birchbox before eventually co-founding VaynerRSE, a 25M New York-based venture capital firm specializing in seed-stage investments.\n\nPartners include: Phil Toronto, AJ Vaynerchuk, Matt Higgins and Kerry Kellogg\n\nOur portfolio includes: Medium, CoinBase, Birchbox, Snap, Resy, Beme, Breather, Shyp and more.",
+    "start": "2014-02",
+    "end": ""
+   },
+   {
+    "company": "VaynerMedia",
+    "title": "",
+    "description": "Gary co-founded VaynerMedia in 2009 with his younger brother, AJ Vaynerchuk. True to his own DNA, Gary never raised startup funding and began the business in a conference room at Buddy Media. Just nine years later, the company included more than 800 employees, servicing clients such as PepsiCo, GE, Johnson and Johnson, Chase, AbInBev and more.\n\nSince its founding, VaynerMedia has flourished, having built best-in-class capabilities in paid media, strategy, full-service creative, influencer marketing, IoT & Voice, eCommerce, personal branding, SMB marketing and in-house consulting.",
+    "start": "2009-04",
+    "end": ""
+   },
+   {
+    "company": "Wine Library TV",
+    "title": "",
+    "description": "I run Winelibrary and Winelibrary.com but became more known from Winelibrarytv.com. Winelibrarytv.com is a wine video blog that ran for 1,000 episodes. I was able to taste and review 1000s of wines from all over the world.",
+    "start": "2006-02",
+    "end": ""
+   },
+   {
+    "company": "DailyVee",
+    "title": "",
+    "description": "DailyVee is a 'daily' vlog I produce which captures behind-the-scenes footage of my life as a an HR-driven CEO, entrepreneur, and public figure. \n\nThe vlog is released daily at 12:00 EST on YouTube and Facebook. \n\nDailyVee captures me in meetings with employees, client pitches, and traveling the world for business.",
+    "start": "2015-12",
+    "end": ""
+   },
+   {
+    "company": "The #AskGaryVee Show",
+    "title": "",
+    "description": "The #AskGaryVee show is business Q&A series broadcast live on Facebook and Instagram, where I answer your questions about marketing, social media, and entrepreneurship. \n\nWant to get on the show? Tune in on Facebook and leave your name, number, location and phone-number or Tweet me your question with the hashtag #AskGaryVee\n\nNotable guests include:\nTony Robbins\nJohn Legend\nArianna Huffington\nLewis Howes\nLogic\nJon Taffer\nRyan Holiday \nSimon Sinek\nChase Jarvis\nCasey Neistat\nJake Paul\nJewel\nAnd more!",
+    "start": "2014-07",
+    "end": ""
+   }
+  ],
+  "education": [],
+  "awards": [
+   "Crain's 40 Under 40",
+   "Fortune 40 Under 40",
+   "New York Times Profile"
+  ],
+  "languages": [],
+  "followers": 6049236,
+  "posts": [
+   "The Only Essential Thing in Collectibles Is Community",
+   "Alternative Sports’ Future Rise and What It Means to Everyone",
+   "Movie Marketing Is Too Traditional",
+   "The Reasons I’m Creating VeeFriends in Public",
+   "The Secret to Winning: Think Decades, Move Daily",
+   "Students: The Land Grab of Happiness Starts Now",
+   "How Streaming Culture, Commerce & Attention Are Finally Becoming Today’s Reality",
+   "The Rise of Alternative Sports Is a Marketing Goldmine",
+   "Build for The Love of Building",
+   "Document, Don't Create"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/garyvee/",
+  "username": "garyvee",
+  "fullName": "Gary Vay-Ner-Chuk",
+  "bio": "✈️CEO/Chairman @vaynermedia\n🐈‍⬛CEO/Founder   @veefriends\n🔮Investor FB,Venmo,Twitter,Liquid Death\n📲Text me 1-212-931-5731\n🍱@vcrgroup partner",
+  "category": "",
+  "externalUrl": "http://garyvee.com/attention",
+  "followers": 12078514,
+  "following": 7649,
+  "postsCount": 10987,
+  "verified": true,
+  "private": false,
+  "photo": "https://instagram.flaj2-1.fna.fbcdn.net/v/t51.2885-19/447913595_1241465900569550_7339008130351792368_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.flaj2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHYjuVD8n1gv9nRFo1xUNkKmEjsPWR8JHAWCdUGrr0Pt60CEUkztcTS_Q7rLDdlfsw&_nc_ohc=UereUFOp3vcQ7kNvwFVjaSl&_nc_gid=ZyhECijN-f6ARuhwOJ-1Hw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPITL3FhUe7pkuYgvKuUdZm8Zuhbs4gasBtAGCn-obN-Q&oe=6AD38F6B&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "I know so many of you don’t believe me … in fact I know so many of you love to joke about my pov on this … but the second you realize it’s TRUE is the second your world and life start to actually move in the right direction. Whether you believe me today or you end up realizing how right I was in 50 years … it won’t matter until you start acting on the truth of it 🩷🩷🩷🩷🩷 I love you all - if you’re ready to finally attack your life without fear DM me now “age aint shit”\n\nPS : Go to the follow or following button in my profile and hit the ⭐️ to add to favorites\n\n#age #advice #inspiration #garyvee",
+    "hashtags": [
+     "age",
+     "advice",
+     "inspiration",
+     "garyvee"
+    ],
+    "likes": 362475,
+    "comments": 11786,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2025-07-24T12:44:34.000Z",
+    "url": "https://www.instagram.com/p/DMfbBJ5swtV/"
+   },
+   {
+    "caption": "I’m sooooooooo tired of the clouds ☁️ and the rain 🌧️ … my friends …. 99% of you who see this are wonderful and great people .. please start loving yourself ❤️ start appreciating yourself ❤️ start understanding that for many Reasons too many of you put yourselves down and beat yourselves up … STOP 🛑 THAT SHIT … I am telling you, you’re great… now believe it yourself - stop comparing, stop worrying about outside noise and judgment - start slowing down and focusing on what actually matters ❤️❤️❤️❤️🔑 SHARE THIS WITH SOMEONE YOU LOVE 💕\n\nPS: Hit the follow or following button in my profile and hit the ⭐️ to add to favorites\n\n#loveyourself #mindset #garyvee",
+    "hashtags": [
+     "loveyourself",
+     "mindset",
+     "garyvee"
+    ],
+    "likes": 692193,
+    "comments": 4458,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2025-07-28T12:47:26.000Z",
+    "url": "https://www.instagram.com/p/DMpuiXeubFY/"
+   },
+   {
+    "caption": "Sometimes silly shit goes way deeper than people realize .. I will forever  be  grateful for the parents I had and will always want to create narratives and realties that can be used by others as a framework for their own happiness and success ♥️",
+    "hashtags": [],
+    "likes": 295966,
+    "comments": 10188,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2022-08-19T23:30:49.000Z",
+    "url": "https://www.instagram.com/p/ChdZ_3UALgB/"
+   },
+   {
+    "caption": "I’m so tired of all of you thinking you “can’t” ……and thinking someone else can help you and you’re not the one!  Or when you’re putting random people on a pedestal because you envy or admire them without context .\n\nThis is the post that should wake you up …. And make you realize that you’re the fucking person that’s capable and you’re the one who can bring happiness and success to your life ❤️❤️❤️‼️☀️",
+    "hashtags": [],
+    "likes": 35621,
+    "comments": 218,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-12T23:29:33.000Z",
+    "url": "https://www.instagram.com/p/Deaao42DCwL/"
+   },
+   {
+    "caption": "Want to learn more about wine 🍷? \nText me the word -> wine to 1-212-931-5731 and I’ll update you from time to time \n\nThese old wine reviews I use to do on @winelibrary TV make me want to come out of retirement and do a wine of the week on Wednesdays here on Instagram … Whatya think ?\n\nStory: I was hyped to taste this wine, it was a a top flight white Rhone wine from a importer I adored and the nose aka the bouquet was awesome but man o man was this wine lacking any depth or flavor once I took my first and second sip …",
+    "hashtags": [],
+    "likes": 6297,
+    "comments": 138,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-12T12:53:59.000Z",
+    "url": "https://www.instagram.com/p/DeZRz3qOmHD/"
+   },
+   {
+    "caption": "It’s not over yet …… I love you ❤️ and when you give love ..❤️.. they give it back ✈️ \n\n#jets #nyjets #newyorkjets #garyvee",
+    "hashtags": [
+     "jets",
+     "nyjets",
+     "newyorkjets",
+     "garyvee"
+    ],
+    "likes": 7317,
+    "comments": 269,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T20:54:27.000Z",
+    "url": "https://www.instagram.com/p/DeXj4q2va0-/"
+   },
+   {
+    "caption": "Comparison is destroying your joy 🥹 \n\nPlease understand the most important truth in the world 🌎… the world 🌎 is filled with love and riches … no one’s success is taking yours away and no one’s success should make you feel like you’re behind and most of all …. How do you define success ? Because it better not be money and numbers and bullshit metrics …. ❤️🔑❤️🔑❤️\n\n#garyvee #comparison #lifeadvice",
+    "hashtags": [
+     "garyvee",
+     "comparison",
+     "lifeadvice"
+    ],
+    "likes": 115206,
+    "comments": 1241,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T13:30:58.000Z",
+    "url": "https://www.instagram.com/p/DeWxLHgSnBw/"
+   },
+   {
+    "caption": "Too many call it something it’s not ..\nPerfectionism, too many projects, someone else’s fault ..\n\nBut real talk …\nIt’s fear of judgment and failure in public .. and we need to get off that \n\n❤️❤️❤️ send this to someone who needs the kick\n\n#motivation #inspiration #garyvee",
+    "hashtags": [
+     "motivation",
+     "inspiration",
+     "garyvee"
+    ],
+    "likes": 2938,
+    "comments": 101,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-10T23:47:43.000Z",
+    "url": "https://www.instagram.com/p/DeVS6QfMeyB/"
+   },
+   {
+    "caption": "Reply with the comment -> comics if you want to learn what we are up to in comic book land at @veefriends \n\nMore importantly to everyone here - dream bigger, do new things, mix it up, explore your boundaries of creativity and curiosity \n\n❤️❤️❤️\n\n#garyvee #worldrecord #veefriends",
+    "hashtags": [
+     "garyvee",
+     "worldrecord",
+     "veefriends"
+    ],
+    "likes": 2560,
+    "comments": 157,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-10T15:36:59.000Z",
+    "url": "https://www.instagram.com/p/DeUa9_hEqv3/"
+   },
+   {
+    "caption": "Man these old wine 🍷 videos make me smile 😊 …. Feels like I need to review a wine a week and get back into the game ..\n\nThoughts ???",
+    "hashtags": [],
+    "likes": 76265,
+    "comments": 1920,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T23:04:45.000Z",
+    "url": "https://www.instagram.com/p/DeSpUunPKkj/"
+   },
+   {
+    "caption": "Movie 🎥 marketing is a mess …\n\nLeave a comment saying -> Movie \nAnd we will DM you the full article \n\nMake sure your movie 🍿 business friends read this",
+    "hashtags": [],
+    "likes": 4297,
+    "comments": 793,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-09T13:49:25.000Z",
+    "url": "https://www.instagram.com/p/DeRp3TCDip4/"
+   },
+   {
+    "caption": "Stop 🛑 comparing yourself to others … stop the envy .. and stop the entitlement \n\nAnd rev up the gratitude 🙏",
+    "hashtags": [],
+    "likes": 11498,
+    "comments": 144,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-08T23:29:22.000Z",
+    "url": "https://www.instagram.com/p/DeQHcFpjDpm/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.855Z"
+}

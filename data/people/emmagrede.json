@@ -1,0 +1,356 @@
+{
+ "linkedin": {
+  "source": "apify-linkedin",
+  "url": "https://www.linkedin.com/in/emmagrede",
+  "name": "Emma Grede",
+  "headline": "Entrepreneur, CEO, Author of Start With Yourself | Host of Aspire with Emma Grede | Good American | Skims | Safely | Off Season",
+  "about": "",
+  "location": "Los Angeles, California, United States",
+  "country": "",
+  "photo": "",
+  "jobTitles": [
+   "Host",
+   "Co-Founder",
+   "Chief Executive Officer & Co-Founder",
+   "Chief Product Officer & Founding Partner",
+   "Co-Founder",
+   "Chairwoman",
+   "Board Member",
+   "Ambassador",
+   "Chairman",
+   "CEO",
+   "Group Managing Director",
+   "Business Development Director"
+  ],
+  "positions": [
+   {
+    "company": "Aspire with Emma Grede",
+    "title": "Host",
+    "description": "Host of The Aspire with Emma Grede Podcast.\n\nAspire with Emma Grede is more than a podcast—it’s a masterclass in ambition, heart, and high performance. I dive into unfiltered conversations with visionaries, disruptors, and next-level thinkers—unpacking their habits, philosophies, and strategies.\n\nFrom career advice to mental wellness, business strategy to personal growth, every episode delivers data-driven insights and real-world tools to help you turn your dreams into reality. This is where purpose meets power. And it all starts with you.",
+    "start": {
+     "month": "May",
+     "year": 2025,
+     "text": "May 2025"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Off Season",
+    "title": "Co-Founder",
+    "description": "Emma Grede, alongside Kristin Juszczyk, is a co-Founder of Off Season, a sports apparel brand designed for fans who want both quality and style.",
+    "start": {
+     "month": "Jan",
+     "year": 2025,
+     "text": "Jan 2025"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "GOOD AMERICAN",
+    "title": "Chief Executive Officer & Co-Founder",
+    "description": "Emma Grede is the CEO and Co-Founder of Good American, the first fully inclusive fashion brand that celebrates all dimensions of female power. In October 2016, Grede launched Good American alongside Khloé Kardashian. What started as the largest denim launch in history, Good American is now an iconic inclusive fashion line of denim, ready-to-wear, swim, shoes and activewear.",
+    "start": {
+     "month": "Oct",
+     "year": 2016,
+     "text": "Oct 2016"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "SKIMS",
+    "title": "Chief Product Officer & Founding Partner",
+    "description": "Grede is a founding partner and Chief Product Officer of SKIMS, a solutions-oriented brand creating the next generation of underwear, loungewear and shapewear.",
+    "start": {
+     "year": 2019,
+     "text": "2019"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Safely",
+    "title": "Co-Founder",
+    "description": "Grede, alongside Kris Jenner, is a co-Founder of Safely, the plant-powered cleaning brand delivering chemical-free cleaning products to the masses.",
+    "start": {
+     "year": 2021,
+     "text": "2021"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Fifteen Percent Pledge",
+    "title": "Chairwoman",
+    "description": "",
+    "start": {
+     "text": "2020",
+     "year": 2020
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Baby2Baby",
+    "title": "Board Member",
+    "description": "",
+    "start": {
+     "text": "2017",
+     "year": 2017
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Women for Women International",
+    "title": "Ambassador",
+    "description": "",
+    "start": {
+     "text": "Oct 2015",
+     "month": "Oct",
+     "year": 2015
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "ITB Worldwide",
+    "title": "Chairman",
+    "description": "",
+    "start": {
+     "text": "Jun 2013",
+     "month": "Jun",
+     "year": 2013
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "ITB Worldwide",
+    "title": "CEO",
+    "description": "",
+    "start": {
+     "text": "Jan 2013",
+     "month": "Jan",
+     "year": 2013
+    },
+    "end": {
+     "text": "Jan 2016",
+     "month": "Jan",
+     "year": 2016
+    }
+   },
+   {
+    "company": "ITB Worldwide",
+    "title": "Group Managing Director",
+    "description": "",
+    "start": {
+     "text": "2008",
+     "year": 2008
+    },
+    "end": {
+     "text": "Jun 2013",
+     "month": "Jun",
+     "year": 2013
+    }
+   },
+   {
+    "company": "Saturday Group",
+    "title": "Business Development Director",
+    "description": "",
+    "start": {
+     "text": "2006",
+     "year": 2006
+    },
+    "end": {
+     "text": "2008",
+     "year": 2008
+    }
+   }
+  ],
+  "education": [
+   {
+    "school": "London College of Fashion, University of the Arts London",
+    "description": "HDN"
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "skills": [
+   "Marketing Strategy",
+   "Marketing Communications",
+   "Endorsements",
+   "Licensing",
+   "Celebrity",
+   "Talent Acquisition",
+   "Talent Management",
+   "Talent Booking",
+   "New Business Development",
+   "Brand Management",
+   "Business Development",
+   "Strategic Partnerships",
+   "Press Releases",
+   "Entertainment",
+   "Entrepreneurship",
+   "Fashion",
+   "Television",
+   "Management",
+   "Sponsorship",
+   "Public Relations",
+   "Business Strategy"
+  ],
+  "followers": 85863,
+  "posts": []
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/emmagrede/",
+  "username": "emmagrede",
+  "fullName": "Emma Grede",
+  "bio": "Entrepreneur, CEO, Author\n📖 START WITH YOURSELF\n🎙️ @aspirewithemmagrede\n💼 @goodamerican @skims @offseasonbrand\n💛 @baby2baby @obamafoundation",
+  "category": "None",
+  "externalUrl": "https://linktr.ee/emmagrede",
+  "followers": 1637967,
+  "following": 382,
+  "postsCount": 1564,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/489529876_3061949330621121_4731705109798275046_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=GFekZ5sJasQQ7kNvwFiU_jA&_nc_oc=AdrUwRf_262nV4m4Gjaa6Lb3lF12u8_XLtWb08u5vGUHoAg75qSUDYbTkIK0xiSW8Grha0-cCYnsvZ-HHeKmVJgb&_nc_zt=24&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_ss=70689&oh=00_AQNGB4MJesV8cqXR_sErZSymm4k871EzTXuZyXnme2bOpQ&oe=6AD39DEC",
+  "posts": [
+   {
+    "caption": "It’s here!!!!! 💛\n\nMy debut book, Start With Yourself is officially out in the world.\n\nA business book that happens to start with the most important business you’ll ever run, yourself.\n\nFrom seeing my face on a billboard in Times Square… to holding this book in my hands… to watching it move through the city on a taxi, I’m still taking it all in. 🥹 Thank YOU for all of the love!\n\nThis was never just about a book. It’s about doing the work, showing up for yourself, and choosing growth every single day.\n\nGrateful for this moment… and for you being part of it. It’s time to Start With Yourself ✨",
+    "hashtags": [],
+    "likes": 103114,
+    "comments": 3531,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-04-14T13:57:24.000Z",
+    "url": "https://www.instagram.com/p/DXHVSCKlkQ5/"
+   },
+   {
+    "caption": "Please don’t talk to me about balance! We can’t do it all or have it all, ALL the time—and that’s perfectly okay. It’s about accepting the inevitable tradeoffs, doing what you can, when you can and embracing the idea that sometimes “balance” may not exist.\n\n@gwynethpaltrow \n@goop",
+    "hashtags": [],
+    "likes": 177947,
+    "comments": 1822,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2024-11-12T15:00:45.000Z",
+    "url": "https://www.instagram.com/p/DCRoswuvovc/"
+   },
+   {
+    "caption": "I WROTE A BOOK!!! 📘💫\n\nFor the past two years, I’ve been working on what has honestly been the hardest, most personal, and most important project of my life. It’s called START WITH YOURSELF. A new vision for work and life. \n\nIt’s a no-BS guide for anyone who wants to create meaningful success on their own terms.\n\nI wanted to talk honestly about what it really takes to build something from the ground up and share what I’ve learned about leadership, money, leveling up your career while having a family and work/life balance too obvs!!\n\nNothing happens overnight, but it’s my belief that you absolutely can engineer your life to match your wildest dreams. That’s what START WITH YOURSELF is all about. It’s my philosophy, a mindset shift and most importantly it’s a guide for anyone ready to make the most of who they are. Because everything Starts with Yourself ✨💛\n\nSTART WITH YOURSELF is yours April 2026! Preorder today wherever you buy books or via the link in bio!",
+    "hashtags": [],
+    "likes": 58311,
+    "comments": 3098,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2025-10-21T14:30:07.000Z",
+    "url": "https://www.instagram.com/p/DQE1WMvjqDp/"
+   },
+   {
+    "caption": "I think we can all agree on that 💅\n\nNew episode of of Aspire drops tomorrow (Tuesday!!!!!) 🎙️✨",
+    "hashtags": [],
+    "likes": 1630,
+    "comments": 47,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-12T15:11:00.000Z",
+    "url": "https://www.instagram.com/p/DeZhmRzBDgV/"
+   },
+   {
+    "caption": "Oh what a night!! A Seat At The Table, Los Angeles, this time at my table, in my backyard ✨\n\nThere is something incredibly powerful about putting brilliant women around one table and seeing what happens. The conversations get honest, the advice gets specific, introductions are made, ideas are shared and someone always leaves with a door open that wasn’t open before.\n\nThat is what A Seat At The Table has always been about for me. Not just bringing women into the room, but making sure we are actively helping each other move forward. Sharing what we know, asking for what we need and using what we have to create opportunities for the woman sitting next to us.\n\nWe are not each other’s competition. We can be each other’s greatest champions, and nights like this prove it!!\n\nA huge thank you to @shorton007 + @shopwithgoogle for continuing to believe in A Seat At The Table and helping me bring these incredible women together. And to @nataliereeves @drbarbarasturm @loonenwater @memoireworld @hollyflorala for making the night so special 💛\n\nThe look 💫\n@Prada @YSL @beautybychrisc @rickymotahair",
+    "hashtags": [],
+    "likes": 20697,
+    "comments": 317,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-08T16:38:11.000Z",
+    "url": "https://www.instagram.com/p/DePYYiWGuh7/"
+   },
+   {
+    "caption": "NARA!! I have watched @narasmith’s videos for YEARS, usually while scrolling late at night. So obviously I wanted to know what was really going on behind the scenes.\n\nAnd let me tell you, this woman knows EXACTLY what she’s doing.\n\nAt just 24, Nara has turned one of the most recognizable formats on the internet into a multimillion-dollar business, and she’s already thinking about what she wants to own and build next.\n\nYou’ll learn: ✨ How Nara turned viral videos into a real business ✨ Why she uses brand deals to test what her audience will actually buy ✨ How she and Lucky think about money and building wealth ✨ Why she still films and edits every video herself ✨ What the internet gets completely wrong about her ✨ Why social media is only the beginning\n\nI LOVED this conversation!! There is so much more to Nara than you think you know.\n\nOur episode is out now on @youtube , @applepodcasts , @spotify and wherever you listen 🎙️✨",
+    "hashtags": [],
+    "likes": 37692,
+    "comments": 726,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T13:00:06.000Z",
+    "url": "https://www.instagram.com/p/DeO_aiEOR4Y/"
+   },
+   {
+    "caption": "The reality is…. I’M TIRED!!!",
+    "hashtags": [],
+    "likes": 24123,
+    "comments": 328,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-07T15:47:30.000Z",
+    "url": "https://www.instagram.com/p/DeMtychlCxL/"
+   },
+   {
+    "caption": "I have spent my entire career in rooms where the conversation either opens a door or closes one. \n\n@vvanedwards has spent decades studying the science of human connection and this episode will change the way you have every conversation from here on out. Because a bad conversation isn’t just awkward. It can cost you the deal, the investment, the relationship and the opportunity you didn’t even know you were losing.\n\nYou’ll learn:\n✨ Why talking about how busy you are is quietly making you less credible\n✨ The three levels of conversation and why most people never get past level one\n✨ How the first five words out of your mouth change everything\n✨ Why women consistently undersell themselves in rooms that matter and exactly how to stop\n✨ The question that reveals everything about how someone thinks about money and opportunity\n\nThis is one of those episodes you’re going to want to take notes on! Our episode is out now on @youtube, @applepodcasts, @spotify and wherever you listen 🎙️✨",
+    "hashtags": [],
+    "likes": 2754,
+    "comments": 68,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-06T13:03:03.000Z",
+    "url": "https://www.instagram.com/p/DeJ13mxqCpO/"
+   },
+   {
+    "caption": "Emma Grede has built her career by turning ambition into execution.⁠\n⁠\nFor Boardroom’s latest Cover Story, she opens up to Rich Kleiman about the mindset behind her roles at Good American and SKIMS, what separates a real business from celebrity marketing, and the lessons she’s learned around leadership, reputation, and knowing when to evolve.⁠\n⁠\nFrom growing up around financial stress in London to becoming one of fashion’s most influential entrepreneurs, Grede has already built more than most. Her view now: she’s still just getting going.⁠\n⁠\nOur October cover is live at the link in bio.⁠\n⁠\n(📸: @sage.east)",
+    "hashtags": [],
+    "likes": 14335,
+    "comments": 257,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-05T15:05:47.000Z",
+    "url": "https://www.instagram.com/p/DeHfYUqjEeB/"
+   },
+   {
+    "caption": "I learned early that no one was coming to save me. And I actually think there’s a lot of power in knowing that. Taking responsibility for your own life changes everything.\n\nI loved joining @SoFi’s Smart Money Social Club for a conversation about building wealth and taking ownership of your financial future.\n\nI’m on a mission to get more women talking about money — how we earn it, save it, invest it and ultimately grow it. Because earning money is one thing. Making that money work for you is another!!\n\n#SoFiPartner",
+    "hashtags": [
+     "SoFiPartner"
+    ],
+    "likes": 5173,
+    "comments": 81,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-03T18:57:48.000Z",
+    "url": "https://www.instagram.com/p/DeCwTVuPrmg/"
+   },
+   {
+    "caption": "New office so obviously the looks had to follow!! ✨\n\nDetails 💫\n@beautybychrisc glam, @rickymotahair hair, @weariswilliam styling \n@ferragamo trench, @tomford heels\n@maxmara suit, @tomford heels, @loonenwater\n@ysl head to toe\n@co top and skirt, @gucci heels, @jenniferfisherjewelry earrings\n@muglerofficial dress, @ysl heels\n@ludovicdesaintsernin top and skirt, @ysl heels\n@balmain top, @newbottega pants, @ysl heels\n@ysl head to toe, @agentprovocateur glasses\n@chanelofficial jacket, @ysl jeans and heels",
+    "hashtags": [],
+    "likes": 35104,
+    "comments": 617,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-02T17:05:17.000Z",
+    "url": "https://www.instagram.com/p/Dd_-iFdKhvd/"
+   },
+   {
+    "caption": "I have been fascinated by Ari Emanuel since I was 22 years old. Long before I ever thought I’d get to sit across from him.  He started in the mailroom. He grew up with severe dyslexia and carried a rage that he channelled into building one of the most powerful companies in the history of entertainment. But this conversation isn’t really about the empire he built. It’s about what it took to build it and what it took to change. \nBecause the qualities that got Ari to the top, the drive, the aggression, the absolute refusal to take no for an answer, were the same ones he eventually had to let go of. That’s the harder story and it’s the one I really wanted to hear. \nIn this episode we get into: ✨ How dyslexia shaped his emotional endurance ✨ Why nobody advocates for your future more fiercely than you ✨ His relentless approach to always finding the yes ✨ The moment rage stopped being an asset ✨ What founders get wrong about how long success takes \nAri’s new memoir Roll the Calls is available now. Our episode is out on @youtube, @applepodcasts, @spotify and wherever you listen 🎙️✨",
+    "hashtags": [],
+    "likes": 5828,
+    "comments": 118,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-29T13:00:06.000Z",
+    "url": "https://www.instagram.com/p/Dd30Vf7ubr2/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.991Z"
+}

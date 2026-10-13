@@ -1,0 +1,568 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/sophiaamoruso",
+  "name": "Sophia Amoruso",
+  "headline": "Founder & Managing Partner at Trust Fund. Investor in Lovable, Wispr Flow, Superhuman, Eight Sleep, Nectar Social, Liquid Death, Public.com, and 45+ startups. Built Nasty Gal to $100M+. Wrote NYT Bestseller #GIRLBOSS.",
+  "about": "I'm the Founder & Managing Partner at Trust Fund, an early-stage venture fund backing software companies that help people and teams start, manage, and scale businesses. Our founders are killers building painkillers. \n\nOur LPs include Marc Andreessen, Jason Calacanis, David Sacks, Jeremy Liew, Andrew Chen, Chris Dixon, Jeff Jordan, Ev Williams, Paris Hilton, and Phil Hellmuth. \n\nPreviously wrote an 18-week New York Times Bestseller, #GIRLBOSS, which was adapted into a scripted Netflix series that premiered on Netﬂix, produced by Charlize Theron. \n\nStarted fashion e-tailer Nasty Gal at 22 years old and bootstrapped it to $30 million profitably, raised $60 million from Index Ventures and Thrive Capital, then scaled it to over $100 million in revenue. \n\nWent on the victory lap and was featured on the cover of Forbes magazine's 2016 America's Richest Self-Made Women issue (returned the dress I wore in the photo) and featured in the Fortune 40 under 40, Forbes 30 under 30, Inc. 30 under 30, and Fast Company’s Most Creative People in Business lists. \n\nMy interests include drinking coffee on an empty stomach, choosing the best seats on commercial aircraft, and harvesting my hard-won experience for the next generation of founders.",
+  "location": "United States",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/D4E03AQEH3vyC_t4ZeQ/profile-displayphoto-scale_200_200/B4EaClR7fxGoAc-/0/1789479337024?e=2147483647&v=beta&t=bh_JD_bz_VA-RpNrpSe0YcE19xZ9-PGlmDL1mjCAp5g",
+  "jobTitles": [
+   "Founder & Managing Partner",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor & Advisor",
+   "Investor & Advisor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor & Advisor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor",
+   "Investor & Advisor",
+   "Founder",
+   "Investor",
+   "Investor",
+   "Limited Partner",
+   "Investor",
+   "Investor & Advisor",
+   "Advisor",
+   "Limited Partner",
+   "Limited Partner",
+   "Investor",
+   "Investing in Stealth Founders",
+   "Investing in Stealth Founders",
+   "Investing in Stealth Founders",
+   "Investing in Stealth Founders"
+  ],
+  "positions": [
+   {
+    "company": "Trust Fund",
+    "title": "",
+    "description": "Trust Fund is an early-stage venture fund focused exclusively on investing in tech-enabled products that help people start and build businesses. \n\nLPs include Marc Andreessen, David Sacks, Jason Calacanis, Chris Dixon, Jeremy Liew, Paris Hilton, Ev Williams, Naomi Gleit, Andrew Chen, Jeff Jordan, Anthony Noto, Jesse Draper, Rob Hayes, and Phil Hellmuth.",
+    "start": "2022-12",
+    "end": ""
+   },
+   {
+    "company": "Wispr Flow",
+    "title": "",
+    "description": "",
+    "start": "2026-08",
+    "end": ""
+   },
+   {
+    "company": "imagi",
+    "title": "",
+    "description": "",
+    "start": "2026-08",
+    "end": ""
+   },
+   {
+    "company": "Phia",
+    "title": "",
+    "description": "",
+    "start": 2026,
+    "end": ""
+   },
+   {
+    "company": "Brief (a16z sr005)",
+    "title": "",
+    "description": "",
+    "start": "2025-12",
+    "end": ""
+   },
+   {
+    "company": "Lovable",
+    "title": "",
+    "description": "",
+    "start": "2025-08",
+    "end": ""
+   },
+   {
+    "company": "Mozi",
+    "title": "",
+    "description": "",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "Howie",
+    "title": "",
+    "description": "",
+    "start": "2025-01",
+    "end": ""
+   },
+   {
+    "company": "Carry",
+    "title": "",
+    "description": "",
+    "start": "2024-04",
+    "end": ""
+   },
+   {
+    "company": "GetDynasty",
+    "title": "",
+    "description": "",
+    "start": "2024-01",
+    "end": ""
+   },
+   {
+    "company": "Fincent",
+    "title": "",
+    "description": "",
+    "start": "2023-10",
+    "end": ""
+   },
+   {
+    "company": "Nectar AI",
+    "title": "",
+    "description": "",
+    "start": "2023-10",
+    "end": ""
+   },
+   {
+    "company": "Packsmith",
+    "title": "",
+    "description": "",
+    "start": "2023-09",
+    "end": ""
+   },
+   {
+    "company": "Toothio",
+    "title": "",
+    "description": "",
+    "start": "2023-09",
+    "end": ""
+   },
+   {
+    "company": "Browse AI",
+    "title": "",
+    "description": "",
+    "start": "2023-08",
+    "end": ""
+   },
+   {
+    "company": "Baton",
+    "title": "",
+    "description": "",
+    "start": "2023-04",
+    "end": ""
+   },
+   {
+    "company": "GIFTSHOP",
+    "title": "",
+    "description": "",
+    "start": "2023-02",
+    "end": ""
+   },
+   {
+    "company": "Plot",
+    "title": "",
+    "description": "",
+    "start": "2022-12",
+    "end": ""
+   },
+   {
+    "company": "Pogo",
+    "title": "",
+    "description": "",
+    "start": "2022-07",
+    "end": ""
+   },
+   {
+    "company": "MoonPay",
+    "title": "",
+    "description": "",
+    "start": "2021-12",
+    "end": ""
+   },
+   {
+    "company": "Superhuman",
+    "title": "",
+    "description": "",
+    "start": "2021-10",
+    "end": ""
+   },
+   {
+    "company": "Pipe",
+    "title": "",
+    "description": "",
+    "start": "2021-05",
+    "end": ""
+   },
+   {
+    "company": "Kindbody",
+    "title": "",
+    "description": "",
+    "start": "2021-07",
+    "end": ""
+   },
+   {
+    "company": "Cove",
+    "title": "",
+    "description": "",
+    "start": "2021-07",
+    "end": ""
+   },
+   {
+    "company": "Ceremonia",
+    "title": "",
+    "description": "",
+    "start": "2021-05",
+    "end": ""
+   },
+   {
+    "company": "Therabody",
+    "title": "",
+    "description": "",
+    "start": "2021-02",
+    "end": ""
+   },
+   {
+    "company": "Eight Sleep",
+    "title": "",
+    "description": "",
+    "start": "2021-01",
+    "end": ""
+   },
+   {
+    "company": "Taika",
+    "title": "",
+    "description": "",
+    "start": "2021-01",
+    "end": ""
+   },
+   {
+    "company": "FYPM App",
+    "title": "",
+    "description": "",
+    "start": 2021,
+    "end": ""
+   },
+   {
+    "company": "Popshop Live",
+    "title": "",
+    "description": "",
+    "start": "2020-11",
+    "end": ""
+   },
+   {
+    "company": "Golde",
+    "title": "",
+    "description": "",
+    "start": "2021-04",
+    "end": ""
+   },
+   {
+    "company": "Public",
+    "title": "",
+    "description": "",
+    "start": 2020,
+    "end": ""
+   },
+   {
+    "company": "Business Class",
+    "title": "",
+    "description": "Business Class is the ultimate membership-based digital entrepreneurship community and course for founders, freelancers, solopreneurs, creators, and side hustlers.",
+    "start": "2020-07",
+    "end": ""
+   },
+   {
+    "company": "Blueland",
+    "title": "",
+    "description": "",
+    "start": "2019-10",
+    "end": ""
+   },
+   {
+    "company": "Liquid Death Mountain Water",
+    "title": "",
+    "description": "",
+    "start": "2019-10",
+    "end": ""
+   },
+   {
+    "company": "Shrug Capital",
+    "title": "",
+    "description": "",
+    "start": 2019,
+    "end": ""
+   },
+   {
+    "company": "Cafe X",
+    "title": "",
+    "description": "",
+    "start": "2018-07",
+    "end": ""
+   },
+   {
+    "company": "Chillhouse",
+    "title": "",
+    "description": "",
+    "start": "2018-01",
+    "end": ""
+   },
+   {
+    "company": "Passport",
+    "title": "",
+    "description": "",
+    "start": "2017-12",
+    "end": ""
+   },
+   {
+    "company": "ICONIQ",
+    "title": "",
+    "description": "",
+    "start": 2013,
+    "end": ""
+   },
+   {
+    "company": "Index Ventures",
+    "title": "",
+    "description": "",
+    "start": 2013,
+    "end": ""
+   },
+   {
+    "company": "1stdibs.com",
+    "title": "",
+    "description": "",
+    "start": "2012-05",
+    "end": ""
+   },
+   {
+    "company": "Stealth AI Startup",
+    "title": "",
+    "description": "",
+    "start": "2012-08",
+    "end": ""
+   },
+   {
+    "company": "Stealth",
+    "title": "",
+    "description": "",
+    "start": "2012-08",
+    "end": ""
+   },
+   {
+    "company": "Stealth Company",
+    "title": "",
+    "description": "",
+    "start": "2012-08",
+    "end": ""
+   },
+   {
+    "company": "Stealth Startup",
+    "title": "",
+    "description": "",
+    "start": "2023-12",
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "Girlboss",
+    "description": "Founded Girlboss Media. Pre-seed led by Lightspeed. Exited in 2019."
+   },
+   {
+    "school": "Netflix",
+    "description": "Netflix series based on my 2014 New York Times Bestselling Book, #GIRLBOSS. Produced by Charlize Theron."
+   },
+   {
+    "school": "Marie Claire",
+    "description": ""
+   },
+   {
+    "school": "Nasty Gal",
+    "description": "Nasty Gal was a pioneering direct-to-consumer fashion startup. Bootstrapped to $30M in revenue, raised $50M from Index, built to over $100M in annual revenue."
+   }
+  ],
+  "awards": [
+   "Signature Block's Emerging 50",
+   "Fortune 40 under 40",
+   "Vanity Fair's Best Dressed List | 2014",
+   "Vanity Fair's New Establishment List",
+   "Fast Company Most Innovative Companies",
+   "Forbes 30 under 30",
+   "Inc. 30 under 30",
+   "Marie Claire's 2023 Power List"
+  ],
+  "languages": [],
+  "followers": 260977,
+  "posts": [
+   "My laundry room had its own phone number",
+   "Who would come to my birthday?",
+   "What if I already peaked?",
+   "Women are sleeping on AI and it’s going to cost them",
+   "I am not your flash card",
+   "No name tags, no networking hours",
+   "Fried but inspired",
+   "Launching from a rock",
+   "Here are some harsh truths",
+   "So why did I create Business Class anyway?"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/sophiaamoruso/",
+  "username": "sophiaamoruso",
+  "fullName": "Sophia Amoruso",
+  "bio": "Built Nasty Gal to $100M+\nFunding startups at @trustfund.vc \nInvestor in @wisprflow @lovable.dev @eightsleep @liquiddeath\nNYT Bestselling Author",
+  "category": "",
+  "externalUrl": "https://linktr.ee/sophiaamoruso",
+  "followers": 660030,
+  "following": 5950,
+  "postsCount": 2945,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-19/799855763_18633072148057173_3902951257898747736_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH43o1cygfg9JqWzga7GZ_Hfmk8XS81jBxIS3RzMv9j16cyjWns1opR75tTdy1xbgg&_nc_ohc=4B57xaWrKvEQ7kNvwHhc2A6&_nc_gid=HFH_xb2xfi-HTM8X_sKb4Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNtR7HG20PoXZZnIGcQlxk6ZqhYecWf8qY1kjej43wf0A&oe=6AD38599&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "Swipe through for some of the seven specific qualities Sophia Amoruso looks for that separate the founders worth her money from those who will likely fall short.",
+    "hashtags": [],
+    "likes": 4890,
+    "comments": 107,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-05-30T14:00:33.000Z",
+    "url": "https://www.instagram.com/p/DY9yM0pFPV_/"
+   },
+   {
+    "caption": "I also write about it in a newsletter.\n\nComment “write me” below and I’ll send you the link to subscribe 🖊️ 🌀 💌",
+    "hashtags": [],
+    "likes": 44171,
+    "comments": 4226,
+    "type": "Video",
+    "location": "Roma, Italia",
+    "timestamp": "2024-09-06T15:41:55.000Z",
+    "url": "https://www.instagram.com/p/C_lMIIGNPjr/"
+   },
+   {
+    "caption": "In 2013, I wrote my first angel check. It was for $99,994.45, and into a vintage and antiques marketplace called 1stDibs. A year prior, that was by far the most amount of money I'd ever seen in my personal bank account.\n\nTo say my financial trajectory was whiplash is an understatement — it was whiplash of biblical proportions. I was shot from the bowels of San Francisco's Taqueria Cancun onto the cover of Forbes Magazine, invited to tables I never knew existed, and seated next to Silicon Valley's finest.\n\nI snuck in the back door to this endlessly fascinating world of ideas and innovation. As a founder, it's given me the ability to fundraise, recruit, and tap domain experts of all kinds. As an angel investor, it's given me a network of deal flow to invest in some pretty amazing early-stage companies.\n\nHowever, it's a network that rarely opens for people like me. For whom it does, there's a type.\n\nYou know the pedigree: they studied at Harvard, went to work at Goldman Sachs, and partied in Montauk before signing up as a venture associate to invest in alongside their b-school cronies, lobbing opportunities back and forth. They set themselves up to get rich together. So fucking smart.\n\nI hate to admit it, but over the years I've envied those guys. If I'd been one, perhaps my companies would have been more successful. If I'd been cronies with them, maybe I'd have avoided a few missteps.\n\nThis is all to say that I'm not a trust fund baby. And you likely aren't either. That's where Trust Fund comes in. Today marks the debut of Trust Fund, a venture fund focused on early-stage technology-enabled consumer businesses that make people's work and personal lives better. Think cheaper, faster, richer, healthier, more connected, more productive, longer, more sustainable.\n\nAnd in non-traditional fashion, I’m inviting founders, operators, creators, creatives, marketers, and other strategic folks to invest alongside me.\n\nI’ve reserved $1 million for accredited investors join me and existing investors like @parishilton @evhead @jason @thesamparr and Marc Andreessen as limited partners, with a minimum check size of $2,000.\n\nLearn and and apply at my link in bio.",
+    "hashtags": [],
+    "likes": 11717,
+    "comments": 477,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2023-01-19T20:11:28.000Z",
+    "url": "https://www.instagram.com/p/CnnBSXsS7Q9/"
+   },
+   {
+    "caption": "Comment “prompts” and I’ll send you the full prompts to build these for yourself 👾",
+    "hashtags": [],
+    "likes": 1263,
+    "comments": 1840,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-12T20:41:59.000Z",
+    "url": "https://www.instagram.com/p/DeaHdlgDEP0/"
+   },
+   {
+    "caption": "New angel investment alert! It’s called @wisprflow and it will change your life. Comment “FLOW” below and I’ll send you a link for three free months of Pro.",
+    "hashtags": [],
+    "likes": 657,
+    "comments": 334,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T16:41:39.000Z",
+    "url": "https://www.instagram.com/p/DeR9MzkMZWK/"
+   },
+   {
+    "caption": "Comment COMPUTER and I’ll DM you the link to try Perplexity Computer.\n\nCan I help this content agency bring in an extra $15,000?\n\nSophie runs PUKE. Her average client is worth about $5,000 a month. So we need three.\n\nI used Computer to build her a sales system that finds potential clients, researches their businesses, and helps her reach out. Sophie decides who she actually wants to work with.\n\n@perplexity #perplexitypartner",
+    "hashtags": [
+     "perplexitypartner"
+    ],
+    "likes": 605,
+    "comments": 585,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-07T09:50:50.000Z",
+    "url": "https://www.instagram.com/p/DeMEoxws87o/"
+   },
+   {
+    "caption": "Comment \"CARRY\" and I'll send you the math on venture capital, in super simple terms.",
+    "hashtags": [],
+    "likes": 4546,
+    "comments": 769,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-28T16:56:07.000Z",
+    "url": "https://www.instagram.com/p/Dd1qWPElOoQ/"
+   },
+   {
+    "caption": "@sophiaamoruso has invested in 50+ companies globally, and this is exactly what she looks for in every founder. 👀\n\nFollow @hotsmartrich for more conversations like this. ❤️",
+    "hashtags": [],
+    "likes": 846,
+    "comments": 42,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-26T21:00:10.000Z",
+    "url": "https://www.instagram.com/p/Ddw83Xaplrc/"
+   },
+   {
+    "caption": "Networking 101 🤝 Comment ‘HSR’ and I’ll send you this episode. \n\n@sophiaamoruso built a multimillion-dollar fashion empire at 22 years old and has invested in over 50 businesses.\n\nShe has gathered a network of some of the most powerful investors and businesspeople in the world. \n\nChoose your introductions wisely. Your reputation is on the line.",
+    "hashtags": [],
+    "likes": 2741,
+    "comments": 122,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-23T21:01:19.000Z",
+    "url": "https://www.instagram.com/p/DdpN8PNMzr-/"
+   },
+   {
+    "caption": "Spending money to make money 💰 \n\n@sophiaamoruso founded a multimillion-dollar fashion empire Nasty Gal at 22 years old and she’s still reaping the rewards today, even after the company was sold. \n\nComment ‘HSR’ and we’ll send you the full conversation.",
+    "hashtags": [],
+    "likes": 577,
+    "comments": 52,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-23T18:45:27.000Z",
+    "url": "https://www.instagram.com/p/Ddo-5Wbsyr0/"
+   },
+   {
+    "caption": "Angels take a seat…✍️\n\nInvestor in over 50 companies, founder of $300 million fashion empire Nasty Gal and my friend @sophiaamoruso is on @hotsmartrich tomorrow.\n\nComment ‘HSR’ to the be the first to watch.\n\n08:00AM PT | 11:00AM ET | 04:00PM GMT",
+    "hashtags": [],
+    "likes": 1091,
+    "comments": 157,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-09-22T22:33:25.000Z",
+    "url": "https://www.instagram.com/p/Ddm0URdjBj1/"
+   },
+   {
+    "caption": "Comment COMPUTER and I’ll DM you the link to try Perplexity Computer  👾\n\nThis is insane.\n\nWe surveyed 35 people to find out which new Spooky’s Kiosk flavor they wanted. It looked at past Shopify sales, analyzed it all, then gave us a new product – and the entire launch plan around it.\n\nSurvey, product, positioning, preorder page, emails, social assets, launch plan. Done.\n\nThe amount of leverage one person has now is 🤯\n\nComment COMPUTER and I’ll send you the link. \n\n#perplexitypartner @perplexity",
+    "hashtags": [
+     "perplexitypartner"
+    ],
+    "likes": 402,
+    "comments": 190,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-18T20:05:37.000Z",
+    "url": "https://www.instagram.com/p/DdcP2Koyl3q/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.883Z"
+}

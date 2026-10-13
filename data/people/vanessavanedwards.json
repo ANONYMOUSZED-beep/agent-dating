@@ -1,0 +1,227 @@
+{
+ "linkedin": {
+  "source": "linkedin-public-jsonld",
+  "url": "https://www.linkedin.com/in/vanessavanedwards",
+  "name": "Vanessa Van Edwards",
+  "headline": "Science of People",
+  "about": "I’m a behavioral researcher, bestselling author, and founder of Science of People. For…",
+  "location": "Los Angeles Metropolitan Area",
+  "country": "US",
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQHXw7DHYLxrGw/profile-displayphoto-scale_200_200/B56Z8659UCIUAc-/0/1783399702368?e=2147483647&v=beta&t=BspnnQqZr6ePL6JFatuHd1D3h-35KyH9cmt3yNIyXGY",
+  "jobTitles": [
+   "********** ************",
+   "*********** **********",
+   "**********",
+   "******* *********"
+  ],
+  "positions": [
+   {
+    "company": "Science of People",
+    "title": "",
+    "description": "",
+    "start": "",
+    "end": ""
+   },
+   {
+    "company": "***********",
+    "title": "",
+    "description": "",
+    "start": "",
+    "end": ""
+   },
+   {
+    "company": "************ * ********* *********** * ******* ******** ** ********** *********",
+    "title": "",
+    "description": "",
+    "start": "",
+    "end": ""
+   },
+   {
+    "company": "************ ********* ********** ***** ******* ******** ***** ***",
+    "title": "",
+    "description": "",
+    "start": "",
+    "end": ""
+   }
+  ],
+  "education": [
+   {
+    "school": "Emory University",
+    "description": ""
+   }
+  ],
+  "awards": [],
+  "languages": [],
+  "followers": 159093,
+  "posts": [
+   "20 Non-Awkward Icebreakers for Any Team",
+   "Pick the Power Seat in a Conference Room",
+   "Funny Responses to How Are You (& More!)",
+   "The Best Sales Kickoff Ideas for 2025: Turn Your SKO into a Game-Changer",
+   "One-on-One Meetings: A Guide for Managers and Employees",
+   "The Hidden Truth About Executive Presence (That No One Tells You)",
+   "How To Nicely Get Someone To Stop Interrupting You",
+   "What Makes Someone Charismatic?",
+   "The 43 Best Employee Appreciation Ideas by Industry",
+   "10 Fascinating Conversation Starters (or Meeting Icebreakers)",
+   "Creating Great First Impressions",
+   "Communicating Nonverbally"
+  ]
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/vvanedwards/",
+  "username": "vvanedwards",
+  "fullName": "Vanessa Van Edwards",
+  "bio": "Author of Conversation \nDM me BOOK to Order📚\nHarvard Instructor & Behavioral Researcher \nHelping you master communication! 🗣️",
+  "category": "Author",
+  "externalUrl": "https://vanessa.live",
+  "followers": 1260902,
+  "following": 662,
+  "postsCount": 4518,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-bog2-1.cdninstagram.com/v/t51.2885-19/446104058_986656526397544_3579702417519085925_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07OpqVIusDIQ7kNvwGrxRWT&_nc_oc=AdrS_R8AQcBGHxQdA389i-2yZY2zpr-70iNLtxRR58mexLyEo7bTQmWRFuQ2RpI7qcM&_nc_zt=24&_nc_ht=scontent-bog2-1.cdninstagram.com&_nc_ss=70a8c&oh=00_AQM8vD1Q7nQ_w0qPKuvXCWbnkQFlaQWNar3DD_tgs537RQ&oe=6AD39A70",
+  "posts": [
+   {
+    "caption": "I am so glad you found me! Thought it was time I re-introduced myself. \n\nHi, I’m Vanessa! Welcome to my corner of the internet! \n\nI’m a recovering awkward person, bestselling author, lover of behavior research, mom of two, ambivert, social overthinker. I’m here to be aggressively helpful to you.\n\nSo lovely to meet you ❤️\n\n#gettoknowme #introduction #reintroduction #contentcreator #factsaboutme",
+    "hashtags": [
+     "gettoknowme",
+     "introduction",
+     "reintroduction",
+     "contentcreator",
+     "factsaboutme"
+    ],
+    "likes": -1,
+    "comments": 53,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-05T17:48:51.000Z",
+    "url": "https://www.instagram.com/p/DeHx6MLhSxh/"
+   },
+   {
+    "caption": "We all want 3 things: to be understood, chosen and loved ❤️\n\nConversation expert @vvanedwards says great conversations are one of the fastest ways to get there.\n\nWhether it’s with your boss, your partner or someone you’ve just met, deeper conversations can help you skip the small talk and feel genuinely understood.\n\nWhat’s the best conversation you’ve had recently?\n\nComment ‘more’ and we’ll DM you this conversation.",
+    "hashtags": [],
+    "likes": 19136,
+    "comments": 462,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-09-10T20:00:13.000Z",
+    "url": "https://www.instagram.com/p/DdHpOpnhgVJ/"
+   },
+   {
+    "caption": "Never Ever Say “Nice To Meet You” | @jenniferhudsonshow",
+    "hashtags": [],
+    "likes": 1509008,
+    "comments": 3829,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2025-12-26T18:28:06.000Z",
+    "url": "https://www.instagram.com/p/DSvJHzLDula/"
+   },
+   {
+    "caption": "Loved this quote by @jennifer.garner on @aspirewithemmagrede \n\nI know I’ve found the smallest of kind gestures to make the biggest impact.\n\nA thoughtful text. Holding the door. Checking in on someone. Letting someone merge in traffic. Complimenting a stranger. Remembering the little thing someone mentioned weeks ago.\n\nYou never really know what someone is carrying, and a tiny gesture that takes you five seconds might be the thing that makes their entire day a little lighter.\n\nBe the reason someone leaves an interaction feeling a little more loved than they did before. 🤍\n\nWhat’s a small act of kindness someone has done for you that you’ll never forget?\n\n#Kindness #GoodPeople #DailyReminder #PositiveVibes #HumanConnection",
+    "hashtags": [
+     "Kindness",
+     "GoodPeople",
+     "DailyReminder",
+     "PositiveVibes",
+     "HumanConnection"
+    ],
+    "likes": -1,
+    "comments": 19,
+    "type": "Image",
+    "location": "",
+    "timestamp": "2026-10-12T16:51:26.000Z",
+    "url": "https://www.instagram.com/p/DeZs9hIBRql/"
+   },
+   {
+    "caption": "Comment 'Vanessa' to get your copy of Vanessa Van Edward's new book Conversations!\n\n@vvanedwards is such a beautiful human trying to achieve the same mission as I am - to make the world better communicators. And if you love what I teach on communication, you'll definitely love the lessons she shares in her incredible book.\n\nSo comment 'Vanessa' and I'll send you the link to get your copy!!",
+    "hashtags": [],
+    "likes": 1628,
+    "comments": 289,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T06:58:09.000Z",
+    "url": "https://www.instagram.com/p/DeQ6tbTDKxa/"
+   },
+   {
+    "caption": "Quick question: what do you think successful people do that the rest of us don’t?\n\nThe usual guesses are grit, a 5 a.m. alarm, or some genius-level IQ.\n\nWhat I saw up close was a lot smaller than that, and a lot easier to copy. Three of the patterns are about how they think. Two are about how they treat people, especially the people who can’t do anything for them.\n\nAnd every one is small enough to try in your very next conversation.\n\nI’ll share the research behind each one. (Including the one that didn’t hold up. Yes, I’ll tell you which.)\n\nYour pre-order of Conversation is your ticket in. Follow me, then comment “BOOK” and I’ll send you the link.",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 59,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-09T21:39:58.000Z",
+    "url": "https://www.instagram.com/p/DeSftpBklW6/"
+   },
+   {
+    "caption": "Being vulnerable and asking for things is one of my least favorite things to do. But this community has been so incredible to me, I wanted to just be real about how big my dream of reaching the New York Times Best Seller List is. If you’ve already ordered Conversation, thank you so much for your support. If you haven’t, or you’re thinking about it - please consider TODAY being that day! You can comment BOOK for the lnk. ❤️ #NYTbestsellerslist",
+    "hashtags": [
+     "NYTbestsellerslist"
+    ],
+    "likes": -1,
+    "comments": 408,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T16:43:33.000Z",
+    "url": "https://www.instagram.com/p/DeR9s9YCkaS/"
+   },
+   {
+    "caption": "The simplest way to keep someone talking might be something you already do without realizing.\n\nVanessa Van Edwards explains that a slow triple nod can encourage someone to speak 67% longer. It signals that you’re following their pace, listening and giving them the space to continue.\n\nYou’lll learn: \n👂 Great listening isn’t only about what you say\n🗣️ A slow triple nod can encourage someone to keep talking\n🤝 Small signals can make people feel heard and understood\n\nComment “VANESSA” and we’ll DM you the full episode link. Watch the full conversation with @vvanedwards and @emmagrede now on Aspire on @youtube, @applepodcasts, @spotify and wherever you listen 🎙️✨",
+    "hashtags": [],
+    "likes": 9079,
+    "comments": 97,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T18:40:06.000Z",
+    "url": "https://www.instagram.com/p/DePmMzxPl44/"
+   },
+   {
+    "caption": "What a whirlwind launch week! I am so grateful to @CBSMornings @ABC @dianermacedo and @barnesandnoble for the tremendous support this week. Listen, if you haven’t grabbed your copy of Conversation yet please do - you will LOVE it! Comment BOOK to grab it here! 📚💚",
+    "hashtags": [],
+    "likes": -1,
+    "comments": 95,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T20:35:53.000Z",
+    "url": "https://www.instagram.com/p/DePzZfdS_ES/"
+   },
+   {
+    "caption": "Why everyone should have a signature question — full episode with @vvanedwards is live now.",
+    "hashtags": [],
+    "likes": 699,
+    "comments": 9,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T17:01:24.000Z",
+    "url": "https://www.instagram.com/p/DeR_trHpa_Q/"
+   },
+   {
+    "caption": "Behavioral researcher @vvanedwards shares her best relationship advice, after nearly 20 years with her husband: “Try asking questions that are going to level up with you partner.”",
+    "hashtags": [],
+    "likes": 407,
+    "comments": 10,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T17:08:39.000Z",
+    "url": "https://www.instagram.com/p/DePbympSCaE/"
+   },
+   {
+    "caption": "Question: does the perfect “book club book” exist?!\n\nConversation by @vvanedwards might be it 👀\n\nYesterday, our club kicked off our October focus by setting our “intention” for Conversation. It was fun because each member has an entirely different goal for the book.\n\nIf you’d like to join us for this book, it’s not too late. Comment “CLUB” and we’ll send you more information on joining.\n\nLater this month, we’ll also be doing a live Q&A with @vvanedwards 🎉🎉🎉\n\nFor those that are curious, we are featuring @robertgreeneofficial in November, @hal_elrod in January and @drbenjaminhardy / @theblakeerickson in February.\n\n#vanessavanedwards #bookthinkers #bookclub",
+    "hashtags": [
+     "vanessavanedwards",
+     "bookthinkers",
+     "bookclub"
+    ],
+    "likes": -1,
+    "comments": 13,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-08T15:48:30.000Z",
+    "url": "https://www.instagram.com/p/DePSsnPEWNf/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.986Z"
+}

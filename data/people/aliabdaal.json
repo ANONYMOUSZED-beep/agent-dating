@@ -1,0 +1,298 @@
+{
+ "linkedin": {
+  "source": "apify-linkedin",
+  "url": "https://www.linkedin.com/in/aliabdaal",
+  "name": "Ali Abdaal",
+  "headline": "👨‍⚕️ Doctor-turned-Entrepreneur + Productivity Expert + YouTuber (6M subs) 📘 New York Times Bestselling Author of “Feel-Good Productivity”",
+  "about": "I’m Ali, a YouTuber, podcaster, author of New York Times and Sunday Times bestseller, Feel-Good Productivity, and ex-Doctor working in London, UK.\n\nI make videos that explore the strategies and tools that help us live happier, healthier and more productive lives. I also have a weekly podcast called Deep Dive and I write a weekly email newsletter that contains some quick thoughts + links to interesting things.\n\nI studied Medicine for 6 years at Cambridge University, and graduated in 2018. On my YouTube channel (4.5 million subscribers) I make videos about medicine, tech and productivity. \n\n📚 Check out my New York Times Bestselling Book Feel-Good Productivity: https://go.feelgoodproductivity.com/linkedin \n💌 Subscribe to my newsletter LifeNotes: https://aliabdaal.com/li/\n🎬 Check out my YouTube videos: https://www.youtube.com/@aliabdaal\n✍️ Visit my website and blog: https://aliabdaal.com/\n🎙 Listen to the Deep Dive podcast: https://aliabdaal.com/podcast/\n🎙 Listen to the Not Overthinking podcast: https://notoverthinking.com/\n🚀 Learn more about my Part-Time YouTuber Academy: academy.aliabdaal.com",
+  "location": "London, England, United Kingdom",
+  "country": "",
+  "photo": "https://media.licdn.com/dms/image/v2/C4E03AQEBEI8UuxaO5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1646422991113?e=1793232000&v=beta&t=W3dXeqmXZ5dGz7K3lS_yCfRx2e7qn-hyBycAu-MdnPg",
+  "jobTitles": [
+   "YouTuber",
+   "Co-Founder",
+   "YouTuber",
+   "Founder",
+   "Doctor - Foundation Year 2",
+   "Doctor - Foundation Year 1",
+   "Teaching Assistant"
+  ],
+  "positions": [
+   {
+    "company": "Ali Abdaal Ltd",
+    "title": "YouTuber",
+    "description": "I explore evidence-based strategies and tools that can help us be more productive, and build a life that we love.",
+    "start": {
+     "text": "Jan 2017",
+     "month": "Jan",
+     "year": 2017
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Sparkle Studios",
+    "title": "Co-Founder",
+    "description": "",
+    "start": {
+     "month": "Jan",
+     "year": 2025,
+     "text": "Jan 2025"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "Ali Abdaal Ltd",
+    "title": "YouTuber",
+    "description": "I explore evidence-based strategies and tools that can help us be more productive, and build a life that we love.",
+    "start": {
+     "month": "Jan",
+     "year": 2017,
+     "text": "Jan 2017"
+    },
+    "end": {
+     "text": "Present"
+    }
+   },
+   {
+    "company": "6med",
+    "title": "Founder",
+    "description": "We're a team of medical students from some of the UK's top universities, who run one-day preparation courses for medical school entrance exams and interviews.",
+    "start": {
+     "month": "Jul",
+     "year": 2013,
+     "text": "Jul 2013"
+    },
+    "end": {
+     "month": "Feb",
+     "year": 2023,
+     "text": "Feb 2023"
+    }
+   },
+   {
+    "company": "West Suffolk NHS Foundation Trust",
+    "title": "Doctor - Foundation Year 2",
+    "description": "(1) Psychiatry, (2) Obstetrics & Gynaecology, (3) Stroke Medicine",
+    "start": {
+     "month": "Aug",
+     "year": 2019,
+     "text": "Aug 2019"
+    },
+    "end": {
+     "month": "Jan",
+     "year": 2022,
+     "text": "Jan 2022"
+    }
+   },
+   {
+    "company": "Cambridge University Hospitals NHS Foundation Trust",
+    "title": "Doctor - Foundation Year 1",
+    "description": "(1) Cardiology, (2) Geriatrics, (3) General Surgery",
+    "start": {
+     "month": "Aug",
+     "year": 2018,
+     "text": "Aug 2018"
+    },
+    "end": {
+     "month": "Aug",
+     "year": 2019,
+     "text": "Aug 2019"
+    }
+   },
+   {
+    "company": "Kumon",
+    "title": "Teaching Assistant",
+    "description": "Teaching assistant, helping students aged 5-18 with Maths and English. Specialised in coaching advanced students.",
+    "start": {
+     "text": "May 2008",
+     "month": "May",
+     "year": 2008
+    },
+    "end": {
+     "text": "Sep 2012",
+     "month": "Sep",
+     "year": 2012
+    }
+   }
+  ],
+  "education": [
+   {
+    "school": "University of Cambridge",
+    "description": "Bachelor of Medicine, Bachelor of Surgery (MBBS)"
+   },
+   {
+    "school": "University of Cambridge",
+    "description": "Bachelor of Arts (B.A.)"
+   },
+   {
+    "school": "Westcliff High School for Boys",
+    "description": ""
+   }
+  ],
+  "awards": [
+   "Passingham Prize",
+   "Windsor Scholarship",
+   "Scholarship"
+  ],
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "skills": [
+   "Social Media",
+   "Education",
+   "Start-ups",
+   "Medical Education",
+   "Web Development",
+   "Teaching"
+  ],
+  "followers": 208723,
+  "posts": []
+ },
+ "instagram": {
+  "source": "apify-instagram",
+  "url": "https://www.instagram.com/aliabdaal/",
+  "username": "aliabdaal",
+  "fullName": "Ali Abdaal",
+  "bio": "👨‍⚕️ Doctor turned Entrepreneur\n📚 NYT Bestselling Book: Feel-Good Productivity\n💻 @lifestylebusinessacademy\n👇Give @superfocus.me a go",
+  "category": "Entrepreneur",
+  "externalUrl": "https://go.sparkle.so/get_superfocus_ig",
+  "followers": 1164594,
+  "following": 2404,
+  "postsCount": 2166,
+  "verified": true,
+  "private": false,
+  "photo": "https://scontent-fra5-1.cdninstagram.com/v/t51.2885-19/274748400_373125061318088_2457188579456296139_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHbjVkL8OyTvRCjfPfkE_VOdWWH3ULsWPxF9wsRMv2GqSipiXL77O3RzHaWJTY4DOk&_nc_ohc=OkMar0Fg2KoQ7kNvwFMUvO-&_nc_gid=gOKxLfVlccLubjsYKMy7aA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOaoXDKpJHtgeQDvk4-bIj5kfsMQkEfU4E1cmHVxJu4lg&oe=6AD3AA8C&_nc_sid=8b3546",
+  "posts": [
+   {
+    "caption": "And then there were three 🐣\n\nLife update: our baby girl arrived to the world after 43 hours labour ❤️ and we’ve been settling into this new season of being a new little family of three 🌟\n\nMotherhood has been the biggest challenge and expansion I’ve experienced in my life so far… both the highest highs and lowest lows, incredible joy and pain and grace and grief and just so much overwhelming love. \n\nIf you’re curious to hear some of my reflections on the experience, I’m documenting navigating the journey of integrating personal growth and purpose with motherhood on both my YouTube (@izzysealey) and my newsletter Letters To My Younger Self (links in bio) 💌✨\n\nFeel free to check out my pregnancy reflections video on YT (filmed when I was 9 months huge haha) - and a post-birth debrief video is coming very soon to a YouTube channel near you… 👀",
+    "hashtags": [],
+    "likes": 123861,
+    "comments": 2540,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2025-07-01T10:05:32.000Z",
+    "url": "https://www.instagram.com/p/DLj6mp9oBEW/"
+   },
+   {
+    "caption": "Life update - we got married 🥰💍💒\n\n.\n.\n.\n\n📸 @camillajoyphotography",
+    "hashtags": [],
+    "likes": 158161,
+    "comments": 4587,
+    "type": "Image",
+    "location": "Kew Gardens",
+    "timestamp": "2024-08-21T00:21:22.000Z",
+    "url": "https://www.instagram.com/p/C-6WJTCsSQI/"
+   },
+   {
+    "caption": "It’s official! My first book Feel-Good Productivity is now available to buy around the world 🤯\n\nHumbled and awed by all the support for the book so far. Reminder to please submit your receipt on the form on the website (link in bio) to get your free ticket for my Jan 6th 2024 Annual Planning Workshop. It’s a 3-hour live online workshop where I’ll take you through some great exercises to reflect on 2023, and create goals, plans and system to help make 2024 the best year of your life 😛 you’ve got until Dec 30th to grab a copy if you’d like to attend the Annual Planning Workshop.\n\nMuch love ❤️",
+    "hashtags": [],
+    "likes": 22791,
+    "comments": 660,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2023-12-28T13:18:04.000Z",
+    "url": "https://www.instagram.com/p/C1ZeomiIfNV/"
+   },
+   {
+    "caption": "Comment ‘BIZZ’ for my top 38 business books recommendations list 📚\n\nThis book helped me become financially free. It's called The Simple Path to Wealth by JL Collins.\n\nI read this book 10 years ago when I first started investing back in 2015 and it taught me everything you need to know about investing. There's a bunch of stuff that's specific to the US, so if you're not in the US you can kind of ignore those bits. I was in the UK at the time and ignored those bits.\n\nThanks to this book, I've been investing consistently with all of the spare cash I've earned from my businesses over the last 10 years. And that has compounded to a point where I do feel broadly financially free.\n\nIf you're interested in learning how to invest properly and like the theory and the philosophy and the math behind it, you should totally check it out.\n\nComment ‘BIZZ’ for my top 38 business books recommendations list 📚",
+    "hashtags": [],
+    "likes": 466,
+    "comments": 117,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-13T00:00:02.000Z",
+    "url": "https://www.instagram.com/p/DeaeKsKlCaK/"
+   },
+   {
+    "caption": "Comment STAN to get 30 days free 👇\n\nYour first $1,000 online is a milestone - not the finish line.\n\nKelsey joined our $1K Challenge in 2025 and made her first $1,000. Since then, she’s kept building her business and was able to quit her full-time job.\n\nShe’s one of the students in our @lifestylebusinessacademy using @stanforcreators to sell online.\n\nWith Stan, you can sell digital products, take bookings for coaching calls, and build your email list with a free lead magnet.\n\nAutoDM can also send your link straight to someone’s inbox when they comment a keyword.\n\nGetting that first customer is exciting, of course, but having systems in place gives you something to keep building on.\n\nComment STAN below and I’ll send you a link to try Creator Pro free for 30 days (which is twice as many days than the normal trial) 🙌\n\n#Ad",
+    "hashtags": [
+     "Ad"
+    ],
+    "likes": 94,
+    "comments": 13,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-12T12:00:03.000Z",
+    "url": "https://www.instagram.com/p/DeZLyAmlEu5/"
+   },
+   {
+    "caption": "This method from Cal Newport helped me figure out what I wanted to do with my life.\n\nIt's called values-centric lifestyle-based career planning. The idea is simple: work backwards from the lifestyle you want.\n\nA lot of us think \"I did a degree in X, so my only options are A, B, or C.\"\n\nBut actually, start by asking yourself what kind of life you want.\n\n📅 What would your ideal week look like?\n\n💸 What would you be doing if money were no object?\n\nMost people get meaning from work. It's just that you'd probably be doing work you enjoy. So what would that look like?\n\nThen based on that, figure out what kind of career would actually facilitate that lifestyle.\n\nThis advice really resonated with me when I was in med school.\n\n🔍 Start with the life you want, then figure out the career that gets you there.\n\nIf you want to track where the 168-hours of your week goes, comment TIME for my free spreadsheet.",
+    "hashtags": [],
+    "likes": 2599,
+    "comments": 78,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-11T00:00:01.000Z",
+    "url": "https://www.instagram.com/p/DeVUovDFB2K/"
+   },
+   {
+    "caption": "Someone asked: \"My son just turned 22. What advice would you give him?\"\n\nFirstly, I don't give advice to people who aren't asking for it. So I probably wouldn't force my advice down your 22-year-old son's throat.\n\nBut if a 22-year-old came up to me and asked for general life advice, I'd say this.\n\nWhen you're 22, you don't have a lot of experience in many things. You probably did something at university, maybe had some hobbies or side hustles, but you've got a fairly narrow range of stuff you've actually tried.\n\n(P.S. Comment FOUNDATIONS below for my free 7-lesson course on how to build a $100k/year business)\n\nSo from 22 to 25, just try loads of things. Internships. Working for a small business. Random hobbies and side projects. Try learning the skills to make money independently on the internet.\n\nAnd make sure you are creating more than you are consuming. Creating doesn't have to mean content. It can mean any form of making stuff and putting it out into the world.\n\nPaul Graham has a great essay about finding work you love, and one of his guiding principles is \"always be producing.\" The people who stumble into interesting careers tend to produce a lot. Most 22-year-olds I know spend 10 hours a day consuming content other people made.\n\nShift from consumer to creator. Try enough things and you'll eventually find the one where you're like \"oh, I actually enjoyed that more than the others”, then narrow it down from there.\n\nAs Naval Ravikant says, find the thing that feels like play to you but looks like work to other people 🧙\n\nComment FOUNDATIONS below for my free 7-lesson course on how to build a $100k/year business 👇",
+    "hashtags": [],
+    "likes": 1145,
+    "comments": 24,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-10T00:30:03.000Z",
+    "url": "https://www.instagram.com/p/DeSzOKDlJZO/"
+   },
+   {
+    "caption": "Here's my current AI toolkit and what I actually use each one for:\n\n🧠 Claude Chat - for brainstorming. When I need to think through ideas, this is where I go.\n\n📅@Claudeai - as a personal assistant. Scheduling, organising, general life admin.\n\n👨‍💻 Claude Code - for coding. If you're building anything, this is genuinely incredible.\n\n🎨 Claude Design - for design work. Although honestly Google Stitch is really good for this too.\n\n🖼️ ChatGPT Images 2.0 - for image generation. Still the best for quick visuals.\n\n🗣️ @Voicepal.app - for recording yourself on the go and turning voice notes into actual usable ideas.\n\n🎤 @Wisprflow - for dictation on your computer. Talk instead of type, it's a game changer.\n\n🤝 Perplexity Deep Research - for research. When you need to go deep on a topic fast.\n\nThe key is using the right tool for the right job rather than trying to do everything in one app.\n\nBtw, if you're wanting to start your own $100k/year lifestyle business, comment FOUNDATIONS and I’ll send you the first module of our @lifestylebusinessacademy, a free 7-lesson course.",
+    "hashtags": [],
+    "likes": 1131,
+    "comments": 68,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-09T00:00:04.000Z",
+    "url": "https://www.instagram.com/p/DeQK-85FLrz/"
+   },
+   {
+    "caption": "Comment SUPERHUMAN MAIL to get 2 months free of Superhuman Mail (available for the next 9 days only).\n\nSuperhuman Mail celebrated Inbox Zero Day on October 6th so comment below for the special link as they keep the celebration going until October 16th. \n\nAfter October 16th, you can still use my link to get one month free :)\n\n#SuperhumanMailPartner #Ad @superhuman__hq",
+    "hashtags": [
+     "SuperhumanMailPartner",
+     "Ad"
+    ],
+    "likes": 102,
+    "comments": 32,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T14:00:03.000Z",
+    "url": "https://www.instagram.com/p/DePGY6HFH_E/"
+   },
+   {
+    "caption": "If you have a friend who is chronically single, send them this book 👀\n\nIt's called How to Not Die Alone by @loganury.\n\nShe's a behavioural scientist turned dating coach and she's now basically the head of behavioural science at Hinge.\n\nThe book takes insights from behavioural science and applies them to the world of dating, and it's genuinely really good.\n\nI read it about four years ago, right when I first met my wife ❤️ She actually recommended it to me on our first date. I read the book, and we are now married. So yeah, it works 😂\n\nIf you’d like more of my book recommendations, comment BOOKS down below and I’ll send you my top 100 list 👇",
+    "hashtags": [],
+    "likes": 3550,
+    "comments": 157,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-08T00:00:03.000Z",
+    "url": "https://www.instagram.com/p/DeNmKn6lKEc/"
+   },
+   {
+    "caption": "I asked Alex @Hormozi how he'd make $100k a year doing what he loves.\n\nHis answer was basically, find one super valuable service you can do for a business, charge them $100K for it, then figure out what to do with the other 364 days of the year 😂\n\n(If you want the full podcast episode, comment ALEX and I'll send it to you)\n\nWhat hit me was how casually he said it. He wasn't born with the skills to charge that much. He learned them over time to the point where hundreds of thousands feels like nothing.\n\nIt completely reset my bar for what's reasonable. Growing up, my parents were doctors, everyone I knew was a doctor. In the UK, doctor earnings basically cap out around $100k. That was all I could imagine as a reasonable income.\n\nBut after years of being an entrepreneur, running a business that does millions in revenue and profit, having friends who spend hundreds of thousands a month on ads profitably - you start to realise that $100k is actually not that much money. Provided you've learned the skills for it not to be.\n\nAnd the nice thing about skills is that everything that's a skill can be learned. If something feels like \"a lot of money\", that's just a skill issue and an exposure issue 💡\n\nAnd if you already have your own expertise and want to start your own $100k/year lifestyle business, comment FOUNDATIONS and I’ll send you the first module of our @lifestylebusinessacademy, a free 7-lesson course.",
+    "hashtags": [],
+    "likes": 864,
+    "comments": 103,
+    "type": "Video",
+    "location": "",
+    "timestamp": "2026-10-07T11:00:02.000Z",
+    "url": "https://www.instagram.com/p/DeMM5QelH0u/"
+   },
+   {
+    "caption": "i hope you enjoy using it :)\n\ncomment 'superfocus' and i'll send you the link to your DMs.",
+    "hashtags": [],
+    "likes": 502,
+    "comments": 480,
+    "type": "Sidecar",
+    "location": "",
+    "timestamp": "2026-10-07T00:00:02.000Z",
+    "url": "https://www.instagram.com/p/DeLBYN2lBrB/"
+   }
+  ]
+ },
+ "scrapedAt": "2026-10-13T05:48:22.992Z"
+}
