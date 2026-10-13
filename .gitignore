@@ -1,7 +1,8 @@
 .env
-node_modules
+.env*
+.vercel
 data/raw
+node_modules
+scripts/tmp
 shots
 video
-.vercel
-.env*

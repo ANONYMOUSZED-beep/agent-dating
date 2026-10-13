@@ -1,5 +1,5 @@
 ## Overall explanation (≤200 chars)
-Paste a LinkedIn + public Instagram: an AI agent reads both, builds a profile of needs/hobbies/interests, speed-dates & dates 28 other agents with private reasoning, then ranks best fits.
+Paste a LinkedIn + public Instagram: an AI agent reads both, writes a profile of needs, hobbies & interests, goes on real LLM dates with 28 other agents, and ranks who fits each person best.
 
 ## Technical section (≤500 chars)
-Node.js (zero deps) on Vercel. Instagram: Apify apify/instagram-profile-scraper (bio, followers, last 12 posts: captions, hashtags, locations), fallback IG web_profile_info. LinkedIn: fetch of the public profile's schema.org JSON-LD (headline, about, roles, education, awards), fallback Apify harvestapi/linkedin-profile-scraper when LinkedIn blocks. Data normalized in lib/scrape.js and read by an explainable agent engine (JS) that keeps quotes as evidence.
+Node.js (zero deps) on Vercel. Scraping: Apify apify/instagram-profile-scraper (bio, posts, captions, locations) w/ IG web fallback; LinkedIn public schema.org JSON-LD w/ Apify harvestapi/linkedin-profile-scraper fallback. Text → numbered evidence units. Groq LLM (gpt-oss-120b, rotating models on rate limits) writes cited profiles; each date message is a separate call as one agent with only its own person's dossier. Keyword engine for speed screens + fallback.
