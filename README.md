@@ -53,7 +53,7 @@ Rebuild the 29-person example from the saved scrapes: `npm run build:demo`.
 ## Tech stack
 
 - **Scraping:** Apify (`apify/instagram-profile-scraper`, `harvestapi/linkedin-profile-scraper`) + LinkedIn public profile schema.org JSON-LD via Node `fetch`.
-- **Backend:** Node.js, zero dependencies (`server.js` locally, `api/scrape.js` on Vercel).
+- **Backend:** Node.js, zero dependencies (`dev-server.js` locally, `api/scrape.js` on Vercel).
 - **Agents:** isomorphic ES modules (`public/engine/*`) — run in the browser for live dates, and in Node to build the demo.
 - **Frontend:** vanilla JS SPA, no build step. State in `localStorage`.
 - **Video:** recorded with Playwright driving the real site.

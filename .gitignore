@@ -4,3 +4,4 @@ data/raw
 shots
 video
 .vercel
+.env*

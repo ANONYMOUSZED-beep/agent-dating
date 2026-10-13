@@ -4,7 +4,7 @@
   "description": "Agentic dating: every person is represented by an AI agent that reads their LinkedIn + Instagram and goes on dates on their behalf.",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "start": "node dev-server.js",
     "build:demo": "node scripts/build-demo.mjs"
   },
   "engines": { "node": ">=18" },
